@@ -70,5 +70,5 @@ for position in D[D.keys()[0]]:
     print position;
 
 OUT = open(outfile,'w');
-json.dump(D,OUT);
+json.dump(D,OUT,indent=1);
 OUT.close();
