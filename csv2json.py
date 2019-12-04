@@ -3,6 +3,8 @@ import csv
 import json
 import re
 import sqlite3
+from copy import deepcopy as copy
+import collections
 
 infile  = sys.argv[1];
 outfile = sys.argv[2];
@@ -10,14 +12,83 @@ outfile = sys.argv[2];
 _geo_  = 'resources/allCountries.db';
 _con_  = sqlite3.connect(_geo_);
 _cur_  = _con_.cursor();
-_empty = set(['','n','X']);
+_empty = set([None,'','n','X']);
 
-def clean_rows(rows,index2column):
+_context = json.load(open('context.json'));
+
+_fields = ['rowid','name','source','function','activity','span','activity','instiution_l2','institution_l1','sofis_id'];
+
+_targets = [ 
+            {'smart_harvesting':{'':{'occupations':{'':{'@id'           :None                                    }}}}},
+            {'smart_harvesting':{'':{'name':None,'@id':None                                                        }}},
+            {'smart_harvesting':{'':{'occupations':{'':{'source'        :None                                    }}}}},
+            {'smart_harvesting':{'':{'occupations':{'':{'function'      :None                                    }}}}},
+            {'smart_harvesting':{'':{'occupations':{'':{'activity'      :None                                    }}}}},
+            {'smart_harvesting':{'':{'occupations':{'':{'start_date'    :None,'end_date':None                    }}}}},
+            {'smart_harvesting':{'':{'occupations':{'':{'activity'      :None                                    }}}}},
+            {'smart_harvesting':{'':{'occupations':{'':{'institution_l2':{'@id':None,'location':None,'name':None}}}}}},
+            {'smart_harvesting':{'':{'occupations':{'':{'institution_l1':{'@id':None,'location':None,'name':None}}}}}},
+            {'smart_harvesting':{'':{'occupations':{'':{'sofis_id'      :None                                    }}}}},
+          ];
+
+def merge(d, u):
+    for k, v in u.iteritems():
+        #if k in d and d[k]!=None and v != None and type(d[k]) != type(v):
+        #    print 'WARNING:', d[k], 'and', v, 'have different types! Skipping...';
+        #    continue;
+        if isinstance(v, collections.Mapping):
+            d[k] = merge(d.get(k,{}),v);
+        elif isinstance(v,set) or isinstance(v,list):
+            d[k] = d[k] + v;
+        elif v != None:
+            d[k] = v;
+    return d;
+
+def parse_rows(rows):
+    D = dict();
     for i in xrange(len(rows)):
+        d = dict();
         for j in xrange(len(rows[i])):
-            if rows[i][j] in _empty:
-                rows[i][j] = None;
-            rows[i][j] = clean(rows[i][j],index2column[j]);
+            merge(d,parse(rows[i][j],j));
+        person_id, occupa_id                                = d['smart_harvesting']['']['@id'], d['smart_harvesting']['']['occupations']['']['@id'];
+        d['smart_harvesting']['']['occupations'][occupa_id] = d['smart_harvesting']['']['occupations'].pop('');
+        d['smart_harvesting'][person_id]                    = d['smart_harvesting'].pop('');
+        merge(D,d);
+    return D;
+
+def parse(value,colnum):
+    field  = _fields[colnum];
+    target = copy(_targets[colnum]);
+    if value in _empty: return target;
+    if field == 'rowid':
+        target['smart_harvesting']['']['occupations']['']['@id'] = value;
+    elif field == 'name':
+        target['smart_harvesting']['']['name'] = value;
+        target['smart_harvesting']['']['@id']  = value.replace(' ','_');
+    elif field == 'source':
+        target['smart_harvesting']['']['occupations']['']['source'] = value;
+    elif field == 'function':
+        target['smart_harvesting']['']['occupations']['']['function'] = value;
+    elif field == 'activity':
+        target['smart_harvesting']['']['occupations']['']['activity'] = value;
+    elif field == 'span':
+        dates = re.findall(r'\d\d\d\d',value);
+        if len(dates)>=2:
+            target['smart_harvesting']['']['occupations']['']['start_date'] = dates[0];
+            target['smart_harvesting']['']['occupations']['']['end_date']   = dates[1];
+        elif len(dates)==1:
+            target['smart_harvesting']['']['occupations']['']['start_date'] = dates[0];
+    elif field == 'institution_l1':
+        match = re.search(r'\(.+\)',value);
+        if match and is_city(match.group()[1:-1]):
+            span = match.span();
+            target['smart_harvesting']['']['occupations']['']['institution_l1']['@id']      = value[:span[0]].strip().replace(' ','_');
+            target['smart_harvesting']['']['occupations']['']['institution_l1']['location'] = value[span[0]+1:span[1]-1];
+            target['smart_harvesting']['']['occupations']['']['institution_l1']['name']     = value[:span[0]].strip();
+        else:
+            target['smart_harvesting']['']['occupations']['']['institution_l1']['@id']      = value.replace(' ','_');
+            target['smart_harvesting']['']['occupations']['']['institution_l1']['name']     = value;
+    return target;
 
 def is_city(string): #TODO: Could even disambiguate with other information extracted #TODO: Should also normalize string with ascii column from DB
     freq = _cur_.execute("SELECT COUNT(DISTINCT geonameid) FROM alternatives WHERE alternative=?",(string.decode('utf-8'),)).fetchall()[0][0];
@@ -29,45 +100,16 @@ def is_city(string): #TODO: Could even disambiguate with other information extra
     print string, 'is not a city.';
     return False;
 
-def clean(value,field):
-    if value == None:
-        return None;
-    if field == 'span':
-        dates = re.findall(r'\d\d\d\d',value);
-        return {'from':dates[0], 'to':dates[-1]} if len(dates)==2 else {'from':dates[0], 'to':None} if len(dates)==1 else {'from':None, 'to':None} if len(dates)==0 else {'from':dates[0], 'to':dates[-1], 'other':dates[1:-2]};
-    if field == 'sofis_id':
-        try:
-            return int(value);
-        except:
-            return value;
-    if field == 'institution_l1':
-        match = re.search(r'\(.+\)',value);
-        if match and is_city(match.group()[1:-1]):
-            span = match.span();
-            return {'name':value[:span[0]].strip(), 'city':value[span[0]+1:span[1]-1]};
-        else:
-            return {'name':value, 'city':None};
-    return value;
 
 IN           = open(infile,'r');
 rows         = [row for row in csv.reader(IN)];
 index2column = rows[0];
-index2column = ['name', 'source', 'function', 'activity', 'span', 'activity', 'institution_l2', 'institution_l1', 'sofis_id']; # OVERWRITING ORIGINAL COLUMN NAMES
 column2index = {index2column[i]:i for i in xrange(len(index2column))};
-rows         = rows[1:];
+rows         = [[i]+rows[1:][i] for i in xrange(len(rows[1:]))];#adding rowids
 IN.close();
 
-clean_rows(rows,index2column);
-
-D = dict();
-for row in rows:
-    if row[0] in D:
-        D[row[0]].append({index2column[1:][i]: row[1:][i] for i in xrange(len(row[1:]))});
-    else:
-        D[row[0]] = [{index2column[1:][i]: row[1:][i] for i in xrange(len(row[1:]))}];
-
-for position in D[D.keys()[0]]:
-    print position;
+D = parse_rows(rows);
+merge(D,_context);
 
 OUT = open(outfile,'w');
 json.dump(D,OUT,indent=1);

@@ -1,2133 +1,1943 @@
 {
- "Simmel, Georg": [
-  {
-   "function": "Studium", 
-   "span": null, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Berlin", 
-    "name": "Humboldt-Universit\u00e4t Berlin"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 12708, 
-   "activity": "Friedrich-Wilhelms-Universit\u00e4t Berlin"
+ "@context": {
+  "function": "https://schema.org/roleName", 
+  "name": "https://schema.org/name", 
+  "end_date": "https://schema.org/endDate", 
+  "Person": "https://schema.org/Person", 
+  "institution_l1": {
+   "@id": "@type", 
+   "@type": "https://schema.org/Organization"
   }, 
-  {
-   "function": "Promotion", 
-   "span": {
-    "to": null, 
-    "from": "1881"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Berlin", 
-    "name": "Humboldt-Universit\u00e4t Berlin"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 12708, 
-   "activity": "Friedrich-Wilhelms-Universit\u00e4t Berlin"
+  "source": "https://schema.org/citation", 
+  "location": "https://schema.org/location", 
+  "activity": "https://schema.org/description", 
+  "cv_entries": "https://schema.org/hasOccupation", 
+  "start_date": "https://schema.org/startDate", 
+  "Occupation": "https://schema.org/Role"
+ }, 
+ "smart_harvesting": {
+  "Simmel,_Georg": {
+   "@id": "Simmel,_Georg", 
+   "name": "Simmel, Georg", 
+   "occupations": {
+    "32": {
+     "function": "Habilitation", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Humboldt-Universit\u00e4t_Berlin", 
+      "location": "Berlin", 
+      "name": "Humboldt-Universit\u00e4t Berlin"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Friedrich-Wilhelms-Universit\u00e4t Berlin", 
+     "@id": 32, 
+     "start_date": "1885"
+    }, 
+    "33": {
+     "function": "Privatdozent", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Humboldt-Universit\u00e4t_Berlin", 
+      "location": "Berlin", 
+      "name": "Humboldt-Universit\u00e4t Berlin"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Friedrich-Wilhelms-Universit\u00e4t Berlin", 
+     "@id": 33, 
+     "start_date": "1885"
+    }, 
+    "34": {
+     "function": "Au\u00dferordentlicher Professor", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Humboldt-Universit\u00e4t_Berlin", 
+      "location": "Berlin", 
+      "name": "Humboldt-Universit\u00e4t Berlin"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Friedrich-Wilhelms-Universit\u00e4t Berlin", 
+     "@id": 34, 
+     "start_date": "1900"
+    }, 
+    "35": {
+     "function": "Ordentlicher Professor", 
+     "end_date": "1918", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "University_of_Strasbourg", 
+      "location": "Stra\u00dfburg", 
+      "name": "University of Strasbourg"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Kaiser-Wilhelm-Universit\u00e4t Stra\u00dfburg", 
+     "@id": 35, 
+     "start_date": "1914"
+    }, 
+    "36": {
+     "function": "Ehrendoktorat ", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Albert-Ludwigs-Universit\u00e4t_Freiburg", 
+      "location": "Freiburg im Breisgau", 
+      "name": "Albert-Ludwigs-Universit\u00e4t Freiburg"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Albert-Ludwigs-Universit\u00e4t Freiburg ", 
+     "@id": 36, 
+     "start_date": "1911"
+    }, 
+    "30": {
+     "function": "Studium", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Humboldt-Universit\u00e4t_Berlin", 
+      "location": "Berlin", 
+      "name": "Humboldt-Universit\u00e4t Berlin"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Friedrich-Wilhelms-Universit\u00e4t Berlin", 
+     "@id": 30
+    }, 
+    "31": {
+     "function": "Promotion", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Humboldt-Universit\u00e4t_Berlin", 
+      "location": "Berlin", 
+      "name": "Humboldt-Universit\u00e4t Berlin"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Friedrich-Wilhelms-Universit\u00e4t Berlin", 
+     "@id": 31, 
+     "start_date": "1881"
+    }
+   }
   }, 
-  {
-   "function": "Habilitation", 
-   "span": {
-    "to": null, 
-    "from": "1885"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Berlin", 
-    "name": "Humboldt-Universit\u00e4t Berlin"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 12708, 
-   "activity": "Friedrich-Wilhelms-Universit\u00e4t Berlin"
+  "Boudon,_Raymond": {
+   "@id": "Boudon,_Raymond", 
+   "name": "Boudon, Raymond", 
+   "occupations": {
+    "98": {
+     "function": "Education", 
+     "end_date": "1958", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Academia Europaea", 
+     "activity": "\u00c9cole Normale Sup\u00e9rieure", 
+     "@id": 98, 
+     "start_date": "1954"
+    }, 
+    "99": {
+     "function": "Education", 
+     "end_date": "1957", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Albert-Ludwigs-Universit\u00e4t_Freiburg", 
+      "location": "Freiburg im Breisgau", 
+      "name": "Albert-Ludwigs-Universit\u00e4t Freiburg"
+     }, 
+     "source": "Academia Europaea", 
+     "activity": "Universit\u00e4t Freiburg", 
+     "@id": 99, 
+     "start_date": "1956"
+    }, 
+    "100": {
+     "function": "Agr\u00e9gation ", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "n_(gel\u00f6scht)", 
+      "name": "n (gel\u00f6scht)"
+     }, 
+     "source": "Academia Europaea", 
+     "activity": "Sorbonne", 
+     "@id": 100, 
+     "start_date": "1958"
+    }, 
+    "101": {
+     "function": "Education", 
+     "end_date": "1961", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Columbia_University_New_York", 
+      "location": "New York", 
+      "name": "Columbia University New York"
+     }, 
+     "source": "Academia Europaea", 
+     "activity": "Columbia University", 
+     "@id": 101, 
+     "start_date": "1960"
+    }, 
+    "102": {
+     "function": "Research Fellow", 
+     "end_date": "1963", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Centre_National_de_la_Recherche_Scientifique", 
+      "location": "Paris", 
+      "name": "Centre National de la Recherche Scientifique"
+     }, 
+     "source": "Academia Europaea", 
+     "activity": "French National Center for Scientific Research (CNRS)", 
+     "@id": 102, 
+     "start_date": "1961"
+    }, 
+    "103": {
+     "function": "Associate Professor", 
+     "end_date": "1967", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Academia Europaea", 
+     "activity": "University of Bordeaux", 
+     "@id": 103, 
+     "start_date": "1963"
+    }, 
+    "104": {
+     "function": "Doctorate ", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "n_(gel\u00f6scht)", 
+      "name": "n (gel\u00f6scht)"
+     }, 
+     "source": "Academia Europaea", 
+     "activity": "Sorbonne", 
+     "@id": 104, 
+     "start_date": "1967"
+    }, 
+    "105": {
+     "function": "Professor", 
+     "end_date": "2002", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "n_(gel\u00f6scht)", 
+      "name": "n (gel\u00f6scht)"
+     }, 
+     "source": "Academia Europaea", 
+     "activity": "Sorbonne", 
+     "@id": 105, 
+     "start_date": "1967"
+    }, 
+    "106": {
+     "function": "Professor emeritus", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "n_(gel\u00f6scht)", 
+      "name": "n (gel\u00f6scht)"
+     }, 
+     "source": "Academia Europaea", 
+     "activity": "Sorbonne", 
+     "@id": 106, 
+     "start_date": "2002"
+    }
+   }
   }, 
-  {
-   "function": "Privatdozent", 
-   "span": {
-    "to": null, 
-    "from": "1885"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Berlin", 
-    "name": "Humboldt-Universit\u00e4t Berlin"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 12708, 
-   "activity": "Friedrich-Wilhelms-Universit\u00e4t Berlin"
+  "Foucault,_Michel": {
+   "@id": "Foucault,_Michel", 
+   "name": "Foucault, Michel", 
+   "occupations": {
+    "64": {
+     "function": "Abschluss in Psychologie", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "gel\u00f6scht", 
+      "name": "gel\u00f6scht"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Sorbonne", 
+     "@id": 64, 
+     "start_date": "1949"
+    }, 
+    "65": {
+     "function": " Zulassungspr\u00fcfung in Philosophie f\u00fcr Hochschulen", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "@id": 65, 
+     "start_date": "1951"
+    }, 
+    "66": {
+     "function": "diplomierter Abschluss", 
+     "end_date": "1953", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": "Krankenhaus Sainte-Anne ", 
+     "@id": 66, 
+     "start_date": "1952"
+    }, 
+    "67": {
+     "function": "Lektorat ", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Uppsala_University", 
+      "location": "Uppsala", 
+      "name": "Uppsala University"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Uppsala, Schweden", 
+     "@id": 67, 
+     "start_date": "1954"
+    }, 
+    "68": {
+     "function": "Direktor des centre fran\u00e7ais", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "University_of_Warsaw", 
+      "location": "Warschau", 
+      "name": "University of Warsaw"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Warschau", 
+     "@id": 68
+    }, 
+    "69": {
+     "function": " Leiter des Institut Fran\u00e7ais", 
+     "end_date": "1960", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Hamburg", 
+      "location": "Hamburg", 
+      "name": "Universit\u00e4t Hamburg"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Hamburg", 
+     "@id": 69, 
+     "start_date": "1959"
+    }, 
+    "70": {
+     "function": "Privatdozent", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Clermont-Ferrand", 
+     "@id": 70, 
+     "start_date": "1960"
+    }, 
+    "71": {
+     "function": "Dissertation", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "@id": 71, 
+     "start_date": "1961"
+    }, 
+    "72": {
+     "function": "Berufung auf Professur", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Clermont-Ferrand", 
+     "@id": 72, 
+     "start_date": "1962"
+    }, 
+    "73": {
+     "function": "Lehrt\u00e4tigkeit", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "University_of_Tunis_El_Manar", 
+      "location": "Tunis", 
+      "name": "University of Tunis El Manar"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Tunis", 
+     "@id": 73, 
+     "start_date": "1966"
+    }, 
+    "74": {
+     "function": "Dozent und Leiter", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": "Reform-Universit\u00e4t Paris VIII in Vincennes", 
+     "@id": 74, 
+     "start_date": "1968"
+    }, 
+    "75": {
+     "function": "Professur", 
+     "end_date": "1984", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": "Coll\u00e8ge de France", 
+     "@id": 75, 
+     "start_date": "1970"
+    }, 
+    "63": {
+     "function": "Studium", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": " \u00c9cole normale sup\u00e9rieure", 
+     "@id": 63, 
+     "start_date": "1946"
+    }
+   }
   }, 
-  {
-   "function": "Au\u00dferordentlicher Professor", 
-   "span": {
-    "to": null, 
-    "from": "1900"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Berlin", 
-    "name": "Humboldt-Universit\u00e4t Berlin"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 12708, 
-   "activity": "Friedrich-Wilhelms-Universit\u00e4t Berlin"
+  "Goffman,_Erving": {
+   "@id": "Goffman,_Erving", 
+   "name": "Goffman, Erving", 
+   "occupations": {
+    "107": {
+     "function": "Studium ", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
+     "activity": "University of Manitoba", 
+     "@id": 107, 
+     "start_date": "1939"
+    }, 
+    "108": {
+     "function": "Studium ", 
+     "end_date": "1945", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "University_of_Toronto", 
+      "location": "Toronto", 
+      "name": "University of Toronto"
+     }, 
+     "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
+     "activity": "University of Toronto", 
+     "@id": 108, 
+     "start_date": "1944"
+    }, 
+    "109": {
+     "function": "Studium (M.A.)", 
+     "end_date": "1949", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "University_of_Chicago", 
+      "location": "Chicago", 
+      "name": "University of Chicago"
+     }, 
+     "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
+     "activity": "University of Chicago", 
+     "@id": 109, 
+     "start_date": "1945"
+    }, 
+    "110": {
+     "function": "Mitglied des Department of Social Anthropology der University of Edinburgh in Edinburgh", 
+     "end_date": "1951", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "University_of_Edinburgh", 
+      "location": "Edinburgh", 
+      "name": "University of Edinburgh"
+     }, 
+     "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
+     "activity": "University of Edinburgh", 
+     "@id": 110, 
+     "start_date": "1949"
+    }, 
+    "111": {
+     "function": "Research Assistant", 
+     "end_date": "1953", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "University_of_Chicago", 
+      "location": "Chicago", 
+      "name": "University of Chicago"
+     }, 
+     "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
+     "activity": "University of Chicago", 
+     "@id": 111, 
+     "start_date": "1952"
+    }, 
+    "112": {
+     "function": "Ph.D.", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "University_of_Chicago", 
+      "location": "Chicago", 
+      "name": "University of Chicago"
+     }, 
+     "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
+     "activity": "University of Chicago", 
+     "@id": 112, 
+     "start_date": "1953"
+    }, 
+    "113": {
+     "function": "Resident Associate an der Division of Social Sciences", 
+     "end_date": "1954", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "University_of_Chicago", 
+      "location": "Chicago", 
+      "name": "University of Chicago"
+     }, 
+     "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
+     "activity": "University of Chicago", 
+     "@id": 113, 
+     "start_date": "1953"
+    }, 
+    "114": {
+     "function": "Visting Scientist", 
+     "end_date": "1957", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
+     "activity": "National Institute of Mental Health in Bethesda, Maryland", 
+     "@id": 114, 
+     "start_date": "1954"
+    }, 
+    "115": {
+     "function": "Visiting Assistant Professor", 
+     "end_date": "1959", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "University_of_California_Berkeley", 
+      "location": "Berkeley", 
+      "name": "University of California Berkeley"
+     }, 
+     "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
+     "activity": "University of California in Berkeley", 
+     "@id": 115, 
+     "start_date": "1958"
+    }, 
+    "116": {
+     "function": "Associate Professor", 
+     "end_date": "1962", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "University_of_California_Berkeley", 
+      "location": "Berkeley", 
+      "name": "University of California Berkeley"
+     }, 
+     "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
+     "activity": "University of California in Berkeley", 
+     "@id": 116, 
+     "start_date": "1959"
+    }, 
+    "117": {
+     "function": "Full Professor ", 
+     "end_date": "1966", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "University_of_California_Berkeley", 
+      "location": "Berkeley", 
+      "name": "University of California Berkeley"
+     }, 
+     "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
+     "activity": "University of California in Berkeley", 
+     "@id": 117, 
+     "start_date": "1962"
+    }, 
+    "118": {
+     "function": "Sabbatical Year am Harvard Center for International Affairs in Weatherhead, Massachusetts", 
+     "end_date": "1967", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
+     "activity": "Harvard Center for International Affairs in Weatherhead, Massachusetts", 
+     "@id": 118, 
+     "start_date": "1966"
+    }, 
+    "119": {
+     "function": "Full Professor ", 
+     "end_date": "1968", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "University_of_California_Berkeley", 
+      "location": "Berkeley", 
+      "name": "University of California Berkeley"
+     }, 
+     "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
+     "activity": "University of California in Berkeley", 
+     "@id": 119, 
+     "start_date": "1967"
+    }, 
+    "120": {
+     "function": "Full Professor ", 
+     "end_date": "1982", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "University_of_Pennsylvania", 
+      "location": "Philadelphia", 
+      "name": "University of Pennsylvania"
+     }, 
+     "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
+     "activity": "University of Pennsylvania ", 
+     "@id": 120, 
+     "start_date": "1968"
+    }
+   }
   }, 
-  {
-   "function": "Ordentlicher Professor", 
-   "span": {
-    "to": "1918", 
-    "from": "1914"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Stra\u00dfburg", 
-    "name": "University of Strasbourg"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 727524, 
-   "activity": "Kaiser-Wilhelm-Universit\u00e4t Stra\u00dfburg"
+  "Weber,_Max": {
+   "@id": "Weber,_Max", 
+   "name": "Weber, Max", 
+   "occupations": {
+    "18": {
+     "function": "Studium", 
+     "end_date": "1886", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "University_of_Strasbourg", 
+      "location": "Stra\u00dfburg", 
+      "name": "University of Strasbourg"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t  Stra\u00dfburg", 
+     "@id": 18, 
+     "start_date": "1882"
+    }, 
+    "19": {
+     "function": "Studium", 
+     "end_date": "1886", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Heidelberg", 
+      "location": "Heidelberg", 
+      "name": "Universit\u00e4t Heidelberg"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Heidelberg", 
+     "@id": 19, 
+     "start_date": "1882"
+    }, 
+    "20": {
+     "function": "Studium", 
+     "end_date": "1886", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_G\u00f6ttingen", 
+      "name": "Universit\u00e4t G\u00f6ttingen"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t G\u00f6ttingen", 
+     "@id": 20, 
+     "start_date": "1882"
+    }, 
+    "21": {
+     "function": "Studium", 
+     "end_date": "1886", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Humboldt-Universit\u00e4t_Berlin", 
+      "location": "Berlin", 
+      "name": "Humboldt-Universit\u00e4t Berlin"
+     }, 
+     "source": "Wikipedia", 
+     "activity": " Friedrich-Wilhelms-Universit\u00e4t zu Berlin", 
+     "@id": 21, 
+     "start_date": "1882"
+    }, 
+    "22": {
+     "function": "Promotion", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Humboldt-Universit\u00e4t_Berlin", 
+      "location": "Berlin", 
+      "name": "Humboldt-Universit\u00e4t Berlin"
+     }, 
+     "source": "Wikipedia", 
+     "activity": " Friedrich-Wilhelms-Universit\u00e4t zu Berlin", 
+     "@id": 22, 
+     "start_date": "1889"
+    }, 
+    "23": {
+     "function": "Habilitation", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Humboldt-Universit\u00e4t_Berlin", 
+      "location": "Berlin", 
+      "name": "Humboldt-Universit\u00e4t Berlin"
+     }, 
+     "source": "Wikipedia", 
+     "activity": " Friedrich-Wilhelms-Universit\u00e4t zu Berlin", 
+     "@id": 23, 
+     "start_date": "1892"
+    }, 
+    "24": {
+     "function": "Au\u00dferordentlicher Professor", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Humboldt-Universit\u00e4t_Berlin", 
+      "location": "Berlin", 
+      "name": "Humboldt-Universit\u00e4t Berlin"
+     }, 
+     "source": "Wikipedia", 
+     "activity": " Friedrich-Wilhelms-Universit\u00e4t zu Berlin", 
+     "@id": 24, 
+     "start_date": "1893"
+    }, 
+    "25": {
+     "function": "Lehrstuhl f\u00fcr National\u00f6konomie", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Albert-Ludwigs-Universit\u00e4t_Freiburg", 
+      "location": "Freiburg im Breisgau", 
+      "name": "Albert-Ludwigs-Universit\u00e4t Freiburg"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Albert-Ludwigs-Universit\u00e4t Freiburg", 
+     "@id": 25, 
+     "start_date": "1894"
+    }, 
+    "26": {
+     "function": "Ruf auf den renommierten Lehrstuhl von Karl Knies", 
+     "end_date": "1903", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Heidelberg", 
+      "location": "Heidelberg", 
+      "name": "Universit\u00e4t Heidelberg"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Ruprecht-Karls-Universit\u00e4t Heidelberg", 
+     "@id": 26, 
+     "start_date": "1896"
+    }, 
+    "27": {
+     "function": "Professor", 
+     "end_date": "1918", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Wien", 
+      "location": "Wien", 
+      "name": "Universit\u00e4t Wien"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Wien", 
+     "@id": 27, 
+     "start_date": "1917"
+    }, 
+    "28": {
+     "function": "Professor", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Ludwig-Maximilians-Universit\u00e4t_M\u00fcnchen", 
+      "location": "M\u00fcnchen", 
+      "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+     }, 
+     "source": "Wikipedia", 
+     "activity": " Universit\u00e4t M\u00fcnchen", 
+     "@id": 28, 
+     "start_date": "1919"
+    }, 
+    "29": {
+     "function": "Mitglied in der Bayerischen Akademie der Wissenschaften", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": "Mitglied in der Bayerischen Akademie der Wissenschaften", 
+     "@id": 29, 
+     "start_date": "1919"
+    }
+   }
   }, 
-  {
-   "function": "Ehrendoktorat ", 
-   "span": {
-    "to": null, 
-    "from": "1911"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Freiburg im Breisgau", 
-    "name": "Albert-Ludwigs-Universit\u00e4t Freiburg"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3314, 
-   "activity": "Albert-Ludwigs-Universit\u00e4t Freiburg "
+  "Parsons,_Talcott": {
+   "@id": "Parsons,_Talcott", 
+   "name": "Parsons, Talcott", 
+   "occupations": {
+    "96": {
+     "function": "Full Professor", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Harvard_University_Cambridge", 
+      "location": "Cambridge", 
+      "name": "Harvard University Cambridge"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Harvard University in Cambridge, Massachusetts", 
+     "@id": 96, 
+     "start_date": "1944"
+    }, 
+    "97": {
+     "function": "39. Pr\u00e4sident der American Sociological Association", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": "American Sociological Association", 
+     "@id": 97, 
+     "start_date": "1949"
+    }, 
+    "88": {
+     "function": "Studium", 
+     "end_date": "1924", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": "Amherst College,  Massachusetts", 
+     "@id": 88, 
+     "start_date": "1920"
+    }, 
+    "89": {
+     "function": "Studium", 
+     "end_date": "1925", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "London_School_of_Economics_and_Political_Science", 
+      "location": "London", 
+      "name": "London School of Economics and Political Science"
+     }, 
+     "source": "Wikipedia", 
+     "activity": " London School of Economics and Political Science in London ", 
+     "@id": 89, 
+     "start_date": "1924"
+    }, 
+    "90": {
+     "function": "Promotionsstudium", 
+     "end_date": "1927", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Heidelberg", 
+      "location": "Heidelberg", 
+      "name": "Universit\u00e4t Heidelberg"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Heidelberg", 
+     "@id": 90, 
+     "start_date": "1925"
+    }, 
+    "91": {
+     "function": "Lehrbeauftragter", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": "Amherst College,  Massachusetts", 
+     "@id": 91, 
+     "start_date": "1926"
+    }, 
+    "92": {
+     "function": "Promotion", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Heidelberg", 
+      "location": "Heidelberg", 
+      "name": "Universit\u00e4t Heidelberg"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Heidelberg", 
+     "@id": 92, 
+     "start_date": "1927"
+    }, 
+    "93": {
+     "function": "Lehre", 
+     "end_date": "1973", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Harvard_University_Cambridge", 
+      "location": "Cambridge", 
+      "name": "Harvard University Cambridge"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Harvard University in Cambridge, Massachusetts", 
+     "@id": 93, 
+     "start_date": "1927"
+    }, 
+    "94": {
+     "function": "Lehre", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Harvard_University_Cambridge", 
+      "location": "Cambridge", 
+      "name": "Harvard University Cambridge"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Harvard University in Cambridge, Massachusetts", 
+     "@id": 94, 
+     "start_date": "1930"
+    }, 
+    "95": {
+     "function": "Associate Professor", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Harvard_University_Cambridge", 
+      "location": "Cambridge", 
+      "name": "Harvard University Cambridge"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Harvard University in Cambridge, Massachusetts", 
+     "@id": 95, 
+     "start_date": "1937"
+    }
+   }
+  }, 
+  "Berger,_Peter_L.": {
+   "@id": "Berger,_Peter_L.", 
+   "name": "Berger, Peter L.", 
+   "occupations": {
+    "128": {
+     "function": "Professor", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "New_School_for_Social_Research_New_York", 
+      "location": "New York", 
+      "name": "New School for Social Research New York"
+     }, 
+     "source": "CURA (Institute on Culture, Religion & World Affairs)", 
+     "activity": "New School for Social Research", 
+     "@id": 128, 
+     "start_date": "1970"
+    }, 
+    "129": {
+     "function": "Professor", 
+     "end_date": "1979", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "CURA (Institute on Culture, Religion & World Affairs)", 
+     "activity": "Rutgers University New Brunswick, New Jersey", 
+     "@id": 129, 
+     "start_date": "1970"
+    }, 
+    "130": {
+     "function": "Professor", 
+     "end_date": "1981", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "CURA (Institute on Culture, Religion & World Affairs)", 
+     "activity": "Boston College", 
+     "@id": 130, 
+     "start_date": "1979"
+    }, 
+    "131": {
+     "function": "Professor", 
+     "end_date": "2009", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Boston_University", 
+      "location": "Boston", 
+      "name": "Boston University"
+     }, 
+     "source": "CURA (Institute on Culture, Religion & World Affairs)", 
+     "activity": "Boston University", 
+     "@id": 131, 
+     "start_date": "1981"
+    }, 
+    "132": {
+     "function": "Director ", 
+     "end_date": "2010", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Boston_University", 
+      "location": "Boston", 
+      "name": "Boston University"
+     }, 
+     "source": "CURA (Institute on Culture, Religion & World Affairs)", 
+     "activity": "Boston University (Boston)", 
+     "@id": 132, 
+     "start_date": "1985"
+    }, 
+    "121": {
+     "function": "Studium", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "https://www.munzinger.de/search/portrait/Peter+L+Berger/0/28277.html", 
+     "activity": "Wagner College", 
+     "@id": 121, 
+     "start_date": "1949"
+    }, 
+    "122": {
+     "function": "Studium", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "New_School_for_Social_Research_New_York", 
+      "location": "New York", 
+      "name": "New School for Social Research New York"
+     }, 
+     "source": "https://www.munzinger.de/search/portrait/Peter+L+Berger/0/28277.html", 
+     "activity": "New School for Social Research", 
+     "@id": 122, 
+     "start_date": "1950"
+    }, 
+    "123": {
+     "function": "Studium", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "New_School_for_Social_Research_New_York", 
+      "location": "New York", 
+      "name": "New School for Social Research New York"
+     }, 
+     "source": "CURA (Institute on Culture, Religion & World Affairs)", 
+     "activity": "New School for Social Research", 
+     "@id": 123, 
+     "start_date": "1954"
+    }, 
+    "124": {
+     "function": "Research director", 
+     "end_date": "1956", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "CURA (Institute on Culture, Religion & World Affairs)", 
+     "activity": "Protestant Academy, Bad Boll (Germany)", 
+     "@id": 124, 
+     "start_date": "1955"
+    }, 
+    "125": {
+     "function": "Assistant Professor ", 
+     "end_date": "1958", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "University_of_North_Carolina_at_Chapel_Hill", 
+      "location": "Chapel Hill", 
+      "name": "University of North Carolina at Chapel Hill"
+     }, 
+     "source": "CURA (Institute on Culture, Religion & World Affairs)", 
+     "activity": "Woman\u2019s College, University of North Carolina", 
+     "@id": 125, 
+     "start_date": "1956"
+    }, 
+    "126": {
+     "function": "Associate professor and director of the Institute on Church and Community", 
+     "end_date": "1963", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "CURA (Institute on Culture, Religion & World Affairs)", 
+     "activity": "Hartford Theological Seminary", 
+     "@id": 126, 
+     "start_date": "1958"
+    }, 
+    "127": {
+     "function": "Associate professor", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "New_School_for_Social_Research_New_York", 
+      "location": "New York", 
+      "name": "New School for Social Research New York"
+     }, 
+     "source": "CURA (Institute on Culture, Religion & World Affairs)", 
+     "activity": "New School for Social Research", 
+     "@id": 127, 
+     "start_date": "1963"
+    }
+   }
+  }, 
+  "Popper,_Karl_R.": {
+   "@id": "Popper,_Karl_R.", 
+   "name": "Popper, Karl R.", 
+   "occupations": {
+    "136": {
+     "function": "Dozent", 
+     "end_date": "1945", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "https://austria-forum.org/af/Biographien/Popper%2C_Karl_Raimund", 
+     "activity": "University of Canterbury, Christchurch, Neuseeland", 
+     "@id": 136, 
+     "start_date": "1937"
+    }, 
+    "137": {
+     "function": "Professor und Vorstand ", 
+     "end_date": "1969", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "University_of_London", 
+      "location": "London", 
+      "name": "University of London"
+     }, 
+     "source": "https://austria-forum.org/af/Biographien/Popper%2C_Karl_Raimund", 
+     "activity": "University of London", 
+     "@id": 137, 
+     "start_date": "1946"
+    }, 
+    "133": {
+     "function": "Studium ", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Wien", 
+      "location": "Wien", 
+      "name": "Universit\u00e4t Wien"
+     }, 
+     "source": "Lemo", 
+     "activity": "Universit\u00e4t Wien", 
+     "@id": 133, 
+     "start_date": "1918"
+    }, 
+    "134": {
+     "function": "Studium", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Lemo", 
+     "activity": "P\u00e4dagogisches Institut Wien", 
+     "@id": 134, 
+     "start_date": "1925"
+    }, 
+    "135": {
+     "function": "Studium", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Wien", 
+      "location": "Wien", 
+      "name": "Universit\u00e4t Wien"
+     }, 
+     "source": "https://austria-forum.org/af/Biographien/Popper%2C_Karl_Raimund", 
+     "activity": "Universit\u00e4t Wien", 
+     "@id": 135, 
+     "start_date": "1928"
+    }
+   }
+  }, 
+  "Elias,_Norbert": {
+   "@id": "Elias,_Norbert", 
+   "name": "Elias, Norbert", 
+   "occupations": {
+    "76": {
+     "function": "Studium", 
+     "end_date": "1924", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Wroc\u0142aw_University_of_Environmental_and_Life_Sciences_(Wroc\u0142aw)_(?)", 
+      "name": "Wroc\u0142aw University of Environmental and Life Sciences (Wroc\u0142aw) (?)"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Breslau", 
+     "@id": 76, 
+     "start_date": "1918"
+    }, 
+    "77": {
+     "function": "Physikum", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Wroc\u0142aw_University_of_Environmental_and_Life_Sciences_(Wroc\u0142aw)_(?)", 
+      "name": "Wroc\u0142aw University of Environmental and Life Sciences (Wroc\u0142aw) (?)"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Breslau", 
+     "@id": 77, 
+     "start_date": "1919"
+    }, 
+    "78": {
+     "function": "Studienaufenthalt", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Heidelberg", 
+      "location": "Heidelberg", 
+      "name": "Universit\u00e4t Heidelberg"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Heidelberg", 
+     "@id": 78, 
+     "start_date": "1919"
+    }, 
+    "79": {
+     "function": "Studienaufenthalt", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Albert-Ludwigs-Universit\u00e4t_Freiburg", 
+      "location": "Freiburg im Breisgau", 
+      "name": "Albert-Ludwigs-Universit\u00e4t Freiburg"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Freiburg im Breisgau", 
+     "@id": 79, 
+     "start_date": "1920"
+    }, 
+    "80": {
+     "function": "Promotion", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Wroc\u0142aw_University_of_Environmental_and_Life_Sciences_(Wroc\u0142aw)_(?)", 
+      "name": "Wroc\u0142aw University of Environmental and Life Sciences (Wroc\u0142aw) (?)"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Breslau", 
+     "@id": 80, 
+     "start_date": "1924"
+    }, 
+    "81": {
+     "function": "Habilitationsprojekt", 
+     "end_date": "1930", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Heidelberg", 
+      "location": "Heidelberg", 
+      "name": "Universit\u00e4t Heidelberg"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Heidelberg", 
+     "@id": 81, 
+     "start_date": "1924"
+    }, 
+    "82": {
+     "function": "Abbruch Habilitationsprojekt", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": " Die Bedeutung der Florentiner Gesellschaft und Kultur f\u00fcr die Entstehung der Wissenschaft", 
+     "@id": 82, 
+     "start_date": "1930"
+    }, 
+    "83": {
+     "function": "Assistent", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Goethe-Universit\u00e4t_Frankfurt", 
+      "location": "Frankfurt am Main", 
+      "name": "Goethe-Universit\u00e4t Frankfurt"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Frankfurt am Main", 
+     "@id": 83, 
+     "start_date": "1930"
+    }, 
+    "84": {
+     "function": "neues Habilitationsprojekt", 
+     "end_date": "1933", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Goethe-Universit\u00e4t_Frankfurt", 
+      "location": "Frankfurt am Main", 
+      "name": "Goethe-Universit\u00e4t Frankfurt"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Frankfurt am Main", 
+     "@id": 84, 
+     "start_date": "1930"
+    }, 
+    "85": {
+     "function": "Abrruch des Habilitationsverfahrens", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Goethe-Universit\u00e4t_Frankfurt", 
+      "location": "Frankfurt am Main", 
+      "name": "Goethe-Universit\u00e4t Frankfurt"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Frankfurt am Main", 
+     "@id": 85, 
+     "start_date": "1933"
+    }, 
+    "86": {
+     "function": "Dozent", 
+     "end_date": "1962", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": " University of Leicester", 
+     "@id": 86, 
+     "start_date": "1954"
+    }, 
+    "87": {
+     "function": "Professor", 
+     "end_date": "1964", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "University_of_Ghana", 
+      "location": "Legon", 
+      "name": "University of Ghana"
+     }, 
+     "source": "Wikipedia", 
+     "activity": " University of Ghana in Accra", 
+     "@id": 87, 
+     "start_date": "1962"
+    }
+   }
+  }, 
+  "Luckmann,_Thomas": {
+   "@id": "Luckmann,_Thomas", 
+   "name": "Luckmann, Thomas", 
+   "occupations": {
+    "0": {
+     "function": "Studium", 
+     "end_date": "1948", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Wien", 
+      "name": "Universit\u00e4t Wien"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Wien", 
+     "@id": 0, 
+     "start_date": "1947"
+    }, 
+    "1": {
+     "function": "Studium", 
+     "end_date": "1950", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Innsbruck", 
+      "name": "Universit\u00e4t Innsbruck"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Innsbruck", 
+     "@id": 1, 
+     "start_date": "1948"
+    }, 
+    "2": {
+     "function": "Studium", 
+     "end_date": "1953", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "New_School_for_Social_Research,_New_York", 
+      "name": "New School for Social Research, New York"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "New School for Social Research, New York", 
+     "@id": 2, 
+     "start_date": "1950"
+    }, 
+    "3": {
+     "function": "Promotion", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "n_", 
+      "name": "n "
+     }, 
+     "source": "Wikipedia", 
+     "activity": "n ", 
+     "@id": 3, 
+     "start_date": "1956"
+    }, 
+    "4": {
+     "function": "Teaching Assistent", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Hobart_College,_Geneva_New_York", 
+      "name": "Hobart College, Geneva New York"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Hobart College, Geneva New York", 
+     "@id": 4
+    }, 
+    "5": {
+     "function": "Assistent", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wkipedia", 
+     "@id": 5, 
+     "start_date": "1960"
+    }, 
+    "6": {
+     "function": "Associate Professor", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "New_School_for_Social_Research", 
+      "name": "New School for Social Research"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "New School for Social Research", 
+     "@id": 6
+    }, 
+    "7": {
+     "function": "Professor", 
+     "end_date": "1970", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "_Universit\u00e4t_Frankfurt_am_Main", 
+      "name": " Universit\u00e4t Frankfurt am Main"
+     }, 
+     "source": "Wikipedia", 
+     "activity": " Universit\u00e4t Frankfurt am Main", 
+     "@id": 7, 
+     "start_date": "1965"
+    }, 
+    "8": {
+     "function": "Professor", 
+     "end_date": "1994", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Konstanz", 
+      "name": "Universit\u00e4t Konstanz"
+     }, 
+     "source": "Wikipedia", 
+     "activity": " Universit\u00e4t Konstanz", 
+     "@id": 8, 
+     "start_date": "1970"
+    }
+   }
+  }, 
+  "Dahrendorf,_Ralf": {
+   "@id": "Dahrendorf,_Ralf", 
+   "name": "Dahrendorf, Ralf", 
+   "occupations": {
+    "9": {
+     "function": "politischer Lehrgang", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": " Wilton Park", 
+     "@id": 9, 
+     "start_date": "1948"
+    }, 
+    "10": {
+     "function": "Studium", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Hamburg", 
+      "location": "Hamburg", 
+      "name": "Universit\u00e4t Hamburg"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Hamburg", 
+     "@id": 10
+    }, 
+    "11": {
+     "function": "Promotion", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Hamburg", 
+      "location": "Hamburg", 
+      "name": "Universit\u00e4t Hamburg"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Hamburg", 
+     "@id": 11, 
+     "start_date": "1952"
+    }, 
+    "12": {
+     "function": "Ph.-D.-Studium", 
+     "end_date": "1954", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "London_School_of_Economics_and_Political_Science", 
+      "location": "London", 
+      "name": "London School of Economics and Political Science"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "London School of Economics", 
+     "@id": 12, 
+     "start_date": "1952"
+    }, 
+    "13": {
+     "function": "Habilitation", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_des_Saarlandes", 
+      "location": "Saarbr\u00fccken", 
+      "name": "Universit\u00e4t des Saarlandes"
+     }, 
+     "source": "Wikipedia", 
+     "activity": " Universit\u00e4t des Saarlandes", 
+     "@id": 13, 
+     "start_date": "1957"
+    }, 
+    "14": {
+     "function": "Professor", 
+     "end_date": "1960", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": " Akademie f\u00fcr Gemeinwirtschaft in Hamburg", 
+     "@id": 14, 
+     "start_date": "1958"
+    }, 
+    "15": {
+     "function": "Professor", 
+     "end_date": "1960", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Hamburg", 
+      "location": "Hamburg", 
+      "name": "Universit\u00e4t Hamburg"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Hamburg", 
+     "@id": 15, 
+     "start_date": "1958"
+    }, 
+    "16": {
+     "function": "Professor", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Eberhard_Karls_Universit\u00e4t_T\u00fcbingen", 
+      "location": "T\u00fcbingen", 
+      "name": "Eberhard Karls Universit\u00e4t T\u00fcbingen"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t T\u00fcbingen", 
+     "@id": 16
+    }, 
+    "17": {
+     "function": "Professor", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Konstanz", 
+      "location": "Konstanz", 
+      "name": "Universit\u00e4t Konstanz"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Konstanz", 
+     "@id": 17
+    }
+   }
+  }, 
+  "Schelsky,_Helmut": {
+   "@id": "Schelsky,_Helmut", 
+   "name": "Schelsky, Helmut", 
+   "occupations": {
+    "37": {
+     "function": "Studium", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t K\u00f6nigsberg", 
+     "@id": 37
+    }, 
+    "38": {
+     "function": "Studium", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Leipzig", 
+      "location": "Leipzig", 
+      "name": "Universit\u00e4t Leipzig"
+     }, 
+     "source": "Wikipedia", 
+     "activity": " Universit\u00e4t Leipzig", 
+     "@id": 38
+    }, 
+    "39": {
+     "function": "Lehramtspr\u00fcfung", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Leipzig", 
+      "location": "Leipzig", 
+      "name": "Universit\u00e4t Leipzig"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Leipzig", 
+     "@id": 39, 
+     "start_date": "1935"
+    }, 
+    "40": {
+     "function": "Promotion", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Leipzig", 
+      "location": "Leipzig", 
+      "name": "Universit\u00e4t Leipzig"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Leipzig", 
+     "@id": 40
+    }, 
+    "41": {
+     "function": "Assistent", 
+     "end_date": "1940", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t K\u00f6nigsberg", 
+     "@id": 41, 
+     "start_date": "1938"
+    }, 
+    "42": {
+     "function": "Habilitation", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t K\u00f6nigsberg", 
+     "@id": 42, 
+     "start_date": "1940"
+    }, 
+    "43": {
+     "function": "Dozent", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t K\u00f6nigsberg", 
+     "@id": 43
+    }, 
+    "44": {
+     "function": "Assistent", 
+     "end_date": "1941", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": " Universit\u00e4t Budapest", 
+     "@id": 44, 
+     "start_date": "1940"
+    }, 
+    "45": {
+     "function": "Lehrstuhlvertretung", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Leipzig", 
+      "location": "Leipzig", 
+      "name": "Universit\u00e4t Leipzig"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Leipzig", 
+     "@id": 45, 
+     "start_date": "1942"
+    }, 
+    "46": {
+     "function": "Au\u00dferordentlicher Professor", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": "Reichsuniversit\u00e4t Stra\u00dfburg", 
+     "@id": 46, 
+     "start_date": "1943"
+    }, 
+    "47": {
+     "function": "Vertretungsprofessur", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Hamburger_Universit\u00e4t_f\u00fcr_Wirtschaft_und_Politik", 
+      "location": "Hamburg", 
+      "name": "Hamburger Universit\u00e4t f\u00fcr Wirtschaft und Politik"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Akademie f\u00fcr Gemeinwirtschaft Hamburg", 
+     "@id": 47, 
+     "start_date": "1948"
+    }, 
+    "48": {
+     "function": "Ordentlicher Professor", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Hamburger_Universit\u00e4t_f\u00fcr_Wirtschaft_und_Politik", 
+      "location": "Hamburg", 
+      "name": "Hamburger Universit\u00e4t f\u00fcr Wirtschaft und Politik"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Akademie f\u00fcr Gemeinwirtschaft Hamburg", 
+     "@id": 48, 
+     "start_date": "1949"
+    }, 
+    "49": {
+     "function": "Leitung der Akademie f\u00fcr Gemeinwirtschaft Hamburg ", 
+     "end_date": "1950", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Hamburger_Universit\u00e4t_f\u00fcr_Wirtschaft_und_Politik", 
+      "location": "Hamburg", 
+      "name": "Hamburger Universit\u00e4t f\u00fcr Wirtschaft und Politik"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Akademie f\u00fcr Gemeinwirtschaft Hamburg", 
+     "@id": 49, 
+     "start_date": "1949"
+    }, 
+    "50": {
+     "function": "Professor", 
+     "end_date": "1960", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Hamburg", 
+      "location": "Hamburg", 
+      "name": "Universit\u00e4t Hamburg"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Hamburg", 
+     "@id": 50, 
+     "start_date": "1953"
+    }, 
+    "51": {
+     "function": "Leitung ", 
+     "end_date": "1970", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "FB_03_Rechtswissenschaftliche_Fakult\u00e4t", 
+      "location": "M\u00fcnster", 
+      "name": "FB 03 Rechtswissenschaftliche Fakult\u00e4t"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t M\u00fcnster", 
+     "@id": 51, 
+     "start_date": "1960"
+    }, 
+    "52": {
+     "function": "Spiritus Rector", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Bielefeld", 
+      "location": "Bielefeld", 
+      "name": "Universit\u00e4t Bielefeld"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Reformuniversit\u00e4t Bielefeld", 
+     "@id": 52, 
+     "start_date": "1965"
+    }, 
+    "53": {
+     "function": "Professor", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Universit\u00e4t_Bielefeld", 
+      "location": "Bielefeld", 
+      "name": "Universit\u00e4t Bielefeld"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Bielefelder Universit\u00e4t", 
+     "@id": 53, 
+     "start_date": "1970"
+    }, 
+    "54": {
+     "function": "Leitung", 
+     "end_date": "1973", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Zentrum_f\u00fcr_interdisziplin\u00e4re_Forschung_-ZiF-", 
+      "location": "Bielefeld", 
+      "name": "Zentrum f\u00fcr interdisziplin\u00e4re Forschung -ZiF-"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Bielefelder Universit\u00e4t, Rheda", 
+     "@id": 54, 
+     "start_date": "1970"
+    }, 
+    "55": {
+     "function": "Professor", 
+     "end_date": "1978", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "FB_03_Rechtswissenschaftliche_Fakult\u00e4t", 
+      "location": "M\u00fcnster", 
+      "name": "FB 03 Rechtswissenschaftliche Fakult\u00e4t"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t M\u00fcnster", 
+     "@id": 55, 
+     "start_date": "1973"
+    }, 
+    "56": {
+     "function": "Leitung", 
+     "end_date": "1978", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "FB_04_Wirtschaftswissenschaftliche_Fakult\u00e4t", 
+      "location": "M\u00fcnster", 
+      "name": "FB 04 Wirtschaftswissenschaftliche Fakult\u00e4t"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t M\u00fcnster", 
+     "@id": 56, 
+     "start_date": "1973"
+    }, 
+    "57": {
+     "function": "Senator", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Deutsche_Forschungsgemeinschaft", 
+      "location": "Bonn", 
+      "name": "Deutsche Forschungsgemeinschaft"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Deutsche Forschungsgemeinschaft", 
+     "@id": 57
+    }, 
+    "58": {
+     "function": "Honorarprofessor", 
+     "end_date": "1984", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Rechtswissenschaftliche_Fakult\u00e4t_(Graz),_Karl-Franzens-Universit\u00e4t_Graz_(Graz)", 
+      "name": "Rechtswissenschaftliche Fakult\u00e4t (Graz), Karl-Franzens-Universit\u00e4t Graz (Graz)"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "Universit\u00e4t Graz", 
+     "@id": 58, 
+     "start_date": "1978"
+    }
+   }
+  }, 
+  "F\u00fcrstenberg,_Friedrich": {
+   "@id": "F\u00fcrstenberg,_Friedrich", 
+   "name": "F\u00fcrstenberg, Friedrich", 
+   "occupations": {
+    "138": {
+     "function": "Studium", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Eberhard_Karls_Universit\u00e4t_T\u00fcbingen", 
+      "location": "T\u00fcbingen", 
+      "name": "Eberhard Karls Universit\u00e4t T\u00fcbingen"
+     }, 
+     "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
+     "activity": "Univesit\u00e4t T\u00fcbingen", 
+     "@id": 138, 
+     "start_date": "1947"
+    }, 
+    "139": {
+     "function": "Studium", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Eberhard_Karls_Universit\u00e4t_T\u00fcbingen", 
+      "location": "T\u00fcbingen", 
+      "name": "Eberhard Karls Universit\u00e4t T\u00fcbingen"
+     }, 
+     "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
+     "activity": "Univesit\u00e4t T\u00fcbingen", 
+     "@id": 139, 
+     "start_date": "1951"
+    }, 
+    "140": {
+     "function": "Studium", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Eberhard_Karls_Universit\u00e4t_T\u00fcbingen", 
+      "location": "T\u00fcbingen", 
+      "name": "Eberhard Karls Universit\u00e4t T\u00fcbingen"
+     }, 
+     "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
+     "activity": "Univesit\u00e4t T\u00fcbingen", 
+     "@id": 140, 
+     "start_date": "1952"
+    }, 
+    "141": {
+     "function": "Forschungsaufenthalt", 
+     "end_date": "1954", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Cornell_University_Ithaca", 
+      "location": "Ithaca", 
+      "name": "Cornell University Ithaca"
+     }, 
+     "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
+     "activity": "Cornell University", 
+     "@id": 141, 
+     "start_date": "1953"
+    }, 
+    "142": {
+     "function": "Forschungsaufenthalt", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "University_of_Birmingham", 
+      "location": "Birmingham", 
+      "name": "University of Birmingham"
+     }, 
+     "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
+     "activity": "Birmingham University", 
+     "@id": 142, 
+     "start_date": "1956"
+    }, 
+    "143": {
+     "function": "Forschungsaufenthalt", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "London_School_of_Economics_and_Political_Science", 
+      "location": "London", 
+      "name": "London School of Economics and Political Science"
+     }, 
+     "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
+     "activity": "London School of Economics", 
+     "@id": 143, 
+     "start_date": "1957"
+    }, 
+    "144": {
+     "function": "Forschungsaufenthalt", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
+     "activity": "Centre d`\u00e9tudes sociologiques Paris", 
+     "@id": 144, 
+     "start_date": "1958"
+    }, 
+    "145": {
+     "function": "Assistenz Forschung", 
+     "end_date": "1962", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Forschungsinstitut_f\u00fcr_Genossenschaftswesen_an_der_Universit\u00e4t_Erlangen-N\u00fcrnberg", 
+      "location": "N\u00fcrnberg", 
+      "name": "Forschungsinstitut f\u00fcr Genossenschaftswesen an der Universit\u00e4t Erlangen-N\u00fcrnberg"
+     }, 
+     "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
+     "activity": "Universit\u00e4t Erlangen Forschungsinstitut f\u00fcr Genossenschaftswesen ", 
+     "@id": 145, 
+     "start_date": "1961"
+    }, 
+    "146": {
+     "function": "Assistenz Forschung", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Forschungsinstitut_f\u00fcr_Genossenschaftswesen_an_der_Universit\u00e4t_Erlangen-N\u00fcrnberg", 
+      "location": "N\u00fcrnberg", 
+      "name": "Forschungsinstitut f\u00fcr Genossenschaftswesen an der Universit\u00e4t Erlangen-N\u00fcrnberg"
+     }, 
+     "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
+     "activity": "Universit\u00e4t Erlangen Forschungsinstitut f\u00fcr Genossenschaftswesen ", 
+     "@id": 146, 
+     "start_date": "1962"
+    }, 
+    "147": {
+     "function": "Professor", 
+     "end_date": "1966", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Technische_Universit\u00e4t_Clausthal", 
+      "location": "Clausthal-Zellerfeld", 
+      "name": "Technische Universit\u00e4t Clausthal"
+     }, 
+     "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
+     "activity": "TU Clausthal", 
+     "@id": 147, 
+     "start_date": "1963"
+    }, 
+    "148": {
+     "function": "Professor", 
+     "end_date": "1980", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Johannes_Kepler_Universit\u00e4t_Linz", 
+      "location": "Linz", 
+      "name": "Johannes Kepler Universit\u00e4t Linz"
+     }, 
+     "source": "wikipedia", 
+     "activity": "Universit\u00e4t Linz", 
+     "@id": 148, 
+     "start_date": "1966"
+    }, 
+    "149": {
+     "function": "Professor", 
+     "end_date": "1986", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Ruhr-Universit\u00e4t_Bochum", 
+      "location": "Bochum", 
+      "name": "Ruhr-Universit\u00e4t Bochum"
+     }, 
+     "source": "wikipedia", 
+     "activity": "Ruhr-Universit\u00e4t Bochum", 
+     "@id": 149, 
+     "start_date": "1981"
+    }, 
+    "150": {
+     "function": "Professor", 
+     "end_date": "1995", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "Philosophische_Fakult\u00e4t", 
+      "location": "Bonn", 
+      "name": "Philosophische Fakult\u00e4t"
+     }, 
+     "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
+     "activity": "Universit\u00e4t Bonn", 
+     "@id": 150, 
+     "start_date": "1986"
+    }
+   }
+  }, 
+  "Mauss,_Marcel": {
+   "@id": "Mauss,_Marcel", 
+   "name": "Mauss, Marcel", 
+   "occupations": {
+    "59": {
+     "function": "Dozent", 
+     "institution_l2": {}, 
+     "institution_l1": {
+      "@id": "\u00c9cole_Pratique_des_Hautes_\u00c9tudes", 
+      "location": "Paris", 
+      "name": "\u00c9cole Pratique des Hautes \u00c9tudes"
+     }, 
+     "source": "Wikipedia", 
+     "activity": "\u00c9cole Pratique des Hautes \u00c9tudes ", 
+     "@id": 59
+    }, 
+    "60": {
+     "function": "Gr\u00fcnder der Zeitschrift L'Ann\u00e9e Sociologique zusammen mit Durkheim", 
+     "source": "Wikipedia", 
+     "@id": 60, 
+     "institution_l2": {}, 
+     "institution_l1": {}
+    }, 
+    "61": {
+     "function": "Gr\u00fcnder des  Institut d'Ethnologie in Paris", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": " Institut d'Ethnologie in Paris", 
+     "@id": 61, 
+     "start_date": "1925"
+    }, 
+    "62": {
+     "function": "Professor", 
+     "institution_l2": {}, 
+     "institution_l1": {}, 
+     "source": "Wikipedia", 
+     "activity": "Coll\u00e8ge de France", 
+     "@id": 62
+    }
+   }
   }
- ], 
- "Elias, Norbert": [
-  {
-   "function": "Studium", 
-   "span": {
-    "to": "1924", 
-    "from": "1918"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": null, 
-    "name": "Wroc\u0142aw University of Environmental and Life Sciences (Wroc\u0142aw) (?)"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 727957, 
-   "activity": "Universit\u00e4t Breslau"
-  }, 
-  {
-   "function": "Physikum", 
-   "span": {
-    "to": null, 
-    "from": "1919"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": null, 
-    "name": "Wroc\u0142aw University of Environmental and Life Sciences (Wroc\u0142aw) (?)"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 727957, 
-   "activity": "Universit\u00e4t Breslau"
-  }, 
-  {
-   "function": "Studienaufenthalt", 
-   "span": {
-    "to": null, 
-    "from": "1919"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Heidelberg", 
-    "name": "Universit\u00e4t Heidelberg"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3324, 
-   "activity": "Universit\u00e4t Heidelberg"
-  }, 
-  {
-   "function": "Studienaufenthalt", 
-   "span": {
-    "to": null, 
-    "from": "1920"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Freiburg im Breisgau", 
-    "name": "Albert-Ludwigs-Universit\u00e4t Freiburg"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3314, 
-   "activity": "Universit\u00e4t Freiburg im Breisgau"
-  }, 
-  {
-   "function": "Promotion", 
-   "span": {
-    "to": null, 
-    "from": "1924"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": null, 
-    "name": "Wroc\u0142aw University of Environmental and Life Sciences (Wroc\u0142aw) (?)"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 727957, 
-   "activity": "Universit\u00e4t Breslau"
-  }, 
-  {
-   "function": "Habilitationsprojekt", 
-   "span": {
-    "to": "1930", 
-    "from": "1924"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Heidelberg", 
-    "name": "Universit\u00e4t Heidelberg"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3324, 
-   "activity": "Universit\u00e4t Heidelberg"
-  }, 
-  {
-   "function": "Abbruch Habilitationsprojekt", 
-   "span": {
-    "to": null, 
-    "from": "1930"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": null
-  }, 
-  {
-   "function": "Assistent", 
-   "span": {
-    "to": null, 
-    "from": "1930"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Frankfurt am Main", 
-    "name": "Goethe-Universit\u00e4t Frankfurt"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3313, 
-   "activity": "Universit\u00e4t Frankfurt am Main"
-  }, 
-  {
-   "function": "neues Habilitationsprojekt", 
-   "span": {
-    "to": "1933", 
-    "from": "1930"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Frankfurt am Main", 
-    "name": "Goethe-Universit\u00e4t Frankfurt"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3313, 
-   "activity": "Universit\u00e4t Frankfurt am Main"
-  }, 
-  {
-   "function": "Abrruch des Habilitationsverfahrens", 
-   "span": {
-    "to": null, 
-    "from": "1933"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Frankfurt am Main", 
-    "name": "Goethe-Universit\u00e4t Frankfurt"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3313, 
-   "activity": "Universit\u00e4t Frankfurt am Main"
-  }, 
-  {
-   "function": "Dozent", 
-   "span": {
-    "to": "1962", 
-    "from": "1954"
-   }, 
-   "institution_l2": "Department of Sociology", 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": " University of Leicester"
-  }, 
-  {
-   "function": "Professor", 
-   "span": {
-    "to": "1964", 
-    "from": "1962"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Legon", 
-    "name": "University of Ghana"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 727517, 
-   "activity": " University of Ghana in Accra"
-  }
- ], 
- "Schelsky, Helmut": [
-  {
-   "function": "Studium", 
-   "span": null, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": "Universit\u00e4t K\u00f6nigsberg"
-  }, 
-  {
-   "function": "Studium", 
-   "span": null, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Leipzig", 
-    "name": "Universit\u00e4t Leipzig"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 12411, 
-   "activity": " Universit\u00e4t Leipzig"
-  }, 
-  {
-   "function": "Lehramtspr\u00fcfung", 
-   "span": {
-    "to": null, 
-    "from": "1935"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Leipzig", 
-    "name": "Universit\u00e4t Leipzig"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 12411, 
-   "activity": "Universit\u00e4t Leipzig"
-  }, 
-  {
-   "function": "Promotion", 
-   "span": null, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Leipzig", 
-    "name": "Universit\u00e4t Leipzig"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 12411, 
-   "activity": "Universit\u00e4t Leipzig"
-  }, 
-  {
-   "function": "Assistent", 
-   "span": {
-    "to": "1940", 
-    "from": "1938"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": "Universit\u00e4t K\u00f6nigsberg"
-  }, 
-  {
-   "function": "Habilitation", 
-   "span": {
-    "to": null, 
-    "from": "1940"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": "Universit\u00e4t K\u00f6nigsberg"
-  }, 
-  {
-   "function": "Dozent", 
-   "span": null, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": "Universit\u00e4t K\u00f6nigsberg"
-  }, 
-  {
-   "function": "Assistent", 
-   "span": {
-    "to": "1941", 
-    "from": "1940"
-   }, 
-   "institution_l2": "Deutsches Wissenschaftliches Institut ", 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": " Universit\u00e4t Budapest"
-  }, 
-  {
-   "function": "Lehrstuhlvertretung", 
-   "span": {
-    "to": null, 
-    "from": "1942"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Leipzig", 
-    "name": "Universit\u00e4t Leipzig"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 12411, 
-   "activity": "Universit\u00e4t Leipzig"
-  }, 
-  {
-   "function": "Au\u00dferordentlicher Professor", 
-   "span": {
-    "to": null, 
-    "from": "1943"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": "Reichsuniversit\u00e4t Stra\u00dfburg"
-  }, 
-  {
-   "function": "Vertretungsprofessur", 
-   "span": {
-    "to": null, 
-    "from": "1948"
-   }, 
-   "institution_l2": "Soziologie", 
-   "institution_l1": {
-    "city": "Hamburg", 
-    "name": "Hamburger Universit\u00e4t f\u00fcr Wirtschaft und Politik"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 1532, 
-   "activity": "Akademie f\u00fcr Gemeinwirtschaft Hamburg"
-  }, 
-  {
-   "function": "Ordentlicher Professor", 
-   "span": {
-    "to": null, 
-    "from": "1949"
-   }, 
-   "institution_l2": "Soziologie", 
-   "institution_l1": {
-    "city": "Hamburg", 
-    "name": "Hamburger Universit\u00e4t f\u00fcr Wirtschaft und Politik"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 1532, 
-   "activity": "Akademie f\u00fcr Gemeinwirtschaft Hamburg"
-  }, 
-  {
-   "function": "Leitung der Akademie f\u00fcr Gemeinwirtschaft Hamburg ", 
-   "span": {
-    "to": "1950", 
-    "from": "1949"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Hamburg", 
-    "name": "Hamburger Universit\u00e4t f\u00fcr Wirtschaft und Politik"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 1532, 
-   "activity": "Akademie f\u00fcr Gemeinwirtschaft Hamburg"
-  }, 
-  {
-   "function": "Professor", 
-   "span": {
-    "to": "1960", 
-    "from": "1953"
-   }, 
-   "institution_l2": "Philosophische Fakult\u00e4t", 
-   "institution_l1": {
-    "city": "Hamburg", 
-    "name": "Universit\u00e4t Hamburg"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3322, 
-   "activity": "Universit\u00e4t Hamburg"
-  }, 
-  {
-   "function": "Leitung ", 
-   "span": {
-    "to": "1970", 
-    "from": "1960"
-   }, 
-   "institution_l2": "Staatswissenschaftliche Fakult\u00e4t", 
-   "institution_l1": {
-    "city": "M\u00fcnster", 
-    "name": "FB 03 Rechtswissenschaftliche Fakult\u00e4t"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 4040, 
-   "activity": "Universit\u00e4t M\u00fcnster"
-  }, 
-  {
-   "function": "Spiritus Rector", 
-   "span": {
-    "to": null, 
-    "from": "1965"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Bielefeld", 
-    "name": "Universit\u00e4t Bielefeld"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3300, 
-   "activity": "Reformuniversit\u00e4t Bielefeld"
-  }, 
-  {
-   "function": "Professor", 
-   "span": {
-    "to": null, 
-    "from": "1970"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Bielefeld", 
-    "name": "Universit\u00e4t Bielefeld"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3300, 
-   "activity": "Bielefelder Universit\u00e4t"
-  }, 
-  {
-   "function": "Leitung", 
-   "span": {
-    "to": "1973", 
-    "from": "1970"
-   }, 
-   "institution_l2": "Zentrum f\u00fcr interdisziplin\u00e4re Forschung (ZiF)", 
-   "institution_l1": {
-    "city": "Bielefeld", 
-    "name": "Zentrum f\u00fcr interdisziplin\u00e4re Forschung -ZiF-"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 4808, 
-   "activity": "Bielefelder Universit\u00e4t, Rheda"
-  }, 
-  {
-   "function": "Professor", 
-   "span": {
-    "to": "1978", 
-    "from": "1973"
-   }, 
-   "institution_l2": "Juristischen Fakult\u00e4t", 
-   "institution_l1": {
-    "city": "M\u00fcnster", 
-    "name": "FB 03 Rechtswissenschaftliche Fakult\u00e4t"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 4040, 
-   "activity": "Universit\u00e4t M\u00fcnster"
-  }, 
-  {
-   "function": "Leitung", 
-   "span": {
-    "to": "1978", 
-    "from": "1973"
-   }, 
-   "institution_l2": "Institut f\u00fcr Wirtschafts- und Sozialwissenschaften", 
-   "institution_l1": {
-    "city": "M\u00fcnster", 
-    "name": "FB 04 Wirtschaftswissenschaftliche Fakult\u00e4t"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 4065, 
-   "activity": "Universit\u00e4t M\u00fcnster"
-  }, 
-  {
-   "function": "Senator", 
-   "span": null, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Bonn", 
-    "name": "Deutsche Forschungsgemeinschaft"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 9494, 
-   "activity": "Deutsche Forschungsgemeinschaft"
-  }, 
-  {
-   "function": "Honorarprofessor", 
-   "span": {
-    "to": "1984", 
-    "from": "1978"
-   }, 
-   "institution_l2": "Rechtssoziologie", 
-   "institution_l1": {
-    "city": null, 
-    "name": "Rechtswissenschaftliche Fakult\u00e4t (Graz), Karl-Franzens-Universit\u00e4t Graz (Graz)"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 8473, 
-   "activity": "Universit\u00e4t Graz"
-  }
- ], 
- "Popper, Karl R.": [
-  {
-   "function": "Studium ", 
-   "span": {
-    "to": null, 
-    "from": "1918"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Wien", 
-    "name": "Universit\u00e4t Wien"
-   }, 
-   "source": "Lemo", 
-   "sofis_id": 3351, 
-   "activity": "Universit\u00e4t Wien"
-  }, 
-  {
-   "function": "Studium", 
-   "span": {
-    "to": null, 
-    "from": "1925"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Lemo", 
-   "sofis_id": null, 
-   "activity": "P\u00e4dagogisches Institut Wien"
-  }, 
-  {
-   "function": "Studium", 
-   "span": {
-    "to": null, 
-    "from": "1928"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Wien", 
-    "name": "Universit\u00e4t Wien"
-   }, 
-   "source": "https://austria-forum.org/af/Biographien/Popper%2C_Karl_Raimund", 
-   "sofis_id": 3351, 
-   "activity": "Universit\u00e4t Wien"
-  }, 
-  {
-   "function": "Dozent", 
-   "span": {
-    "to": "1945", 
-    "from": "1937"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "https://austria-forum.org/af/Biographien/Popper%2C_Karl_Raimund", 
-   "sofis_id": null, 
-   "activity": "University of Canterbury, Christchurch, Neuseeland"
-  }, 
-  {
-   "function": "Professor und Vorstand ", 
-   "span": {
-    "to": "1969", 
-    "from": "1946"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "London", 
-    "name": "University of London"
-   }, 
-   "source": "https://austria-forum.org/af/Biographien/Popper%2C_Karl_Raimund", 
-   "sofis_id": 10029, 
-   "activity": "University of London"
-  }
- ], 
- "Foucault, Michel": [
-  {
-   "function": "Studium", 
-   "span": {
-    "to": null, 
-    "from": "1946"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": " \u00c9cole normale sup\u00e9rieure"
-  }, 
-  {
-   "function": "Abschluss in Psychologie", 
-   "span": {
-    "to": null, 
-    "from": "1949"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": null, 
-    "name": "gel\u00f6scht"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": "gel\u00f6scht", 
-   "activity": "Sorbonne"
-  }, 
-  {
-   "function": " Zulassungspr\u00fcfung in Philosophie f\u00fcr Hochschulen", 
-   "span": {
-    "to": null, 
-    "from": "1951"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": null
-  }, 
-  {
-   "function": "diplomierter Abschluss", 
-   "span": {
-    "to": "1953", 
-    "from": "1952"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": "Krankenhaus Sainte-Anne "
-  }, 
-  {
-   "function": "Lektorat ", 
-   "span": {
-    "to": null, 
-    "from": "1954"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Uppsala", 
-    "name": "Uppsala University"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 11512, 
-   "activity": "Universit\u00e4t Uppsala, Schweden"
-  }, 
-  {
-   "function": "Direktor des centre fran\u00e7ais", 
-   "span": null, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Warschau", 
-    "name": "University of Warsaw"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 10686, 
-   "activity": "Universit\u00e4t Warschau"
-  }, 
-  {
-   "function": " Leiter des Institut Fran\u00e7ais", 
-   "span": {
-    "to": "1960", 
-    "from": "1959"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Hamburg", 
-    "name": "Universit\u00e4t Hamburg"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3322, 
-   "activity": "Universit\u00e4t Hamburg"
-  }, 
-  {
-   "function": "Privatdozent", 
-   "span": {
-    "to": null, 
-    "from": "1960"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": "Universit\u00e4t Clermont-Ferrand"
-  }, 
-  {
-   "function": "Dissertation", 
-   "span": {
-    "to": null, 
-    "from": "1961"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": null
-  }, 
-  {
-   "function": "Berufung auf Professur", 
-   "span": {
-    "to": null, 
-    "from": "1962"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": "Universit\u00e4t Clermont-Ferrand"
-  }, 
-  {
-   "function": "Lehrt\u00e4tigkeit", 
-   "span": {
-    "to": null, 
-    "from": "1966"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Tunis", 
-    "name": "University of Tunis El Manar"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 72450, 
-   "activity": "Universit\u00e4t Tunis"
-  }, 
-  {
-   "function": "Dozent und Leiter", 
-   "span": {
-    "to": null, 
-    "from": "1968"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": "Reform-Universit\u00e4t Paris VIII in Vincennes"
-  }, 
-  {
-   "function": "Professur", 
-   "span": {
-    "to": "1984", 
-    "from": "1970"
-   }, 
-   "institution_l2": " Lehrstuhl Geschichte der Denksysteme", 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": "Coll\u00e8ge de France"
-  }
- ], 
- "Luckmann, Thomas": [
-  {
-   "function": "Studium", 
-   "span": {
-    "to": "1948", 
-    "from": "1947"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": null, 
-    "name": "Universit\u00e4t Wien"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3351, 
-   "activity": "Universit\u00e4t Wien"
-  }, 
-  {
-   "function": "Studium", 
-   "span": {
-    "to": "1950", 
-    "from": "1948"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": null, 
-    "name": "Universit\u00e4t Innsbruck"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3326, 
-   "activity": "Universit\u00e4t Innsbruck"
-  }, 
-  {
-   "function": "Studium", 
-   "span": {
-    "to": "1953", 
-    "from": "1950"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": null, 
-    "name": "New School for Social Research, New York"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 10684, 
-   "activity": "New School for Social Research, New York"
-  }, 
-  {
-   "function": "Promotion", 
-   "span": {
-    "to": null, 
-    "from": "1956"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": null, 
-    "name": "n "
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": "n "
-  }, 
-  {
-   "function": "Teaching Assistent", 
-   "span": null, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": null, 
-    "name": "Hobart College, Geneva New York"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": "Hobart College, Geneva New York"
-  }, 
-  {
-   "function": "Assistent", 
-   "span": {
-    "to": null, 
-    "from": "1960"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wkipedia", 
-   "sofis_id": null, 
-   "activity": null
-  }, 
-  {
-   "function": "Associate Professor", 
-   "span": null, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": null, 
-    "name": "New School for Social Research"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 10684, 
-   "activity": "New School for Social Research"
-  }, 
-  {
-   "function": "Professor", 
-   "span": {
-    "to": "1970", 
-    "from": "1965"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": null, 
-    "name": " Universit\u00e4t Frankfurt am Main"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3313, 
-   "activity": " Universit\u00e4t Frankfurt am Main"
-  }, 
-  {
-   "function": "Professor", 
-   "span": {
-    "to": "1994", 
-    "from": "1970"
-   }, 
-   "institution_l2": "Soziologie", 
-   "institution_l1": {
-    "city": null, 
-    "name": "Universit\u00e4t Konstanz"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3332, 
-   "activity": " Universit\u00e4t Konstanz"
-  }
- ], 
- "Berger, Peter L.": [
-  {
-   "function": "Studium", 
-   "span": {
-    "to": null, 
-    "from": "1949"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "https://www.munzinger.de/search/portrait/Peter+L+Berger/0/28277.html", 
-   "sofis_id": null, 
-   "activity": "Wagner College"
-  }, 
-  {
-   "function": "Studium", 
-   "span": {
-    "to": null, 
-    "from": "1950"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "New York", 
-    "name": "New School for Social Research New York"
-   }, 
-   "source": "https://www.munzinger.de/search/portrait/Peter+L+Berger/0/28277.html", 
-   "sofis_id": 10684, 
-   "activity": "New School for Social Research"
-  }, 
-  {
-   "function": "Studium", 
-   "span": {
-    "to": null, 
-    "from": "1954"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "New York", 
-    "name": "New School for Social Research New York"
-   }, 
-   "source": "CURA (Institute on Culture, Religion & World Affairs)", 
-   "sofis_id": 10684, 
-   "activity": "New School for Social Research"
-  }, 
-  {
-   "function": "Research director", 
-   "span": {
-    "to": "1956", 
-    "from": "1955"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "CURA (Institute on Culture, Religion & World Affairs)", 
-   "sofis_id": null, 
-   "activity": "Protestant Academy, Bad Boll (Germany)"
-  }, 
-  {
-   "function": "Assistant Professor ", 
-   "span": {
-    "to": "1958", 
-    "from": "1956"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Chapel Hill", 
-    "name": "University of North Carolina at Chapel Hill"
-   }, 
-   "source": "CURA (Institute on Culture, Religion & World Affairs)", 
-   "sofis_id": 3280, 
-   "activity": "Woman\u2019s College, University of North Carolina"
-  }, 
-  {
-   "function": "Associate professor and director of the Institute on Church and Community", 
-   "span": {
-    "to": "1963", 
-    "from": "1958"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "CURA (Institute on Culture, Religion & World Affairs)", 
-   "sofis_id": null, 
-   "activity": "Hartford Theological Seminary"
-  }, 
-  {
-   "function": "Associate professor", 
-   "span": {
-    "to": null, 
-    "from": "1963"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "New York", 
-    "name": "New School for Social Research New York"
-   }, 
-   "source": "CURA (Institute on Culture, Religion & World Affairs)", 
-   "sofis_id": 10684, 
-   "activity": "New School for Social Research"
-  }, 
-  {
-   "function": "Professor", 
-   "span": {
-    "to": null, 
-    "from": "1970"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "New York", 
-    "name": "New School for Social Research New York"
-   }, 
-   "source": "CURA (Institute on Culture, Religion & World Affairs)", 
-   "sofis_id": 10684, 
-   "activity": "New School for Social Research"
-  }, 
-  {
-   "function": "Professor", 
-   "span": {
-    "to": "1979", 
-    "from": "1970"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "CURA (Institute on Culture, Religion & World Affairs)", 
-   "sofis_id": null, 
-   "activity": "Rutgers University New Brunswick, New Jersey"
-  }, 
-  {
-   "function": "Professor", 
-   "span": {
-    "to": "1981", 
-    "from": "1979"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "CURA (Institute on Culture, Religion & World Affairs)", 
-   "sofis_id": null, 
-   "activity": "Boston College"
-  }, 
-  {
-   "function": "Professor", 
-   "span": {
-    "to": "2009", 
-    "from": "1981"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Boston", 
-    "name": "Boston University"
-   }, 
-   "source": "CURA (Institute on Culture, Religion & World Affairs)", 
-   "sofis_id": 14150, 
-   "activity": "Boston University"
-  }, 
-  {
-   "function": "Director ", 
-   "span": {
-    "to": "2010", 
-    "from": "1985"
-   }, 
-   "institution_l2": "In 1985 he founded the Institute for the Study of Economic Culture, which later transformed into the Institute on Culture, Religion and World Affairs (CURA), and is now part of the Boston University Pardee School of Global Studies.[", 
-   "institution_l1": {
-    "city": "Boston", 
-    "name": "Boston University"
-   }, 
-   "source": "CURA (Institute on Culture, Religion & World Affairs)", 
-   "sofis_id": 14150, 
-   "activity": "Boston University (Boston)"
-  }
- ], 
- "Dahrendorf, Ralf": [
-  {
-   "function": "politischer Lehrgang", 
-   "span": {
-    "to": null, 
-    "from": "1948"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": " Wilton Park"
-  }, 
-  {
-   "function": "Studium", 
-   "span": null, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Hamburg", 
-    "name": "Universit\u00e4t Hamburg"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3322, 
-   "activity": "Universit\u00e4t Hamburg"
-  }, 
-  {
-   "function": "Promotion", 
-   "span": {
-    "to": null, 
-    "from": "1952"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Hamburg", 
-    "name": "Universit\u00e4t Hamburg"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3322, 
-   "activity": "Universit\u00e4t Hamburg"
-  }, 
-  {
-   "function": "Ph.-D.-Studium", 
-   "span": {
-    "to": "1954", 
-    "from": "1952"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "London", 
-    "name": "London School of Economics and Political Science"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 10031, 
-   "activity": "London School of Economics"
-  }, 
-  {
-   "function": "Habilitation", 
-   "span": {
-    "to": null, 
-    "from": "1957"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Saarbr\u00fccken", 
-    "name": "Universit\u00e4t des Saarlandes"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3345, 
-   "activity": " Universit\u00e4t des Saarlandes"
-  }, 
-  {
-   "function": "Professor", 
-   "span": {
-    "to": "1960", 
-    "from": "1958"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": " Akademie f\u00fcr Gemeinwirtschaft in Hamburg"
-  }, 
-  {
-   "function": "Professor", 
-   "span": {
-    "to": "1960", 
-    "from": "1958"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Hamburg", 
-    "name": "Universit\u00e4t Hamburg"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3322, 
-   "activity": "Universit\u00e4t Hamburg"
-  }, 
-  {
-   "function": "Professor", 
-   "span": null, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "T\u00fcbingen", 
-    "name": "Eberhard Karls Universit\u00e4t T\u00fcbingen"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3349, 
-   "activity": "Universit\u00e4t T\u00fcbingen"
-  }, 
-  {
-   "function": "Professor", 
-   "span": null, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Konstanz", 
-    "name": "Universit\u00e4t Konstanz"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3332, 
-   "activity": "Universit\u00e4t Konstanz"
-  }
- ], 
- "F\u00fcrstenberg, Friedrich": [
-  {
-   "function": "Studium", 
-   "span": {
-    "to": null, 
-    "from": "1947"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "T\u00fcbingen", 
-    "name": "Eberhard Karls Universit\u00e4t T\u00fcbingen"
-   }, 
-   "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
-   "sofis_id": 3349, 
-   "activity": "Univesit\u00e4t T\u00fcbingen"
-  }, 
-  {
-   "function": "Studium", 
-   "span": {
-    "to": null, 
-    "from": "1951"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "T\u00fcbingen", 
-    "name": "Eberhard Karls Universit\u00e4t T\u00fcbingen"
-   }, 
-   "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
-   "sofis_id": 3349, 
-   "activity": "Univesit\u00e4t T\u00fcbingen"
-  }, 
-  {
-   "function": "Studium", 
-   "span": {
-    "to": null, 
-    "from": "1952"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "T\u00fcbingen", 
-    "name": "Eberhard Karls Universit\u00e4t T\u00fcbingen"
-   }, 
-   "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
-   "sofis_id": 3349, 
-   "activity": "Univesit\u00e4t T\u00fcbingen"
-  }, 
-  {
-   "function": "Forschungsaufenthalt", 
-   "span": {
-    "to": "1954", 
-    "from": "1953"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Ithaca", 
-    "name": "Cornell University Ithaca"
-   }, 
-   "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
-   "sofis_id": 9834, 
-   "activity": "Cornell University"
-  }, 
-  {
-   "function": "Forschungsaufenthalt", 
-   "span": {
-    "to": null, 
-    "from": "1956"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Birmingham", 
-    "name": "University of Birmingham"
-   }, 
-   "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
-   "sofis_id": 17071, 
-   "activity": "Birmingham University"
-  }, 
-  {
-   "function": "Forschungsaufenthalt", 
-   "span": {
-    "to": null, 
-    "from": "1957"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "London", 
-    "name": "London School of Economics and Political Science"
-   }, 
-   "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
-   "sofis_id": 10031, 
-   "activity": "London School of Economics"
-  }, 
-  {
-   "function": "Forschungsaufenthalt", 
-   "span": {
-    "to": null, 
-    "from": "1958"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
-   "sofis_id": null, 
-   "activity": "Centre d`\u00e9tudes sociologiques Paris"
-  }, 
-  {
-   "function": "Assistenz Forschung", 
-   "span": {
-    "to": "1962", 
-    "from": "1961"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "N\u00fcrnberg", 
-    "name": "Forschungsinstitut f\u00fcr Genossenschaftswesen an der Universit\u00e4t Erlangen-N\u00fcrnberg"
-   }, 
-   "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
-   "sofis_id": 1190, 
-   "activity": "Universit\u00e4t Erlangen Forschungsinstitut f\u00fcr Genossenschaftswesen "
-  }, 
-  {
-   "function": "Assistenz Forschung", 
-   "span": {
-    "to": null, 
-    "from": "1962"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "N\u00fcrnberg", 
-    "name": "Forschungsinstitut f\u00fcr Genossenschaftswesen an der Universit\u00e4t Erlangen-N\u00fcrnberg"
-   }, 
-   "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
-   "sofis_id": 1190, 
-   "activity": "Universit\u00e4t Erlangen Forschungsinstitut f\u00fcr Genossenschaftswesen "
-  }, 
-  {
-   "function": "Professor", 
-   "span": {
-    "to": "1966", 
-    "from": "1963"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Clausthal-Zellerfeld", 
-    "name": "Technische Universit\u00e4t Clausthal"
-   }, 
-   "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
-   "sofis_id": 9708, 
-   "activity": "TU Clausthal"
-  }, 
-  {
-   "function": "Professor", 
-   "span": {
-    "to": "1980", 
-    "from": "1966"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Linz", 
-    "name": "Johannes Kepler Universit\u00e4t Linz"
-   }, 
-   "source": "wikipedia", 
-   "sofis_id": 9291, 
-   "activity": "Universit\u00e4t Linz"
-  }, 
-  {
-   "function": "Professor", 
-   "span": {
-    "to": "1986", 
-    "from": "1981"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Bochum", 
-    "name": "Ruhr-Universit\u00e4t Bochum"
-   }, 
-   "source": "wikipedia", 
-   "sofis_id": 3301, 
-   "activity": "Ruhr-Universit\u00e4t Bochum"
-  }, 
-  {
-   "function": "Professor", 
-   "span": {
-    "to": "1995", 
-    "from": "1986"
-   }, 
-   "institution_l2": "Philosophische Fakult\u00e4t", 
-   "institution_l1": {
-    "city": "Bonn", 
-    "name": "Philosophische Fakult\u00e4t"
-   }, 
-   "source": "https://soziologie.files.wordpress.com/2016/03/berufswegfc3bcrstenberg.pdf", 
-   "sofis_id": 8394, 
-   "activity": "Universit\u00e4t Bonn"
-  }
- ], 
- "Mauss, Marcel": [
-  {
-   "function": "Dozent", 
-   "span": null, 
-   "institution_l2": "Fachbereich Religionswissenschaften", 
-   "institution_l1": {
-    "city": "Paris", 
-    "name": "\u00c9cole Pratique des Hautes \u00c9tudes"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 14846, 
-   "activity": "\u00c9cole Pratique des Hautes \u00c9tudes "
-  }, 
-  {
-   "function": "Gr\u00fcnder der Zeitschrift L'Ann\u00e9e Sociologique zusammen mit Durkheim", 
-   "span": null, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": null
-  }, 
-  {
-   "function": "Gr\u00fcnder des  Institut d'Ethnologie in Paris", 
-   "span": {
-    "to": null, 
-    "from": "1925"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": " Institut d'Ethnologie in Paris"
-  }, 
-  {
-   "function": "Professor", 
-   "span": null, 
-   "institution_l2": "Lehrstuhl f\u00fcr Soziologie", 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": "Coll\u00e8ge de France"
-  }
- ], 
- "Weber, Max": [
-  {
-   "function": "Studium", 
-   "span": {
-    "to": "1886", 
-    "from": "1882"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Stra\u00dfburg", 
-    "name": "University of Strasbourg"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 727524, 
-   "activity": "Universit\u00e4t  Stra\u00dfburg"
-  }, 
-  {
-   "function": "Studium", 
-   "span": {
-    "to": "1886", 
-    "from": "1882"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Heidelberg", 
-    "name": "Universit\u00e4t Heidelberg"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3324, 
-   "activity": "Universit\u00e4t Heidelberg"
-  }, 
-  {
-   "function": "Studium", 
-   "span": {
-    "to": "1886", 
-    "from": "1882"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": null, 
-    "name": "Universit\u00e4t G\u00f6ttingen"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 9292, 
-   "activity": "Universit\u00e4t G\u00f6ttingen"
-  }, 
-  {
-   "function": "Studium", 
-   "span": {
-    "to": "1886", 
-    "from": "1882"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Berlin", 
-    "name": "Humboldt-Universit\u00e4t Berlin"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 12708, 
-   "activity": " Friedrich-Wilhelms-Universit\u00e4t zu Berlin"
-  }, 
-  {
-   "function": "Promotion", 
-   "span": {
-    "to": null, 
-    "from": "1889"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Berlin", 
-    "name": "Humboldt-Universit\u00e4t Berlin"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 12708, 
-   "activity": " Friedrich-Wilhelms-Universit\u00e4t zu Berlin"
-  }, 
-  {
-   "function": "Habilitation", 
-   "span": {
-    "to": null, 
-    "from": "1892"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Berlin", 
-    "name": "Humboldt-Universit\u00e4t Berlin"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 12708, 
-   "activity": " Friedrich-Wilhelms-Universit\u00e4t zu Berlin"
-  }, 
-  {
-   "function": "Au\u00dferordentlicher Professor", 
-   "span": {
-    "to": null, 
-    "from": "1893"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Berlin", 
-    "name": "Humboldt-Universit\u00e4t Berlin"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 12708, 
-   "activity": " Friedrich-Wilhelms-Universit\u00e4t zu Berlin"
-  }, 
-  {
-   "function": "Lehrstuhl f\u00fcr National\u00f6konomie", 
-   "span": {
-    "to": null, 
-    "from": "1894"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Freiburg im Breisgau", 
-    "name": "Albert-Ludwigs-Universit\u00e4t Freiburg"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3314, 
-   "activity": "Albert-Ludwigs-Universit\u00e4t Freiburg"
-  }, 
-  {
-   "function": "Ruf auf den renommierten Lehrstuhl von Karl Knies", 
-   "span": {
-    "to": "1903", 
-    "from": "1896"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Heidelberg", 
-    "name": "Universit\u00e4t Heidelberg"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3324, 
-   "activity": "Ruprecht-Karls-Universit\u00e4t Heidelberg"
-  }, 
-  {
-   "function": "Professor", 
-   "span": {
-    "to": "1918", 
-    "from": "1917"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Wien", 
-    "name": "Universit\u00e4t Wien"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3351, 
-   "activity": "Universit\u00e4t Wien"
-  }, 
-  {
-   "function": "Professor", 
-   "span": {
-    "to": null, 
-    "from": "1919"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "M\u00fcnchen", 
-    "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3339, 
-   "activity": " Universit\u00e4t M\u00fcnchen"
-  }, 
-  {
-   "function": "Mitglied in der Bayerischen Akademie der Wissenschaften", 
-   "span": {
-    "to": null, 
-    "from": "1919"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": "Mitglied in der Bayerischen Akademie der Wissenschaften"
-  }
- ], 
- "Goffman, Erving": [
-  {
-   "function": "Studium ", 
-   "span": {
-    "to": null, 
-    "from": "1939"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
-   "sofis_id": null, 
-   "activity": "University of Manitoba"
-  }, 
-  {
-   "function": "Studium ", 
-   "span": {
-    "to": "1945", 
-    "from": "1944"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Toronto", 
-    "name": "University of Toronto"
-   }, 
-   "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
-   "sofis_id": 3286, 
-   "activity": "University of Toronto"
-  }, 
-  {
-   "function": "Studium (M.A.)", 
-   "span": {
-    "to": "1949", 
-    "from": "1945"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Chicago", 
-    "name": "University of Chicago"
-   }, 
-   "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
-   "sofis_id": 3270, 
-   "activity": "University of Chicago"
-  }, 
-  {
-   "function": "Mitglied des Department of Social Anthropology der University of Edinburgh in Edinburgh", 
-   "span": {
-    "to": "1951", 
-    "from": "1949"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Edinburgh", 
-    "name": "University of Edinburgh"
-   }, 
-   "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
-   "sofis_id": 11192, 
-   "activity": "University of Edinburgh"
-  }, 
-  {
-   "function": "Research Assistant", 
-   "span": {
-    "to": "1953", 
-    "from": "1952"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Chicago", 
-    "name": "University of Chicago"
-   }, 
-   "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
-   "sofis_id": 3270, 
-   "activity": "University of Chicago"
-  }, 
-  {
-   "function": "Ph.D.", 
-   "span": {
-    "to": null, 
-    "from": "1953"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Chicago", 
-    "name": "University of Chicago"
-   }, 
-   "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
-   "sofis_id": 3270, 
-   "activity": "University of Chicago"
-  }, 
-  {
-   "function": "Resident Associate an der Division of Social Sciences", 
-   "span": {
-    "to": "1954", 
-    "from": "1953"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Chicago", 
-    "name": "University of Chicago"
-   }, 
-   "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
-   "sofis_id": 3270, 
-   "activity": "University of Chicago"
-  }, 
-  {
-   "function": "Visting Scientist", 
-   "span": {
-    "to": "1957", 
-    "from": "1954"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
-   "sofis_id": null, 
-   "activity": "National Institute of Mental Health in Bethesda, Maryland"
-  }, 
-  {
-   "function": "Visiting Assistant Professor", 
-   "span": {
-    "to": "1959", 
-    "from": "1958"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Berkeley", 
-    "name": "University of California Berkeley"
-   }, 
-   "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
-   "sofis_id": 3269, 
-   "activity": "University of California in Berkeley"
-  }, 
-  {
-   "function": "Associate Professor", 
-   "span": {
-    "to": "1962", 
-    "from": "1959"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Berkeley", 
-    "name": "University of California Berkeley"
-   }, 
-   "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
-   "sofis_id": 3269, 
-   "activity": "University of California in Berkeley"
-  }, 
-  {
-   "function": "Full Professor ", 
-   "span": {
-    "to": "1966", 
-    "from": "1962"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Berkeley", 
-    "name": "University of California Berkeley"
-   }, 
-   "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
-   "sofis_id": 3269, 
-   "activity": "University of California in Berkeley"
-  }, 
-  {
-   "function": "Sabbatical Year am Harvard Center for International Affairs in Weatherhead, Massachusetts", 
-   "span": {
-    "to": "1967", 
-    "from": "1966"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
-   "sofis_id": null, 
-   "activity": "Harvard Center for International Affairs in Weatherhead, Massachusetts"
-  }, 
-  {
-   "function": "Full Professor ", 
-   "span": {
-    "to": "1968", 
-    "from": "1967"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Berkeley", 
-    "name": "University of California Berkeley"
-   }, 
-   "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
-   "sofis_id": 3269, 
-   "activity": "University of California in Berkeley"
-  }, 
-  {
-   "function": "Full Professor ", 
-   "span": {
-    "to": "1982", 
-    "from": "1968"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Philadelphia", 
-    "name": "University of Pennsylvania"
-   }, 
-   "source": "Uni Graz Lexikon 50 Klassiker der Soziologie (http://agso.uni-graz.at/lexikon/klassiker/goffman/20li.htm)", 
-   "sofis_id": 727522, 
-   "activity": "University of Pennsylvania "
-  }
- ], 
- "Parsons, Talcott": [
-  {
-   "function": "Studium", 
-   "span": {
-    "to": "1924", 
-    "from": "1920"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": "Amherst College,  Massachusetts"
-  }, 
-  {
-   "function": "Studium", 
-   "span": {
-    "to": "1925", 
-    "from": "1924"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "London", 
-    "name": "London School of Economics and Political Science"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 10031, 
-   "activity": " London School of Economics and Political Science in London "
-  }, 
-  {
-   "function": "Promotionsstudium", 
-   "span": {
-    "to": "1927", 
-    "from": "1925"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Heidelberg", 
-    "name": "Universit\u00e4t Heidelberg"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3324, 
-   "activity": "Universit\u00e4t Heidelberg"
-  }, 
-  {
-   "function": "Lehrbeauftragter", 
-   "span": {
-    "to": null, 
-    "from": "1926"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": "Amherst College,  Massachusetts"
-  }, 
-  {
-   "function": "Promotion", 
-   "span": {
-    "to": null, 
-    "from": "1927"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Heidelberg", 
-    "name": "Universit\u00e4t Heidelberg"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 3324, 
-   "activity": "Universit\u00e4t Heidelberg"
-  }, 
-  {
-   "function": "Lehre", 
-   "span": {
-    "to": "1973", 
-    "from": "1927"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Cambridge", 
-    "name": "Harvard University Cambridge"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 1473, 
-   "activity": "Harvard University in Cambridge, Massachusetts"
-  }, 
-  {
-   "function": "Lehre", 
-   "span": {
-    "to": null, 
-    "from": "1930"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Cambridge", 
-    "name": "Harvard University Cambridge"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 1473, 
-   "activity": "Harvard University in Cambridge, Massachusetts"
-  }, 
-  {
-   "function": "Associate Professor", 
-   "span": {
-    "to": null, 
-    "from": "1937"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Cambridge", 
-    "name": "Harvard University Cambridge"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 1473, 
-   "activity": "Harvard University in Cambridge, Massachusetts"
-  }, 
-  {
-   "function": "Full Professor", 
-   "span": {
-    "to": null, 
-    "from": "1944"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Cambridge", 
-    "name": "Harvard University Cambridge"
-   }, 
-   "source": "Wikipedia", 
-   "sofis_id": 1473, 
-   "activity": "Harvard University in Cambridge, Massachusetts"
-  }, 
-  {
-   "function": "39. Pr\u00e4sident der American Sociological Association", 
-   "span": {
-    "to": null, 
-    "from": "1949"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Wikipedia", 
-   "sofis_id": null, 
-   "activity": "American Sociological Association"
-  }
- ], 
- "Boudon, Raymond": [
-  {
-   "function": "Education", 
-   "span": {
-    "to": "1958", 
-    "from": "1954"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Academia Europaea", 
-   "sofis_id": null, 
-   "activity": "\u00c9cole Normale Sup\u00e9rieure"
-  }, 
-  {
-   "function": "Education", 
-   "span": {
-    "to": "1957", 
-    "from": "1956"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Freiburg im Breisgau", 
-    "name": "Albert-Ludwigs-Universit\u00e4t Freiburg"
-   }, 
-   "source": "Academia Europaea", 
-   "sofis_id": 3314, 
-   "activity": "Universit\u00e4t Freiburg"
-  }, 
-  {
-   "function": "Agr\u00e9gation ", 
-   "span": {
-    "to": null, 
-    "from": "1958"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": null, 
-    "name": "n (gel\u00f6scht)"
-   }, 
-   "source": "Academia Europaea", 
-   "sofis_id": "n (gel\u00f6scht)", 
-   "activity": "Sorbonne"
-  }, 
-  {
-   "function": "Education", 
-   "span": {
-    "to": "1961", 
-    "from": "1960"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "New York", 
-    "name": "Columbia University New York"
-   }, 
-   "source": "Academia Europaea", 
-   "sofis_id": 659, 
-   "activity": "Columbia University"
-  }, 
-  {
-   "function": "Research Fellow", 
-   "span": {
-    "to": "1963", 
-    "from": "1961"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": "Paris", 
-    "name": "Centre National de la Recherche Scientifique"
-   }, 
-   "source": "Academia Europaea", 
-   "sofis_id": 647, 
-   "activity": "French National Center for Scientific Research (CNRS)"
-  }, 
-  {
-   "function": "Associate Professor", 
-   "span": {
-    "to": "1967", 
-    "from": "1963"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": null, 
-   "source": "Academia Europaea", 
-   "sofis_id": "n ", 
-   "activity": "University of Bordeaux"
-  }, 
-  {
-   "function": "Doctorate ", 
-   "span": {
-    "to": null, 
-    "from": "1967"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": null, 
-    "name": "n (gel\u00f6scht)"
-   }, 
-   "source": "Academia Europaea", 
-   "sofis_id": "n (gel\u00f6scht)", 
-   "activity": "Sorbonne"
-  }, 
-  {
-   "function": "Professor", 
-   "span": {
-    "to": "2002", 
-    "from": "1967"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": null, 
-    "name": "n (gel\u00f6scht)"
-   }, 
-   "source": "Academia Europaea", 
-   "sofis_id": "n (gel\u00f6scht)", 
-   "activity": "Sorbonne"
-  }, 
-  {
-   "function": "Professor emeritus", 
-   "span": {
-    "to": null, 
-    "from": "2002"
-   }, 
-   "institution_l2": null, 
-   "institution_l1": {
-    "city": null, 
-    "name": "n (gel\u00f6scht)"
-   }, 
-   "source": "Academia Europaea", 
-   "sofis_id": "n (gel\u00f6scht)", 
-   "activity": "Sorbonne"
-  }
- ]
+ }
 }

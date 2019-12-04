@@ -1,0 +1,18 @@
+{
+    "@context": {
+        "Person": "https://schema.org/Person",
+        "name": "https://schema.org/name",
+        "cv_entries": "https://schema.org/hasOccupation",
+        "Occupation": "https://schema.org/Role",
+        "function": "https://schema.org/roleName",
+        "activity": "https://schema.org/description",
+        "location": "https://schema.org/location",
+        "start_date": "https://schema.org/startDate",
+        "end_date": "https://schema.org/endDate",
+        "source": "https://schema.org/citation",
+        "institution_l1": {
+            "@type": "https://schema.org/Organization",
+            "@id": "@type"
+        }
+    }
+}

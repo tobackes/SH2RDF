@@ -1,0 +1,5954 @@
+{
+ "Kohler, Ulrich": [
+  {
+   "function": "Wissenschaftlicher Mitarbeiter", 
+   "span": {
+    "to": "2001", 
+    "from": "1996"
+   }, 
+   "institution_l2": "Lehrstuhl f\u00fcr Methoden der empirischen Sozialforschung und angewandte Soziologie an der sozialwissenschaftlichen Fakult\u00e4t der Universit\u00e4t Mannheim", 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Lehrstuhl f\u00fcr Methoden der empirischen Sozialforschung"
+   }, 
+   "source": "WZB", 
+   "sofis_id": 7417, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Promotion", 
+   "span": {
+    "to": null, 
+    "from": "2001"
+   }, 
+   "institution_l2": "Lehrstuhl f\u00fcr Methoden der empirischen Sozialforschung und angewandte Soziologie an der sozialwissenschaftlichen Fakult\u00e4t der Universit\u00e4t Mannheim", 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Lehrstuhl f\u00fcr Methoden der empirischen Sozialforschung"
+   }, 
+   "source": "WZB", 
+   "sofis_id": 7417, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Wissenschaftlicher Assistent", 
+   "span": {
+    "to": "2003", 
+    "from": "2001"
+   }, 
+   "institution_l2": "Lehrstuhl f\u00fcr Methoden der empirischen Sozialforschung und angewandte Soziologie an der sozialwissenschaftlichen Fakult\u00e4t der Universit\u00e4t Mannheim", 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Lehrstuhl f\u00fcr Methoden der empirischen Sozialforschung"
+   }, 
+   "source": "WZB", 
+   "sofis_id": 7417, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Professor", 
+   "span": {
+    "to": null, 
+    "from": "2012"
+   }, 
+   "institution_l2": "Professur f\u00fcr Methoden der empirischen Sozialforschung ", 
+   "institution_l1": {
+    "city": "Potsdam", 
+    "name": "Professur f\u00fcr Methoden der empirischen Sozialforschung"
+   }, 
+   "source": "Universit\u00e4t Potsdam", 
+   "sofis_id": 15213, 
+   "activity": "Universit\u00e4t Potsdam"
+  }, 
+  {
+   "function": "Studium ", 
+   "span": {
+    "to": "1992", 
+    "from": "1989"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Konstanz", 
+    "name": "Universit\u00e4t Konstanz"
+   }, 
+   "source": "WZB", 
+   "sofis_id": 3332, 
+   "activity": "Universit\u00e4t Konstanz "
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": "1996", 
+    "from": "1992"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "WZB", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": null, 
+    "from": "1996"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "WZB", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Wissenschaftlicher Mitarbeiter", 
+   "span": {
+    "to": "2012", 
+    "from": "2003"
+   }, 
+   "institution_l2": "Wissenschaftszentrum Berlin f\u00fcr Sozialforschung gGmbH Schwerpunkt Bildung, Arbeit und Lebenschancen Abt. Ungleichheit und soziale Integration ", 
+   "institution_l1": {
+    "city": "Berlin", 
+    "name": "Wissenschaftszentrum Berlin f\u00fcr Sozialforschung gGmbH Schwerpunkt Bildung, Arbeit und Lebenschancen Abt. Ungleichheit und soziale Integration"
+   }, 
+   "source": "WZB", 
+   "sofis_id": 26245, 
+   "activity": "WZB"
+  }, 
+  {
+   "function": "Projektleitung \"Die wirtschaftlichen Folgen zentraler Lebensrisiken in Deutschland und den USA und ihre Entwicklung seit den achtziger Jahren\"", 
+   "span": {
+    "to": "2012", 
+    "from": "2009"
+   }, 
+   "institution_l2": "Wissenschaftszentrum Berlin f\u00fcr Sozialforschung gGmbH Schwerpunkt Bildung, Arbeit und Lebenschancen Abt. Ungleichheit und soziale Integration ", 
+   "institution_l1": {
+    "city": "Berlin", 
+    "name": "Wissenschaftszentrum Berlin f\u00fcr Sozialforschung gGmbH Schwerpunkt Bildung, Arbeit und Lebenschancen Abt. Ungleichheit und soziale Integration"
+   }, 
+   "source": "WZB", 
+   "sofis_id": 26245, 
+   "activity": "WZB"
+  }, 
+  {
+   "function": "Gesch\u00e4ftsf\u00fchrender wissenschaftlicher Mitarbeiter", 
+   "span": {
+    "to": "2012", 
+    "from": "2011"
+   }, 
+   "institution_l2": "Wissenschaftszentrum Berlin f\u00fcr Sozialforschung gGmbH Schwerpunkt Bildung, Arbeit und Lebenschancen Abt. Ungleichheit und soziale Integration ", 
+   "institution_l1": {
+    "city": "Berlin", 
+    "name": "Wissenschaftszentrum Berlin f\u00fcr Sozialforschung gGmbH Schwerpunkt Bildung, Arbeit und Lebenschancen Abt. Ungleichheit und soziale Integration"
+   }, 
+   "source": "WZB", 
+   "sofis_id": 26245, 
+   "activity": "WZB"
+  }
+ ], 
+ "Lerman, Kristina": [
+  {
+   "function": "Systems Programmer", 
+   "span": {
+    "to": "1998", 
+    "from": "1996"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "USC University of Southern California", 
+   "sofis_id": null, 
+   "activity": "Quarterdeck Office Systems, Marina del Rey"
+  }, 
+  {
+   "function": "Computer Scientist", 
+   "span": {
+    "to": "2003", 
+    "from": "1998"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "USC University of Southern California", 
+   "sofis_id": null, 
+   "activity": "USC Information Sciences Institute, Marina del Rey,"
+  }, 
+  {
+   "function": "Project Leader", 
+   "span": {
+    "to": null, 
+    "from": "2003"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "USC University of Southern California", 
+   "sofis_id": null, 
+   "activity": "USC Information Sciences Institute, Marina del Rey,"
+  }, 
+  {
+   "function": "Assistant Research Professor", 
+   "span": {
+    "to": null, 
+    "from": "2004"
+   }, 
+   "institution_l2": "Computer Science Department", 
+   "institution_l1": null, 
+   "source": "USC University of Southern California", 
+   "sofis_id": null, 
+   "activity": "University of Southern California"
+  }, 
+  {
+   "function": "Education", 
+   "span": {
+    "to": null, 
+    "from": "1989"
+   }, 
+   "institution_l2": "Physics Department", 
+   "institution_l1": {
+    "city": "Princeton", 
+    "name": "Princeton University"
+   }, 
+   "source": "USC University of Southern California", 
+   "sofis_id": 2624, 
+   "activity": "Princeton University"
+  }, 
+  {
+   "function": "Research Assistant", 
+   "span": {
+    "to": "1995", 
+    "from": "1990"
+   }, 
+   "institution_l2": "Physics Department", 
+   "institution_l1": {
+    "city": "Santa Barbara", 
+    "name": "University of California Santa Barbara"
+   }, 
+   "source": "USC University of Southern California", 
+   "sofis_id": 11502, 
+   "activity": "University of California at Santa Barbara"
+  }, 
+  {
+   "function": "Education ", 
+   "span": {
+    "to": null, 
+    "from": "1995"
+   }, 
+   "institution_l2": "Physics Department", 
+   "institution_l1": {
+    "city": "Santa Barbara", 
+    "name": "University of California Santa Barbara"
+   }, 
+   "source": "USC University of Southern California", 
+   "sofis_id": 11502, 
+   "activity": "University of California at Santa Barbara"
+  }
+ ], 
+ "Strohmaier, Markus": [
+  {
+   "function": "Professor", 
+   "span": {
+    "to": null, 
+    "from": "2013"
+   }, 
+   "institution_l2": "Lehrstuhl Informatik", 
+   "institution_l1": {
+    "city": "Koblenz", 
+    "name": "FB 04 Informatik"
+   }, 
+   "source": "Homepage markusstrohmaier.info", 
+   "sofis_id": 12172, 
+   "activity": "Universit\u00e4t Koblenz-Landau"
+  }, 
+  {
+   "function": "Scientific Director", 
+   "span": {
+    "to": "2017", 
+    "from": "2013"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+   }, 
+   "source": "Homepage markusstrohmaier.info", 
+   "sofis_id": 10581, 
+   "activity": "GESIS Leibniz Institut f\u00fcr Sozialwissenschaften eV:\u00a0Mannheim,\u00a0Baden-W\u00fcrttemberg,\u00a0Germany"
+  }, 
+  {
+   "function": "Visiting Scientist/Professor", 
+   "span": {
+    "to": "2011", 
+    "other": [], 
+    "from": "2009"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Homepage markusstrohmaier.info", 
+   "sofis_id": null, 
+   "activity": "XEROX Parc"
+  }, 
+  {
+   "function": "Visiting Scientist/Professor", 
+   "span": {
+    "to": null, 
+    "from": "2009"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Aachen", 
+    "name": "Rheinisch-Westf\u00e4lische Technische Hochschule Aachen"
+   }, 
+   "source": "Homepage markusstrohmaier.info", 
+   "sofis_id": 3189, 
+   "activity": "RWTH Aachen"
+  }, 
+  {
+   "function": null, 
+   "span": {
+    "to": null, 
+    "from": "2017"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Aachen", 
+    "name": "Rheinisch-Westf\u00e4lische Technische Hochschule Aachen"
+   }, 
+   "source": "GESIS", 
+   "sofis_id": 3189, 
+   "activity": "RWTH Aachen"
+  }, 
+  {
+   "function": "Visiting Scientist/Professor", 
+   "span": {
+    "to": null, 
+    "from": "2011"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Stanford", 
+    "name": "Stanford University"
+   }, 
+   "source": "Homepage markusstrohmaier.info", 
+   "sofis_id": 10388, 
+   "activity": "Stanford University"
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": null, 
+    "from": "2004"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Graz", 
+    "name": "Technische Universit\u00e4t Graz"
+   }, 
+   "source": "Homepage markusstrohmaier.info", 
+   "sofis_id": 3194, 
+   "activity": "Technische Universit\u00e4t Graz"
+  }, 
+  {
+   "function": "Habilitation", 
+   "span": {
+    "to": null, 
+    "from": "2012"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Graz", 
+    "name": "Technische Universit\u00e4t Graz"
+   }, 
+   "source": "Homepage markusstrohmaier.info", 
+   "sofis_id": 3194, 
+   "activity": "Technische Universit\u00e4t Graz"
+  }, 
+  {
+   "function": "Postdoctoral Fellow", 
+   "span": {
+    "to": "2007", 
+    "from": "2006"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Toronto", 
+    "name": "University of Toronto"
+   }, 
+   "source": "Homepage markusstrohmaier.info", 
+   "sofis_id": 3286, 
+   "activity": "Universit\u00e4t Toronto"
+  }
+ ], 
+ "Kopp, Johannes": [
+  {
+   "function": "Vertretungen ", 
+   "span": {
+    "to": "2004", 
+    "from": "2000"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": " Universit\u00e4t Konstanz"
+   }, 
+   "source": "https://www.uni-trier.de/index.php?id=50114", 
+   "sofis_id": 3332, 
+   "activity": "Universit\u00e4t Konstanz"
+  }, 
+  {
+   "function": "Professur f\u00fcr empirische Sozialforschung", 
+   "span": {
+    "to": "2013", 
+    "from": "2004"
+   }, 
+   "institution_l2": " Institut f\u00fcr Soziologie", 
+   "institution_l1": {
+    "city": "Chemnitz", 
+    "name": "Institut f\u00fcr Soziologie\r\nFak. f\u00fcr Human- und Sozialwissenschaften"
+   }, 
+   "source": "https://www.uni-trier.de/index.php?id=50114", 
+   "sofis_id": 27565, 
+   "activity": " TU Chemnitz"
+  }, 
+  {
+   "function": "Vertretungen ", 
+   "span": {
+    "to": "2004", 
+    "from": "2000"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+   }, 
+   "source": "https://www.uni-trier.de/index.php?id=50114", 
+   "sofis_id": 3339, 
+   "activity": "LMU M\u00fcnchen"
+  }, 
+  {
+   "function": "Vertretungen ", 
+   "span": {
+    "to": "2004", 
+    "from": "2000"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Koblenz-Landau Campus Koblenz"
+   }, 
+   "source": "https://www.uni-trier.de/index.php?id=50114", 
+   "sofis_id": 1045, 
+   "activity": "Universit\u00e4t Koblenz-Landau"
+  }, 
+  {
+   "function": "wissenschaftlicher Mitarbeiter", 
+   "span": {
+    "to": "2000", 
+    "from": "1988"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t K\u00f6ln"
+   }, 
+   "source": "https://www.uni-trier.de/index.php?id=50114", 
+   "sofis_id": 3327, 
+   "activity": "Universit\u00e4t K\u00f6ln"
+  }, 
+  {
+   "function": "Studium der Soziologie, Sozialpsychologie und Politikwissenschaft", 
+   "span": {
+    "to": "1988", 
+    "from": "1982"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "https://www.uni-trier.de/index.php?id=50114", 
+   "sofis_id": 3337, 
+   "activity": " Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Promotion ", 
+   "span": {
+    "to": null, 
+    "from": "1993"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "https://www.uni-trier.de/index.php?id=50114", 
+   "sofis_id": 3337, 
+   "activity": " Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Habilitation ", 
+   "span": {
+    "to": null, 
+    "from": "1999"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "https://www.uni-trier.de/index.php?id=50114", 
+   "sofis_id": 3337, 
+   "activity": " Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "wissenschaftlicher Mitarbeiter", 
+   "span": {
+    "to": "2000", 
+    "from": "1988"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "https://www.uni-trier.de/index.php?id=50114", 
+   "sofis_id": 3337, 
+   "activity": " Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Professur f\u00fcr Soziologie", 
+   "span": {
+    "to": null, 
+    "from": "2013"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Trier"
+   }, 
+   "source": "https://www.uni-trier.de/index.php?id=50114", 
+   "sofis_id": 8741, 
+   "activity": " Universit\u00e4t Trier"
+  }
+ ], 
+ "Mutschke, Peter": [
+  {
+   "function": "Studium ", 
+   "span": {
+    "to": "1987", 
+    "from": "1980"
+   }, 
+   "institution_l2": "Georg-August-Universit\u00e4t G\u00f6ttingen", 
+   "institution_l1": {
+    "city": "G\u00f6ttingen", 
+    "name": "Georg-August-Universit\u00e4t G\u00f6ttingen"
+   }, 
+   "source": "xing", 
+   "sofis_id": 9292, 
+   "activity": "Universit\u00e4t G\u00f6ttingen"
+  }, 
+  {
+   "function": "Studium ", 
+   "span": {
+    "to": "1989", 
+    "from": "1988"
+   }, 
+   "institution_l2": "Georg-August-Universit\u00e4t G\u00f6ttingen", 
+   "institution_l1": {
+    "city": "G\u00f6ttingen", 
+    "name": "Georg-August-Universit\u00e4t G\u00f6ttingen"
+   }, 
+   "source": "xing", 
+   "sofis_id": 9292, 
+   "activity": "Universit\u00e4t G\u00f6ttingen"
+  }, 
+  {
+   "function": "Kommissarischer Leiter", 
+   "span": {
+    "to": null, 
+    "from": "2010"
+   }, 
+   "institution_l2": "Abt. Wissenstechnologien f\u00fcr Sozialwissenschaften (K\u00f6ln)", 
+   "institution_l1": {
+    "city": "K\u00f6ln", 
+    "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften Abt. Wissenstechnologien f\u00fcr Sozialwissenschaften"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 69255, 
+   "activity": "GESIS Leibniz-Institut fur Sozialwissenschaften in Koln:\u00a0Koln,\u00a0Nordrhein-Westfalen,\u00a0Germany"
+  }, 
+  {
+   "function": "Wissenschaftlicher Mitarbeiter", 
+   "span": {
+    "to": "2010", 
+    "from": "1990"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "xing", 
+   "sofis_id": 69256, 
+   "activity": "GESIS Leibniz-Institut fur Sozialwissenschaften in Koln:\u00a0Koln,\u00a0Nordrhein-Westfalen,\u00a0Germany"
+  }, 
+  {
+   "function": "Deputy Head of Department", 
+   "span": {
+    "to": "2010", 
+    "from": "2009"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "linkedin", 
+   "sofis_id": 69256, 
+   "activity": "GESIS Leibniz-Institut fur Sozialwissenschaften in Koln:\u00a0Koln,\u00a0Nordrhein-Westfalen,\u00a0Germany"
+  }
+ ], 
+ "Womser-Hacker, Christa": [
+  {
+   "function": "Studium", 
+   "span": {
+    "to": "1984", 
+    "from": "1976"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": " Universit\u00e4t Regensburg"
+   }, 
+   "source": "https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/womser/wissenschaftlicher-werdegang/", 
+   "sofis_id": 3344, 
+   "activity": " Universit\u00e4t Regensburg"
+  }, 
+  {
+   "function": "Magister Artium", 
+   "span": {
+    "to": null, 
+    "from": "1984"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": " Universit\u00e4t Regensburg"
+   }, 
+   "source": "https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/womser/wissenschaftlicher-werdegang/", 
+   "sofis_id": 3344, 
+   "activity": " Universit\u00e4t Regensburg"
+  }, 
+  {
+   "function": "Promotion", 
+   "span": {
+    "to": null, 
+    "from": "1988"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": " Universit\u00e4t Regensburg"
+   }, 
+   "source": "https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/womser/wissenschaftlicher-werdegang/", 
+   "sofis_id": 3344, 
+   "activity": "Universit\u00e4t Regensburg"
+  }, 
+  {
+   "function": "Projektleitung ", 
+   "span": {
+    "to": "1997", 
+    "from": "1984"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": " Universit\u00e4t Regensburg"
+   }, 
+   "source": "https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/womser/wissenschaftlicher-werdegang/", 
+   "sofis_id": 3344, 
+   "activity": "Universit\u00e4t Regensburg"
+  }, 
+  {
+   "function": "Wissenschaftliche Assistentin/Oberassistentin", 
+   "span": {
+    "to": "1997", 
+    "from": "1991"
+   }, 
+   "institution_l2": "Fakult\u00e4t f\u00fcr Informationswissenschaft", 
+   "institution_l1": {
+    "city": null, 
+    "name": " Universit\u00e4t Regensburg"
+   }, 
+   "source": "https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/womser/wissenschaftlicher-werdegang/", 
+   "sofis_id": 3344, 
+   "activity": "Universit\u00e4t Regensburg"
+  }, 
+  {
+   "function": "Ruf auf die C4-Professur \"Informationswissenschaft\" ", 
+   "span": {
+    "to": null, 
+    "from": "2002"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "D\u00fcsseldorf", 
+    "name": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+   }, 
+   "source": "https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/womser/wissenschaftlicher-werdegang/", 
+   "sofis_id": 725814, 
+   "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+  }, 
+  {
+   "function": "Habilitation und Venia Legendi", 
+   "span": {
+    "to": null, 
+    "from": "1997"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/womser/wissenschaftlicher-werdegang/", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "C3-Professur f\u00fcr \"Angewandte Informationswissenschaft\"", 
+   "span": {
+    "to": "2002", 
+    "from": "1998"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Hildesheim", 
+    "name": "Stiftung Universit\u00e4t Hildesheim"
+   }, 
+   "source": "https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/womser/wissenschaftlicher-werdegang/", 
+   "sofis_id": 1534, 
+   "activity": " Universit\u00e4t Hildesheim"
+  }, 
+  {
+   "function": "C4-Professur f\u00fcr \"Informationswissenschaft\" ", 
+   "span": {
+    "to": null, 
+    "from": "2002"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Hildesheim", 
+    "name": "Stiftung Universit\u00e4t Hildesheim"
+   }, 
+   "source": "https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/womser/wissenschaftlicher-werdegang/", 
+   "sofis_id": 1534, 
+   "activity": "Universit\u00e4t Hildesheim"
+  }, 
+  {
+   "function": "Vertretung der Professur \"Informationsmanagement\"", 
+   "span": {
+    "to": "1998", 
+    "from": "1997"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Konstanz"
+   }, 
+   "source": "https://www.uni-hildesheim.de/fb3/institute/iwist/mitglieder/womser/wissenschaftlicher-werdegang/", 
+   "sofis_id": 3332, 
+   "activity": "Universit\u00e4t Konstanz"
+  }
+ ], 
+ "Rosar, Ulrich": [
+  {
+   "function": "Mitglied des Wissenschaftlichen Beirates ", 
+   "span": {
+    "to": null, 
+    "from": "2012"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Berlin", 
+    "name": "\"forsa\" - Gesellschaft f\u00fcr Sozialforschung und statistische Analysen mbH"
+   }, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": 1366, 
+   "activity": "forsa \u2013 Gesellschaft f\u00fcr Sozialforschung und statistische Analyse mbH "
+  }, 
+  {
+   "function": "Mitglied des Pr\u00e4sidiums ", 
+   "span": {
+    "to": null, 
+    "from": "2015"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Deutsche Gesellschaft f\u00fcr Wahlforschung e.V. -DGfW-"
+   }, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": 69784, 
+   "activity": "Deutsche Gesellschaft f\u00fcr Wahlforschung (DGfW) "
+  }, 
+  {
+   "function": "Akademische Pr\u00fcfungen", 
+   "span": {
+    "to": null, 
+    "from": "2001"
+   }, 
+   "institution_l2": "Sozial- und Wirtschaftswissenschaftliche Fakult\u00e4t ", 
+   "institution_l1": {
+    "city": "Bamberg", 
+    "name": "Fak. Sozial- und Wirtschaftswissenschaften \u2013 SoWi\r\nOtto-Friedrich-Universit\u00e4t Bamberg"
+   }, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": 3867, 
+   "activity": "Otto-Friedrich-Universit\u00e4t Bamberg  "
+  }, 
+  {
+   "function": "Mitglied des ALLBUS-Beirats ", 
+   "span": {
+    "to": null, 
+    "from": "2015"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "K\u00f6ln", 
+    "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+   }, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": 69256, 
+   "activity": "GESIS "
+  }, 
+  {
+   "function": "Universit\u00e4tsprofessor f\u00fcr Soziologie (W3) ", 
+   "span": {
+    "to": null, 
+    "from": "2010"
+   }, 
+   "institution_l2": " Institut f\u00fcr Sozialwissenschaften ", 
+   "institution_l1": {
+    "city": "D\u00fcsseldorf", 
+    "name": "Institut f\u00fcr Sozialwissenschaften\r\nPhilosophische Fakult\u00e4t"
+   }, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": 8129, 
+   "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+  }, 
+  {
+   "function": "Mitglied und Vorsitz diverser Berufungskommissionen ", 
+   "span": {
+    "to": null, 
+    "from": "2007"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "Sprecher des DVPW-Arbeitskreises Wahlen und politische Einstellungen ", 
+   "span": {
+    "to": null, 
+    "from": "2011"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "Akademische Pr\u00fcfungen", 
+   "span": {
+    "to": null, 
+    "from": "1995"
+   }, 
+   "institution_l2": "Philosophische Fakult\u00e4t ", 
+   "institution_l1": {
+    "city": "D\u00fcsseldorf", 
+    "name": "Philosophische Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+   }, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": 8445, 
+   "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": "1995", 
+    "from": "1990"
+   }, 
+   "institution_l2": "Philosophischen Fakult\u00e4t ", 
+   "institution_l1": {
+    "city": "D\u00fcsseldorf", 
+    "name": "Philosophische Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+   }, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": 8445, 
+   "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+  }, 
+  {
+   "function": "Prodekan", 
+   "span": {
+    "to": "2015", 
+    "from": "2014"
+   }, 
+   "institution_l2": "Philosophische Fakult\u00e4t ", 
+   "institution_l1": {
+    "city": "D\u00fcsseldorf", 
+    "name": "Philosophische Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+   }, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": 8445, 
+   "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+  }, 
+  {
+   "function": "Dekan ", 
+   "span": {
+    "to": null, 
+    "from": "2015"
+   }, 
+   "institution_l2": "Philosophische Fakult\u00e4t ", 
+   "institution_l1": {
+    "city": "D\u00fcsseldorf", 
+    "name": "Philosophische Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+   }, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": 8445, 
+   "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+  }, 
+  {
+   "function": "Mitglied des Habilitationsausschusses ", 
+   "span": {
+    "to": "2014", 
+    "from": "2010"
+   }, 
+   "institution_l2": "Philosophische Fakult\u00e4t ", 
+   "institution_l1": {
+    "city": "D\u00fcsseldorf", 
+    "name": "Philosophische Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+   }, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": 8445, 
+   "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf "
+  }, 
+  {
+   "function": "Vorsitz des Promotionsausschusses ", 
+   "span": {
+    "to": "2015", 
+    "from": "2014"
+   }, 
+   "institution_l2": "Philosophische Fakult\u00e4t ", 
+   "institution_l1": {
+    "city": "D\u00fcsseldorf", 
+    "name": "Philosophische Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+   }, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": 8445, 
+   "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf "
+  }, 
+  {
+   "function": "Vorsitz des Habilitationsausschusses ", 
+   "span": {
+    "to": null, 
+    "from": "2015"
+   }, 
+   "institution_l2": "Philosophische Fakult\u00e4t ", 
+   "institution_l1": {
+    "city": "D\u00fcsseldorf", 
+    "name": "Philosophische Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+   }, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": 8445, 
+   "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf "
+  }, 
+  {
+   "function": "Prodekan ", 
+   "span": {
+    "to": "2015", 
+    "from": "2014"
+   }, 
+   "institution_l2": "Philosophische Fakult\u00e4t ", 
+   "institution_l1": {
+    "city": "D\u00fcsseldorf", 
+    "name": "Philosophische Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+   }, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": 8445, 
+   "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf "
+  }, 
+  {
+   "function": "Dekan ", 
+   "span": {
+    "to": null, 
+    "from": "2015"
+   }, 
+   "institution_l2": "Philosophische Fakult\u00e4t ", 
+   "institution_l1": {
+    "city": "D\u00fcsseldorf", 
+    "name": "Philosophische Fakult\u00e4t\r\nHeinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+   }, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": 8445, 
+   "activity": "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf "
+  }, 
+  {
+   "function": "Akademische Pr\u00fcfungen", 
+   "span": {
+    "to": null, 
+    "from": "2009"
+   }, 
+   "institution_l2": "Wirtschafts- und Sozialwissenschaftliche Fakult\u00e4t ", 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t zu K\u00f6ln"
+   }, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": 3327, 
+   "activity": "Universit\u00e4t zu K\u00f6ln"
+  }, 
+  {
+   "function": "\u00a0Akademischer Leiter des Master-Studiengangs Soziologie und empirische Sozialforschung", 
+   "span": {
+    "to": "2010", 
+    "from": "2009"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t zu K\u00f6ln"
+   }, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": 3327, 
+   "activity": "Universit\u00e4t zu K\u00f6ln "
+  }, 
+  {
+   "function": "Wissenschaftlicher Mitarbeiter bzw. Wissenschaftlicher Assistent ", 
+   "span": {
+    "to": "2007", 
+    "from": "1995"
+   }, 
+   "institution_l2": "\u00a0Institut f\u00fcr Angewandte Sozialforschung und am Forschungsinstitut f\u00fcr Soziologie ", 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4ts- und Stadtbibliothek K\u00f6ln \u2013 USB"
+   }, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": 727529, 
+   "activity": "Universit\u00e4t zu K\u00f6ln"
+  }, 
+  {
+   "function": "Gesch\u00e4ftsf\u00fchrer ", 
+   "span": {
+    "to": "2010", 
+    "from": "2007"
+   }, 
+   "institution_l2": "Forschungsinstitut f\u00fcr Soziologie und des Seminar f\u00fcr Soziologie ", 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4ts- und Stadtbibliothek K\u00f6ln \u2013 USB"
+   }, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": 727529, 
+   "activity": "\u00a0Universit\u00e4t zu K\u00f6ln "
+  }, 
+  {
+   "function": "Vertretung des Lehrstuhls Soziologie III (W3)", 
+   "span": {
+    "to": "2010", 
+    "from": "2009"
+   }, 
+   "institution_l2": "Forschungsinstitut f\u00fcr Soziologie ", 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4ts- und Stadtbibliothek K\u00f6ln \u2013 USB"
+   }, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": 727529, 
+   "activity": "Universit\u00e4t zu K\u00f6ln "
+  }, 
+  {
+   "function": "Vertretung des Lehrstuhls Soziologie II (W3)", 
+   "span": {
+    "to": "2010", 
+    "from": "2010"
+   }, 
+   "institution_l2": "Forschungsinstitut f\u00fcr Soziologie ", 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4ts- und Stadtbibliothek K\u00f6ln \u2013 USB"
+   }, 
+   "source": "Universit\u00e4t D\u00fcsseldorf", 
+   "sofis_id": 727529, 
+   "activity": "Universit\u00e4t zu K\u00f6ln "
+  }
+ ], 
+ "Blossfeld, Hans-Peter": [
+  {
+   "function": null, 
+   "span": null, 
+   "institution_l2": "Bamberg Graduate School of Social Sciences", 
+   "institution_l1": {
+    "city": "Bamberg", 
+    "name": "Bamberg Graduate School of Social Sciences"
+   }, 
+   "source": "Uni Bamberg", 
+   "sofis_id": 725858, 
+   "activity": "Universit\u00e4t Bamberg"
+  }, 
+  {
+   "function": null, 
+   "span": null, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "European University Institute (San Domenico di Fiesole)"
+   }, 
+   "source": "Google Scholar", 
+   "sofis_id": 254, 
+   "activity": "European University Institute (EUI)"
+  }, 
+  {
+   "function": "Professor und Chair in Political and Social Sciences\u00a0", 
+   "span": {
+    "to": "1992", 
+    "from": "1989"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "European University Institute (San Domenico di Fiesole)"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 254, 
+   "activity": "European University Institute (EUI)"
+  }, 
+  {
+   "function": "Professor und Chair of Sociology", 
+   "span": {
+    "to": null, 
+    "from": "2012"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "European University Institute (San Domenico di Fiesole)"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 254, 
+   "activity": "European University Institute"
+  }, 
+  {
+   "function": null, 
+   "span": {
+    "to": null, 
+    "from": "1987"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Berlin", 
+    "name": "Freie Universit\u00e4t Berlin"
+   }, 
+   "source": "European University Institute (San Domenico di Fiesole)", 
+   "sofis_id": 1255, 
+   "activity": "Freie Universit\u00e4t Berlin"
+  }, 
+  {
+   "function": null, 
+   "span": {
+    "to": "1992", 
+    "from": "1984"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Berlin", 
+    "name": "Max-Planck-Institut f\u00fcr Bildungsforschung"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 2458, 
+   "activity": "Max-Planck-Institut f\u00fcr Bildungsforschung (Berlin)"
+  }, 
+  {
+   "function": "Fellow", 
+   "span": {
+    "to": "1989", 
+    "from": "1988"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Wikipedia", 
+   "sofis_id": null, 
+   "activity": "Netherlands Institute for Advanced Study in the Humanities and Social Sciences"
+  }, 
+  {
+   "function": "Direktor", 
+   "span": {
+    "to": "2012", 
+    "from": "2008"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Wikipedia", 
+   "sofis_id": null, 
+   "activity": "Institut f\u00fcr bildungswissenschaftliche L\u00e4ngsschnittstudien (ifb)"
+  }, 
+  {
+   "function": "Gr\u00fcnder und Leiter", 
+   "span": {
+    "to": "2008", 
+    "from": "2006"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Wikipedia", 
+   "sofis_id": null, 
+   "activity": "Nationales Bildungspanel (NEPS)"
+  }, 
+  {
+   "function": null, 
+   "span": null, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Bamberg", 
+    "name": "Otto-Friedrich-Universit\u00e4t Bamberg"
+   }, 
+   "source": "Google Scholar", 
+   "sofis_id": 3295, 
+   "activity": "Universit\u00e4t Bamberg"
+  }, 
+  {
+   "function": "Lehrstuhl f\u00fcr Soziologie I", 
+   "span": {
+    "to": null, 
+    "from": "2002"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Bamberg", 
+    "name": "Otto-Friedrich-Universit\u00e4t Bamberg"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 3295, 
+   "activity": "Universit\u00e4t Bamberg"
+  }, 
+  {
+   "function": "Leiter", 
+   "span": {
+    "to": "2012", 
+    "from": "2003"
+   }, 
+   "institution_l2": "Staatsinstitut f\u00fcr Familienforschung", 
+   "institution_l1": {
+    "city": "Bamberg", 
+    "name": "Staatsinstitut f\u00fcr Familienforschung an der Universit\u00e4t Bamberg"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 17827, 
+   "activity": "Universit\u00e4t Bamberg"
+  }, 
+  {
+   "function": "Lehrstuhlinhaber f\u00fcr Allgemeine Soziologie, insbesondere Theorie und Empirie von Sozialstrukturen und Wirtschaftssystemen", 
+   "span": {
+    "to": "2002", 
+    "from": "1998"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Bielefeld", 
+    "name": "Universit\u00e4t Bielefeld"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 3300, 
+   "activity": "Universit\u00e4t Bielefeld"
+  }, 
+  {
+   "function": "Lehrstuhlinhaber f\u00fcr Statistik und Methoden der empirischen Sozialforschung", 
+   "span": {
+    "to": "1998", 
+    "from": "1992"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Bremen", 
+    "name": "Universit\u00e4t Bremen"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 3303, 
+   "activity": "Universit\u00e4t Bremen"
+  }, 
+  {
+   "function": null, 
+   "span": {
+    "to": null, 
+    "from": "1984"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "European University Institute (San Domenico di Fiesole)", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "VASMA-Projekt", 
+   "span": {
+    "to": "1984", 
+    "from": "1980"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": null, 
+   "span": {
+    "to": "1980", 
+    "from": "1976"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Regensburg", 
+    "name": "Universit\u00e4t Regensburg"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 3344, 
+   "activity": "Universit\u00e4t Regensburg (Regensburg)"
+  }
+ ], 
+ "Rammstedt, Beatrice": [
+  {
+   "function": "wissenschaftliche Leiterin der Abteilung Survey Design and Methodology", 
+   "span": {
+    "to": null, 
+    "from": "2011"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+   }, 
+   "source": "http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=R&name=beatrice%2Crammstedt", 
+   "sofis_id": 10581, 
+   "activity": "GESIS \u2013 Leibniz-Institut f\u00fcr Sozialwissenschaften"
+  }, 
+  {
+   "function": "stellvertretende Pr\u00e4sidentin", 
+   "span": {
+    "to": null, 
+    "from": "2015"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+   }, 
+   "source": "http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=R&name=beatrice%2Crammstedt", 
+   "sofis_id": 10581, 
+   "activity": "GESIS \u2013 Leibniz-Institut f\u00fcr Sozialwissenschaften"
+  }, 
+  {
+   "function": "Studium Psychologie", 
+   "span": null, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Bielefeld", 
+    "name": "Universit\u00e4t Bielefeld"
+   }, 
+   "source": "http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=R&name=beatrice%2Crammstedt", 
+   "sofis_id": 3300, 
+   "activity": "Universit\u00e4t Bielefeld"
+  }, 
+  {
+   "function": "Promotion", 
+   "span": {
+    "to": null, 
+    "from": "2000"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t G\u00f6ttingen"
+   }, 
+   "source": "http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=R&name=beatrice%2Crammstedt", 
+   "sofis_id": 9292, 
+   "activity": "Georg-August Universit\u00e4t G\u00f6ttingen"
+  }, 
+  {
+   "function": "Habilitation", 
+   "span": {
+    "to": null, 
+    "from": "2007"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=R&name=beatrice%2Crammstedt", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Professorin f\u00fcr Psychologische Diagnostik, Umfragedesign und Methodik", 
+   "span": {
+    "to": null, 
+    "from": "2011"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=R&name=beatrice%2Crammstedt", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Studium Psychologie", 
+   "span": null, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Nanterre", 
+    "name": "Universit\u00e9 Paris X Nanterre"
+   }, 
+   "source": "http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=R&name=beatrice%2Crammstedt", 
+   "sofis_id": 3251, 
+   "activity": "Universit\u00e4t  Paris-Nanterre "
+  }, 
+  {
+   "function": "Studium Psychologie", 
+   "span": null, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Berkeley", 
+    "name": "University of California Berkeley"
+   }, 
+   "source": "http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=R&name=beatrice%2Crammstedt", 
+   "sofis_id": 3269, 
+   "activity": "Universit\u00e4t UC Berkeley"
+  }
+ ], 
+ "Katsanidou, Alexia": [
+  {
+   "function": "Leitung", 
+   "span": {
+    "to": null, 
+    "from": "2015"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "K\u00f6ln", 
+    "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften Abt. Datenarchiv f\u00fcr Sozialwissenschaften"
+   }, 
+   "source": "http://www.gesis.org/en/institute/staff/?name=alexia%2Ckatsanidou", 
+   "sofis_id": 69254, 
+   "activity": "GESIS"
+  }, 
+  {
+   "function": "MA in Vergleichende Demokratisierun", 
+   "span": {
+    "to": null, 
+    "from": "2003"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "http://www.gesis.org/en/institute/staff/?name=alexia%2Ckatsanidou", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "Studium Internationale Politik und Wirtschaft", 
+   "span": null, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "http://www.gesis.org/en/institute/staff/?name=alexia%2Ckatsanidou", 
+   "sofis_id": null, 
+   "activity": "Universit\u00e4t Mazedonien, Griechenland"
+  }, 
+  {
+   "function": "Promotion", 
+   "span": {
+    "to": null, 
+    "from": "2008"
+   }, 
+   "institution_l2": "Government Department", 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Essex Colchester"
+   }, 
+   "source": "http://www.gesis.org/en/institute/staff/?name=alexia%2Ckatsanidou", 
+   "sofis_id": 12141, 
+   "activity": "Universit\u00e4t Essex"
+  }
+ ], 
+ "Fitzenberger, Bernd": [
+  {
+   "function": "Professor", 
+   "span": {
+    "to": "2007", 
+    "from": "2004"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Frankfurt am Main", 
+    "name": "Goethe-Universit\u00e4t Frankfurt"
+   }, 
+   "source": "HU Berlin", 
+   "sofis_id": 3313, 
+   "activity": "Goethe-Universit\u00e4t Frankfurt"
+  }, 
+  {
+   "function": "Professor", 
+   "span": {
+    "to": "2015", 
+    "from": "2007"
+   }, 
+   "institution_l2": "Institut f\u00fcr Allgemeine Wirtschaftsforschung Abt. Empirische Wirtschaftsforschung und \u00d6konometrie ", 
+   "institution_l1": {
+    "city": "Freiburg im Breisgau", 
+    "name": "Institut f\u00fcr Allgemeine Wirtschaftsforschung Abt. Empirische Wirtschaftsforschung und \u00d6konometrie"
+   }, 
+   "source": "HU Berlin", 
+   "sofis_id": 31382, 
+   "activity": "Albert-Ludwigs-Universit\u00e4t Freiburg "
+  }, 
+  {
+   "function": "Professor", 
+   "span": {
+    "to": null, 
+    "from": "2015"
+   }, 
+   "institution_l2": "Institut f\u00fcr \u00d6konometrie", 
+   "institution_l1": {
+    "city": "Berlin", 
+    "name": "Institut f\u00fcr Statistik und \u00d6konometrie"
+   }, 
+   "source": "HU Berlin", 
+   "sofis_id": 30103, 
+   "activity": "Humboldt-Universit\u00e4t Berlin"
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": "1991", 
+    "from": "1991"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Stanford", 
+    "name": "Stanford University"
+   }, 
+   "source": "HU Berlin", 
+   "sofis_id": 10388, 
+   "activity": "Stanford University"
+  }, 
+  {
+   "function": "Promotion", 
+   "span": {
+    "to": "1993", 
+    "from": "1989"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Stanford", 
+    "name": "Stanford University"
+   }, 
+   "source": "HU Berlin", 
+   "sofis_id": 10388, 
+   "activity": "Stanford University"
+  }, 
+  {
+   "function": "Forschungsassistent und Assistent in der Lehre", 
+   "span": {
+    "to": "1993", 
+    "from": "1989"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Stanford", 
+    "name": "Stanford University"
+   }, 
+   "source": "HU Berlin", 
+   "sofis_id": 10388, 
+   "activity": "Stanford University"
+  }, 
+  {
+   "function": "Professor", 
+   "span": {
+    "to": "1999", 
+    "from": "1998"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Dresden", 
+    "name": "Technische Universit\u00e4t Dresden"
+   }, 
+   "source": "HU Berlin", 
+   "sofis_id": 12262, 
+   "activity": "Technische Universit\u00e4t Dresden"
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": "1989", 
+    "from": "1982"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Konstanz", 
+    "name": "Universit\u00e4t Konstanz"
+   }, 
+   "source": "HU Berlin", 
+   "sofis_id": 3332, 
+   "activity": "Universit\u00e4t Konstanz "
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": null, 
+    "from": "1987"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Konstanz", 
+    "name": "Universit\u00e4t Konstanz"
+   }, 
+   "source": "HU Berlin", 
+   "sofis_id": 3332, 
+   "activity": "Universit\u00e4t Konstanz "
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": null, 
+    "from": "1989"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Konstanz", 
+    "name": "Universit\u00e4t Konstanz"
+   }, 
+   "source": "HU Berlin", 
+   "sofis_id": 3332, 
+   "activity": "Universit\u00e4t Konstanz "
+  }, 
+  {
+   "function": "Wissenschaftlichr Mitarbeiter", 
+   "span": {
+    "to": "1996", 
+    "from": "1993"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Konstanz", 
+    "name": "Universit\u00e4t Konstanz"
+   }, 
+   "source": "HU Berlin", 
+   "sofis_id": 3332, 
+   "activity": "Universit\u00e4t Konstanz "
+  }, 
+  {
+   "function": "Habilitation", 
+   "span": {
+    "to": "1998", 
+    "from": "1993"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Konstanz", 
+    "name": "Universit\u00e4t Konstanz"
+   }, 
+   "source": "HU Berlin", 
+   "sofis_id": 3332, 
+   "activity": "Universit\u00e4t Konstanz "
+  }, 
+  {
+   "function": "Professor", 
+   "span": {
+    "to": "2004", 
+    "from": "1999"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "HU Berlin", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }
+ ], 
+ "Farago, Peter": [
+  {
+   "function": "Leiter Kompetenzzentrum Sozialwissenschaften FORS in Lausanne", 
+   "span": {
+    "to": null, 
+    "from": "2016"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "FORS", 
+   "sofis_id": null, 
+   "activity": "Kompetenzzentrum Sozialwissenschaften FORS in Lausanne"
+  }, 
+  {
+   "function": "Professor", 
+   "span": {
+    "to": null, 
+    "from": "2016"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Lausanne", 
+    "name": "Universit\u00e9 de Lausanne"
+   }, 
+   "source": "FORS", 
+   "sofis_id": 3257, 
+   "activity": "Universit\u00e4t Lausanne"
+  }
+ ], 
+ "Japec, Lilli": [
+  {
+   "function": "Quality Director", 
+   "span": {
+    "to": "2010", 
+    "from": "2008"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Stockholm", 
+    "name": "Statistics Sweden"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 727466, 
+   "activity": "Statistics Sweden, Stockholm"
+  }, 
+  {
+   "function": "Director R&D Department", 
+   "span": {
+    "to": "2015", 
+    "from": "2010"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Stockholm", 
+    "name": "Statistics Sweden"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 727466, 
+   "activity": "Statistics Sweden, Stockholm"
+  }, 
+  {
+   "function": "Scientific Advisor, Executive Office,", 
+   "span": {
+    "to": null, 
+    "from": "2017"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Stockholm", 
+    "name": "Statistics Sweden"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 727466, 
+   "activity": "Statistics Sweden, Stockholm"
+  }, 
+  {
+   "function": "Education", 
+   "span": {
+    "to": null, 
+    "from": "2005"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Stockholm", 
+    "name": "Stockholm University"
+   }, 
+   "source": "Mathematics Genealogy Project", 
+   "sofis_id": 12443, 
+   "activity": "Universit\u00e4t Stockholm"
+  }
+ ], 
+ "Br\u00fcderl, Josef": [
+  {
+   "function": "Wissenschaftlicher Assistent Institut f\u00fcr Soziologie Universit\u00e4t Bern", 
+   "span": {
+    "to": "1992", 
+    "from": "1991"
+   }, 
+   "institution_l2": "Institut f\u00fcr Soziologie", 
+   "institution_l1": {
+    "city": "Bern", 
+    "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+   }, 
+   "source": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+   "sofis_id": 8563, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Habilitation", 
+   "span": {
+    "to": null, 
+    "from": "1997"
+   }, 
+   "institution_l2": "Institut f\u00fcr Soziologie", 
+   "institution_l1": {
+    "city": "Bern", 
+    "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+   }, 
+   "source": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+   "sofis_id": 8563, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Wissenschaftlicher Assistent Institut f\u00fcr Soziologie LMU M\u00fcnchen", 
+   "span": {
+    "to": "1998", 
+    "from": "1992"
+   }, 
+   "institution_l2": "Institut f\u00fcr Soziologie", 
+   "institution_l1": {
+    "city": "M\u00fcnchen", 
+    "name": "Institut f\u00fcr Soziologie"
+   }, 
+   "source": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+   "sofis_id": 8978, 
+   "activity": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+  }, 
+  {
+   "function": "Professor f\u00fcr Soziologie ", 
+   "span": {
+    "to": null, 
+    "from": "2011"
+   }, 
+   "institution_l2": "Institut f\u00fcr Soziologie", 
+   "institution_l1": {
+    "city": "M\u00fcnchen", 
+    "name": "Institut f\u00fcr Soziologie"
+   }, 
+   "source": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+   "sofis_id": 8978, 
+   "activity": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": "1986", 
+    "from": "1981"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "M\u00fcnchen", 
+    "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+   }, 
+   "source": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+   "sofis_id": 3339, 
+   "activity": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": "1988", 
+    "from": "1983"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "M\u00fcnchen", 
+    "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+   }, 
+   "source": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+   "sofis_id": 3339, 
+   "activity": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": null, 
+    "from": "1990"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "M\u00fcnchen", 
+    "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+   }, 
+   "source": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+   "sofis_id": 3339, 
+   "activity": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+  }, 
+  {
+   "function": "Professor f\u00fcr Statistik und Methoden der Sozialforschung", 
+   "span": {
+    "to": "2011", 
+    "from": "1998"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }
+ ], 
+ "Hill, Paul B.": [
+  {
+   "function": "Studium", 
+   "span": {
+    "to": "1980", 
+    "from": "1974"
+   }, 
+   "institution_l2": "Lehrstuhl und Institut f\u00fcr Soziologie", 
+   "institution_l1": {
+    "city": "Aachen", 
+    "name": "Institut f\u00fcr Soziologie Lehrstuhl Allgemeine Soziologie"
+   }, 
+   "source": "RWTH Aachen", 
+   "sofis_id": 30881, 
+   "activity": "RWTH Aachen"
+  }, 
+  {
+   "function": "Promotion", 
+   "span": {
+    "to": null, 
+    "from": "1984"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "RWTH Aachen", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "Wissenschaftlicher Mitarbeiter", 
+   "span": {
+    "to": "1990", 
+    "from": "1980"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "RWTH Aachen", 
+   "sofis_id": null, 
+   "activity": "Universit\u00e4ten Essen, Duisburg, Koeln"
+  }, 
+  {
+   "function": "Berufung zum Universit\u00e4tsprofessor", 
+   "span": {
+    "to": null, 
+    "from": "1997"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "RWTH Aachen", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "1. Stellvertretender Vorsitzender der ASI - Arbeitsgemeinschaft Sozialwissenschaftlicher Institute e.V. ", 
+   "span": {
+    "to": "2017", 
+    "from": "2005"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "RWTH Aachen", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "Mitglied in Komitee 260 beim Austrian Standards Institute: Spiegelkomitee innerhalb des ISO/TC 225: Market, Opinion and Social Research", 
+   "span": {
+    "to": "2017", 
+    "from": "2009"
+   }, 
+   "institution_l2": "Austrian Standards Institute", 
+   "institution_l1": null, 
+   "source": "RWTH Aachen", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "Mitglied im Beschwerderat (zweite Kammer) des Rates der Deutschen Markt- und Sozialforschung (2. KAmmer)\n", 
+   "span": {
+    "to": "2017", 
+    "from": "2009"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "RWTH Aachen", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "Vorsitzender des Kuratoriums der GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften\n\n", 
+   "span": {
+    "to": "2017", 
+    "from": "2013"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "RWTH Aachen", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "Studium", 
+   "span": null, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Wikipedia ", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "Dissertation", 
+   "span": {
+    "to": null, 
+    "from": "1984"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "WIkipedia", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "Wissenschaftlicher Mitarbeiter", 
+   "span": {
+    "to": "1990", 
+    "from": "1980"
+   }, 
+   "institution_l2": "Soziologie", 
+   "institution_l1": null, 
+   "source": "Wikipedia", 
+   "sofis_id": null, 
+   "activity": "Universit\u00e4ten Essen, Duisburg, K\u00f6ln"
+  }, 
+  {
+   "function": "1. stellvertretender Vorsitzender der Arbeitsgemeinschaft Sozialwissenschaftlicher Institute e.V. (ASI)", 
+   "span": {
+    "to": "2017", 
+    "from": "2005"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Wikipedia", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "Mitglied in Komitee 260 beim Austrian Standards Institute", 
+   "span": {
+    "to": "2017", 
+    "from": "2009"
+   }, 
+   "institution_l2": "Austrian Standards Institute", 
+   "institution_l1": null, 
+   "source": "Wikipedia", 
+   "sofis_id": null, 
+   "activity": "Austrian Standards Institute"
+  }, 
+  {
+   "function": "Mitglied im Beschwerderat (zweite Kammer) des Rates der Deutschen Markt- und Sozialforschung", 
+   "span": {
+    "to": "2017", 
+    "from": "2009"
+   }, 
+   "institution_l2": "Beschwerderat", 
+   "institution_l1": null, 
+   "source": "Wikipedia", 
+   "sofis_id": null, 
+   "activity": "Rat der Deutschen Markt- und Sozialforschung"
+  }, 
+  {
+   "function": "Vorsitzender des Kuratoriums der GESIS \u2013 Leibniz-Institut f\u00fcr Sozialwissenschaften", 
+   "span": {
+    "to": "2017", 
+    "from": "2013"
+   }, 
+   "institution_l2": "Kuratorium", 
+   "institution_l1": null, 
+   "source": "Wikipedia", 
+   "sofis_id": null, 
+   "activity": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+  }, 
+  {
+   "function": "Prodekan f\u00fcr Forschung", 
+   "span": {
+    "to": "2017", 
+    "from": "2013"
+   }, 
+   "institution_l2": "Philosophische Fakult\u00e4t", 
+   "institution_l1": {
+    "city": null, 
+    "name": "RWTH Aachen"
+   }, 
+   "source": "RWTH Aachen", 
+   "sofis_id": 3189, 
+   "activity": "RWTH Aachen"
+  }, 
+  {
+   "function": "Sprecher der Professoren", 
+   "span": {
+    "to": "2017", 
+    "from": "2014"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "RWTH Aachen"
+   }, 
+   "source": "RWTH Aachen", 
+   "sofis_id": 3189, 
+   "activity": "RWTH Aachen"
+  }, 
+  {
+   "function": "Prodekan f\u00fcr Forschung", 
+   "span": {
+    "to": "2006", 
+    "from": "2004"
+   }, 
+   "institution_l2": "Philosophische Fakult\u00e4t", 
+   "institution_l1": {
+    "city": null, 
+    "name": "RWTH Aachen"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 3189, 
+   "activity": "RWTH Aachen"
+  }, 
+  {
+   "function": "Dekan", 
+   "span": {
+    "to": "2010", 
+    "from": "2006"
+   }, 
+   "institution_l2": "Philosophische Fakult\u00e4t", 
+   "institution_l1": {
+    "city": null, 
+    "name": "RWTH Aachen"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 3189, 
+   "activity": "RWTH Aachen"
+  }, 
+  {
+   "function": "Prodekan f\u00fcr Forschung", 
+   "span": {
+    "to": null, 
+    "from": "2013"
+   }, 
+   "institution_l2": "Philosophische Fakult\u00e4t", 
+   "institution_l1": {
+    "city": null, 
+    "name": "RWTH Aachen"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 3189, 
+   "activity": "RWTH Aachen"
+  }, 
+  {
+   "function": "Sprecher der Professoren", 
+   "span": {
+    "to": "2017", 
+    "from": "2014"
+   }, 
+   "institution_l2": "RWTH Aachen", 
+   "institution_l1": {
+    "city": null, 
+    "name": "RWTH Aachen"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 3189, 
+   "activity": "RWTH Aachen"
+  }, 
+  {
+   "function": "Prodekan f\u00fcr Forschung", 
+   "span": {
+    "to": "2006", 
+    "from": "2004"
+   }, 
+   "institution_l2": "Philosophische Fakult\u00e4t", 
+   "institution_l1": {
+    "city": null, 
+    "name": "RWTH Aachen "
+   }, 
+   "source": "RWTH Aachen", 
+   "sofis_id": 3189, 
+   "activity": "RWTH Aachen"
+  }, 
+  {
+   "function": "Dekan", 
+   "span": {
+    "to": "2010", 
+    "from": "2006"
+   }, 
+   "institution_l2": "Philosophische Fakult\u00e4t", 
+   "institution_l1": {
+    "city": null, 
+    "name": "RWTH Aachen "
+   }, 
+   "source": "RWTH Aachen", 
+   "sofis_id": 3189, 
+   "activity": "RWTH Aachen"
+  }, 
+  {
+   "function": "Berufung zum Universit\u00e4tsprofessor", 
+   "span": {
+    "to": null, 
+    "from": "1997"
+   }, 
+   "institution_l2": "Soziologie, Schwerpunkt empirische Sozialforschung", 
+   "institution_l1": {
+    "city": null, 
+    "name": "RWTH Aachen, Soziologie, Schwerpunkt empirische Sozialforschung"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 21432, 
+   "activity": "RWTH Aachen"
+  }, 
+  {
+   "function": "Akademischer Oberrat", 
+   "span": {
+    "to": "1997", 
+    "from": "1990"
+   }, 
+   "institution_l2": "Soziologie", 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Trier"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 8741, 
+   "activity": "Universit\u00e4t Trier"
+  }, 
+  {
+   "function": "Akademischer Oberrat", 
+   "span": {
+    "to": "1997", 
+    "from": "1990"
+   }, 
+   "institution_l2": " Soziologie", 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Trier, Soziologie"
+   }, 
+   "source": "RWTH Aachen", 
+   "sofis_id": 8741, 
+   "activity": "Universit\u00e4t Trier"
+  }
+ ], 
+ "Nonnenmacher, Alexandra": [
+  {
+   "function": "Univ. Prof.", 
+   "span": null, 
+   "institution_l2": "Fakult\u00e4t II Bildung-Architektur-K\u00fcnste;\u00a0\u00a0Lehrstuhl f\u00fcr Methoden der empirischen Bildungs- und Sozialforschung", 
+   "institution_l1": {
+    "city": "Siegen", 
+    "name": "Fak. 02 Bildung, Architektur, K\u00fcnste\r\nUniversit\u00e4t Siegen"
+   }, 
+   "source": "Universit\u00e4t Siegen", 
+   "sofis_id": 70656, 
+   "activity": "Universit\u00e4t Siegen"
+  }
+ ], 
+ "Stock\u00e9, Volker": [
+  {
+   "function": "Studium", 
+   "span": {
+    "to": "1994", 
+    "from": "1987"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "https://www.uni-kassel.de/fb05/uploads/media/Stock%C3%A9_Lebenslauf_deutsch.pdf", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": null, 
+    "from": "1994"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "https://www.uni-kassel.de/fb05/uploads/media/Stock%C3%A9_Lebenslauf_deutsch.pdf", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Promotion", 
+   "span": {
+    "to": null, 
+    "from": "2001"
+   }, 
+   "institution_l2": "Fakult\u00e4t f\u00fcr Sozialwissenschaf", 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "https://www.uni-kassel.de/fb05/uploads/media/Stock%C3%A9_Lebenslauf_deutsch.pdf", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Habilitation", 
+   "span": {
+    "to": null, 
+    "from": "2009"
+   }, 
+   "institution_l2": "Fakult\u00e4t f\u00fcr Sozialwissenschaf", 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "https://www.uni-kassel.de/fb05/uploads/media/Stock%C3%A9_Lebenslauf_deutsch.pdf", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "ICPSR Summer School in Quantitative Methods of Social Research", 
+   "span": {
+    "to": null, 
+    "from": "1996"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Ann Arbor", 
+    "name": "University of Michigan"
+   }, 
+   "source": "https://www.uni-kassel.de/fb05/uploads/media/Stock%C3%A9_Lebenslauf_deutsch.pdf", 
+   "sofis_id": 9913, 
+   "activity": " University of Michigan,\r\nAnn Arbor (USA)"
+  }
+ ], 
+ "Kleinert, Corinna": [
+  {
+   "function": "Wissenschaftliche Mitarbeiterin", 
+   "span": {
+    "to": null, 
+    "from": "2003"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "IAB", 
+    "name": "Institut f\u00fcr Arbeitsmarkt- und Berufsforschung"
+   }, 
+   "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+   "sofis_id": 1652, 
+   "activity": " Institut f\u00fcr Arbeitsmarkt- und Berufsforschung (IAB), N\u00fcrnberg"
+  }, 
+  {
+   "function": "Kommissarische Leitung des Forschungsbereichs Bildungs- und\r\nErwerbsverl\u00e4ufe", 
+   "span": {
+    "to": "2008", 
+    "from": "2007"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "IAB", 
+    "name": "Institut f\u00fcr Arbeitsmarkt- und Berufsforschung"
+   }, 
+   "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+   "sofis_id": 1652, 
+   "activity": " Institut f\u00fcr Arbeitsmarkt- und Berufsforschung (IAB), N\u00fcrnberg"
+  }, 
+  {
+   "function": "Wissenschaftliche Referentin in der Abteilung \u201aJugend und Politik", 
+   "span": {
+    "to": "2000", 
+    "from": "1995"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "DJI", 
+    "name": "Deutsches\r\nJugendinstitut"
+   }, 
+   "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+   "sofis_id": 885, 
+   "activity": "Deutsches\nJugendinstitut (DJI), M\u00fcnchen"
+  }, 
+  {
+   "function": "Qualifizierung\r", 
+   "span": {
+    "to": null, 
+    "from": "1995"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+   }, 
+   "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+   "sofis_id": 3339, 
+   "activity": "Ludwigs-Maximilians-Universit\u00e4t M\u00fcnchen"
+  }, 
+  {
+   "function": "Qualifizierung\r", 
+   "span": {
+    "to": null, 
+    "from": "2003"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+   }, 
+   "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+   "sofis_id": 3339, 
+   "activity": "Ludwigs-Maximilians-Universit\u00e4t M\u00fcnchen"
+  }, 
+  {
+   "function": "Doktorandin", 
+   "span": {
+    "to": "2002", 
+    "from": "2000"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+   }, 
+   "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+   "sofis_id": 3339, 
+   "activity": " Ludwigs-Maximilians-Universit\u00e4t M\u00fcnchen"
+  }, 
+  {
+   "function": "Wissenschaftliche Mitarbeiterin", 
+   "span": {
+    "to": "2003", 
+    "from": "2002"
+   }, 
+   "institution_l2": " Institut f\u00fcr\r\nSoziologie", 
+   "institution_l1": {
+    "city": null, 
+    "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, Institut f\u00fcr Soziologie"
+   }, 
+   "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+   "sofis_id": 8978, 
+   "activity": "Ludwigs-Maximilians-Universit\u00e4t M\u00fcnchen"
+  }, 
+  {
+   "function": "Wissenschaftliche und operative Leitung der Etappe 8 \u201aErwachsenenbildung\r\nund Lebenslanges Lernen\u2018", 
+   "span": {
+    "to": "2014", 
+    "from": "2008"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+   "sofis_id": null, 
+   "activity": "Nationales Bildungspanels (NEPS)"
+  }, 
+  {
+   "function": "Professorin f\u00fcr Soziologie mit dem Schwerpunkt l\u00e4ngsschnittliche\r\nBildungsforschung a", 
+   "span": {
+    "to": null, 
+    "from": "2015"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+   "sofis_id": null, 
+   "activity": " LeibnizInstitut\nf\u00fcr Bildungsverl\u00e4ufe e.V. (LIfBi)"
+  }, 
+  {
+   "function": "Professorin f\u00fcr Soziologie mit dem Schwerpunkt l\u00e4ngsschnittliche\r\nBildungsforschung a", 
+   "span": {
+    "to": null, 
+    "from": "2015"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Otto-Friedrich-Universit\u00e4t Bamberg "
+   }, 
+   "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+   "sofis_id": 3295, 
+   "activity": " Otto-Friedrich-Universit\u00e4t Bamberg"
+  }, 
+  {
+   "function": "Visiting Fellow", 
+   "span": {
+    "to": null, 
+    "from": "2010"
+   }, 
+   "institution_l2": "\nCenter on Inequalities and the Life Course (CIQLE)", 
+   "institution_l1": {
+    "city": "New Haven", 
+    "name": "Yale University"
+   }, 
+   "source": "https://www.uni-bamberg.de/fileadmin/kom/www/2015/Kleinert_CV_2015_03_16.pdf", 
+   "sofis_id": 3552, 
+   "activity": "Yale University, New Haven, Connecticut, USA"
+  }
+ ], 
+ "Fortin-Rittberger, Jessica": [
+  {
+   "function": "Senior Research Associate", 
+   "span": {
+    "to": "2013", 
+    "from": "2009"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 10581, 
+   "activity": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+  }, 
+  {
+   "function": "Senior Researcher", 
+   "span": {
+    "to": "2013", 
+    "from": "2009"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+   }, 
+   "source": "Universit\u00e4t Salzburg", 
+   "sofis_id": 10581, 
+   "activity": "GESIS-Leibniz Institut f\u00fcr Sozialwissenschaften in Mannheim"
+  }, 
+  {
+   "function": "Senior Research Associate", 
+   "span": null, 
+   "institution_l2": "The Comparative Study of Electoral Systems (CSES)", 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+   }, 
+   "source": "http://jessica-fortin.weebly.com/about.html", 
+   "sofis_id": 10581, 
+   "activity": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+  }, 
+  {
+   "function": "Post-doctoral Research Fellow", 
+   "span": {
+    "to": "2009", 
+    "from": "2008"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "L\u00fcneburg", 
+    "name": "Leuphana Universit\u00e4t L\u00fcneburg"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 1535, 
+   "activity": "Leuphana Universit\u00e4t L\u00fcneburg"
+  }, 
+  {
+   "function": "Postdoc-Stipendium ", 
+   "span": null, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "L\u00fcneburg", 
+    "name": "Leuphana Universit\u00e4t L\u00fcneburg"
+   }, 
+   "source": "Universit\u00e4t Salzburg", 
+   "sofis_id": 1535, 
+   "activity": "Universit\u00e4t L\u00fcneburg"
+  }, 
+  {
+   "function": "Ausbildung", 
+   "span": {
+    "to": "2008", 
+    "from": "2001"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Montreal", 
+    "name": "McGill University Montreal"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 14641, 
+   "activity": "McGill University"
+  }, 
+  {
+   "function": "Promotion", 
+   "span": {
+    "to": null, 
+    "from": "2008"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Montreal", 
+    "name": "McGill University Montreal"
+   }, 
+   "source": "Universit\u00e4t Salzburg", 
+   "sofis_id": 14641, 
+   "activity": "McGill University"
+  }, 
+  {
+   "function": "Education", 
+   "span": {
+    "to": null, 
+    "from": "2008"
+   }, 
+   "institution_l2": "Department of Political Science", 
+   "institution_l1": {
+    "city": "Montreal", 
+    "name": "McGill University Montreal"
+   }, 
+   "source": "http://jessica-fortin.weebly.com/about.html", 
+   "sofis_id": 14641, 
+   "activity": "McGill University"
+  }, 
+  {
+   "function": "Ausbildung", 
+   "span": {
+    "to": "2001", 
+    "from": "1999"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "linkedin", 
+   "sofis_id": null, 
+   "activity": "Universit\u00e4t Montreal"
+  }, 
+  {
+   "function": "Education", 
+   "span": {
+    "to": null, 
+    "from": "1999"
+   }, 
+   "institution_l2": "Department of Political Science", 
+   "institution_l1": null, 
+   "source": "http://jessica-fortin.weebly.com/about.html", 
+   "sofis_id": null, 
+   "activity": "Universit\u00e4t Montreal"
+  }, 
+  {
+   "function": "Education", 
+   "span": {
+    "to": null, 
+    "from": "2001"
+   }, 
+   "institution_l2": "Department of Political Science", 
+   "institution_l1": null, 
+   "source": "http://jessica-fortin.weebly.com/about.html", 
+   "sofis_id": null, 
+   "activity": "Universit\u00e4t Montreal"
+  }, 
+  {
+   "function": "Chair fo Comparative Government (visiting)", 
+   "span": {
+    "to": "2011", 
+    "from": "2010"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Lehrstuhlvertretung", 
+   "span": {
+    "to": "2011", 
+    "from": "2010"
+   }, 
+   "institution_l2": "Lehrstuhl f\u00fcr Vergleichende Regierungslehre", 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "Universit\u00e4t Salzburg", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Chair fo Comparative Government (visiting)", 
+   "span": {
+    "to": "2011", 
+    "from": "2010"
+   }, 
+   "institution_l2": "Lehrstuhl f\u00fcr Politische Wissenschaft III (Comparative Government)", 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "http://jessica-fortin.weebly.com/about.html", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": null, 
+   "span": null, 
+   "institution_l2": "Department of Political Science", 
+   "institution_l1": {
+    "city": "Salzburg", 
+    "name": "Universit\u00e4t Salzburg"
+   }, 
+   "source": "Scopus", 
+   "sofis_id": 3346, 
+   "activity": "Universit\u00e4t Salzburg"
+  }, 
+  {
+   "function": "Professor", 
+   "span": {
+    "to": null, 
+    "from": "2013"
+   }, 
+   "institution_l2": "Comparative Politics", 
+   "institution_l1": {
+    "city": "Salzburg", 
+    "name": "Universit\u00e4t Salzburg"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 3346, 
+   "activity": "Universit\u00e4t Salzburg"
+  }, 
+  {
+   "function": "Professorin", 
+   "span": null, 
+   "institution_l2": "Fachbereich f\u00fcr Poliltikwissenschaft und Soziologie", 
+   "institution_l1": {
+    "city": "Salzburg", 
+    "name": "Universit\u00e4t Salzburg"
+   }, 
+   "source": "Universit\u00e4t Salzburg", 
+   "sofis_id": 3346, 
+   "activity": "Universit\u00e4t Salzburg"
+  }, 
+  {
+   "function": "Professor of Comparative Politics", 
+   "span": {
+    "to": null, 
+    "from": "2013"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Salzburg", 
+    "name": "Universit\u00e4t Salzburg"
+   }, 
+   "source": "http://jessica-fortin.weebly.com/about.html", 
+   "sofis_id": 3346, 
+   "activity": "Universit\u00e4t Salzburg"
+  }
+ ], 
+ "Davidov, Eldad": [
+  {
+   "function": "Member", 
+   "span": null, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+   }, 
+   "source": "Universit\u00e4t Z\u00fcrich", 
+   "sofis_id": 10581, 
+   "activity": "GESIS "
+  }, 
+  {
+   "function": "Member", 
+   "span": null, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+   }, 
+   "source": "Universit\u00e4t K\u00f6ln", 
+   "sofis_id": 10581, 
+   "activity": "GESIS"
+  }, 
+  {
+   "function": "Ph.D. in Social Sciences", 
+   "span": {
+    "to": "2004", 
+    "from": "2001"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Gie\u00dfen", 
+    "name": "Justus-Liebig-Universit\u00e4t Gie\u00dfen"
+   }, 
+   "source": "Universit\u00e4t Z\u00fcrich", 
+   "sofis_id": 3320, 
+   "activity": "Gie\u00dfen University"
+  }, 
+  {
+   "function": "Research assistant and project director", 
+   "span": {
+    "to": "2006", 
+    "from": "2004"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Gie\u00dfen", 
+    "name": "Justus-Liebig-Universit\u00e4t Gie\u00dfen"
+   }, 
+   "source": "Universit\u00e4t Z\u00fcrich", 
+   "sofis_id": 3320, 
+   "activity": "Gie\u00dfen University"
+  }, 
+  {
+   "function": "Ph.D. in Social Sciences", 
+   "span": {
+    "to": "2004", 
+    "from": "2001"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Gie\u00dfen", 
+    "name": "Justus-Liebig-Universit\u00e4t Gie\u00dfen"
+   }, 
+   "source": "Universit\u00e4t K\u00f6ln", 
+   "sofis_id": 3320, 
+   "activity": "Gie\u00dfen University"
+  }, 
+  {
+   "function": "Research assistant and project director", 
+   "span": {
+    "to": "2006", 
+    "from": "2004"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Gie\u00dfen", 
+    "name": "Justus-Liebig-Universit\u00e4t Gie\u00dfen"
+   }, 
+   "source": "Universit\u00e4t K\u00f6ln", 
+   "sofis_id": 3320, 
+   "activity": "Gie\u00dfen University"
+  }, 
+  {
+   "function": "Co-director", 
+   "span": {
+    "to": null, 
+    "from": "2015"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Z\u00fcrich", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "President", 
+   "span": {
+    "to": "2017", 
+    "from": "2015"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Z\u00fcrich", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "Editor of the book series of the European Association of Methodology (EAM)", 
+   "span": null, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Z\u00fcrich", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "Advisory board member", 
+   "span": null, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Z\u00fcrich", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "Vice president", 
+   "span": {
+    "to": "2015", 
+    "from": "2013"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Z\u00fcrich", 
+   "sofis_id": null, 
+   "activity": "European Survey Research Association"
+  }, 
+  {
+   "function": "President", 
+   "span": {
+    "to": "2017", 
+    "from": "2015"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Z\u00fcrich", 
+   "sofis_id": null, 
+   "activity": "European Survey Research Association"
+  }, 
+  {
+   "function": "Co-director", 
+   "span": {
+    "to": null, 
+    "from": "2015"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t K\u00f6ln", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "President", 
+   "span": {
+    "to": "2017", 
+    "from": "2015"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t K\u00f6ln", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "Editor of the book series of the European Association of Methodology (EAM)", 
+   "span": null, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t K\u00f6ln", 
+   "sofis_id": null, 
+   "activity": "European Association of Methodoloy (EAM)"
+  }, 
+  {
+   "function": "Guest editor ", 
+   "span": null, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t K\u00f6ln", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "Advisory board member", 
+   "span": null, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t K\u00f6ln", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "Vice president", 
+   "span": {
+    "to": "2015", 
+    "from": "2013"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t K\u00f6ln", 
+   "sofis_id": null, 
+   "activity": "European Survey Research Association"
+  }, 
+  {
+   "function": "President", 
+   "span": {
+    "to": "2017", 
+    "from": "2015"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t K\u00f6ln", 
+   "sofis_id": null, 
+   "activity": "European Survey Research Association"
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": "1995", 
+    "from": "1993"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Tel Aviv University"
+   }, 
+   "source": "Universit\u00e4t Z\u00fcrich", 
+   "sofis_id": 3203, 
+   "activity": "Tel Aviv University"
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": "1996", 
+    "from": "1994"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Tel Aviv University"
+   }, 
+   "source": "Universit\u00e4t Z\u00fcrich", 
+   "sofis_id": 3203, 
+   "activity": "Tel Aviv University"
+  }, 
+  {
+   "function": "Teacher and research assistant sociology", 
+   "span": {
+    "to": "1999", 
+    "from": "1997"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Tel Aviv University"
+   }, 
+   "source": "Universit\u00e4t Z\u00fcrich", 
+   "sofis_id": 3203, 
+   "activity": "Tel Aviv University"
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": "1995", 
+    "from": "1993"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Tel Aviv University"
+   }, 
+   "source": "Universit\u00e4t K\u00f6ln", 
+   "sofis_id": 3203, 
+   "activity": "Tel Aviv University"
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": "1996", 
+    "from": "1994"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Tel Aviv University"
+   }, 
+   "source": "Universit\u00e4t K\u00f6ln", 
+   "sofis_id": 3203, 
+   "activity": "Tel Aviv University"
+  }, 
+  {
+   "function": "Teacher and research assistant sociology", 
+   "span": {
+    "to": "1999", 
+    "from": "1997"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Tel Aviv University"
+   }, 
+   "source": "Universit\u00e4t K\u00f6ln", 
+   "sofis_id": 3203, 
+   "activity": "Tel Aviv University"
+  }, 
+  {
+   "function": "Habilitation", 
+   "span": {
+    "to": null, 
+    "from": "2008"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t K\u00f6ln"
+   }, 
+   "source": "Universit\u00e4t K\u00f6ln", 
+   "sofis_id": 3327, 
+   "activity": "Cologne University"
+  }, 
+  {
+   "function": "Full professorship", 
+   "span": {
+    "to": null, 
+    "from": "2016"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t K\u00f6ln"
+   }, 
+   "source": "Universit\u00e4t K\u00f6ln", 
+   "sofis_id": 3327, 
+   "activity": "University of Cologne"
+  }, 
+  {
+   "function": "Substitute professorship", 
+   "span": {
+    "to": "2008", 
+    "from": "2007"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "Universit\u00e4t Z\u00fcrich", 
+   "sofis_id": 3337, 
+   "activity": "University of Mannheim"
+  }, 
+  {
+   "function": "Substitute professorship", 
+   "span": {
+    "to": "2008", 
+    "from": "2007"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "Universit\u00e4t K\u00f6ln", 
+   "sofis_id": 3337, 
+   "activity": "University of Mannheim"
+  }, 
+  {
+   "function": "Associate professorship", 
+   "span": {
+    "to": null, 
+    "from": "2009"
+   }, 
+   "institution_l2": "Department of Sociology\u00a0", 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Z\u00fcrich"
+   }, 
+   "source": "Universit\u00e4t Z\u00fcrich", 
+   "sofis_id": 3354, 
+   "activity": "University of Zurich"
+  }, 
+  {
+   "function": "Associate professorship", 
+   "span": {
+    "to": null, 
+    "from": "2009"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Z\u00fcrich"
+   }, 
+   "source": "Universit\u00e4t K\u00f6ln", 
+   "sofis_id": 3354, 
+   "activity": "University of Zurich"
+  }, 
+  {
+   "function": "Full professorship", 
+   "span": {
+    "to": null, 
+    "from": "2016"
+   }, 
+   "institution_l2": "Institute of Sociology and Social Psychology", 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4ts- und Stadtbibliothek K\u00f6ln \u2013 USB"
+   }, 
+   "source": "Universit\u00e4t Z\u00fcrich", 
+   "sofis_id": 727529, 
+   "activity": "University of Cologne"
+  }, 
+  {
+   "function": "Research assistant\u00a0 ", 
+   "span": {
+    "to": "2008", 
+    "from": "2006"
+   }, 
+   "institution_l2": "GESIS-Central Archive for Empirical Social Research", 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Cologne"
+   }, 
+   "source": "Universit\u00e4t Z\u00fcrich", 
+   "sofis_id": 3327, 
+   "activity": "University of Cologne"
+  }, 
+  {
+   "function": "Habilitation", 
+   "span": {
+    "to": null, 
+    "from": "2008"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Cologne"
+   }, 
+   "source": "Universit\u00e4t Z\u00fcrich", 
+   "sofis_id": 3327, 
+   "activity": "Cologne University"
+  }, 
+  {
+   "function": "Substitute professorship", 
+   "span": {
+    "to": "2009", 
+    "from": "2008"
+   }, 
+   "institution_l2": "Sociology", 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Cologne"
+   }, 
+   "source": "Universit\u00e4t Z\u00fcrich", 
+   "sofis_id": 3327, 
+   "activity": "University of Cologne"
+  }, 
+  {
+   "function": "Research assistant\u00a0 ", 
+   "span": {
+    "to": "2008", 
+    "from": "2006"
+   }, 
+   "institution_l2": "GESIS-Central Archive for Empirical Social Research", 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Cologne"
+   }, 
+   "source": "Universit\u00e4t K\u00f6ln", 
+   "sofis_id": 3327, 
+   "activity": "University of Cologne"
+  }, 
+  {
+   "function": "Substitute professorship", 
+   "span": {
+    "to": "2009", 
+    "from": "2008"
+   }, 
+   "institution_l2": "Institute of Sociology and Social Psychology", 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Cologne"
+   }, 
+   "source": "Universit\u00e4t K\u00f6ln", 
+   "sofis_id": 3327, 
+   "activity": "University of Cologne"
+  }
+ ], 
+ "Quandt, Markus": [
+  {
+   "function": "Employment", 
+   "span": null, 
+   "institution_l2": "Data Archive for the Social Sciences", 
+   "institution_l1": {
+    "city": "K\u00f6ln", 
+    "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften Abt. Datenarchiv f\u00fcr Sozialwissenschaften"
+   }, 
+   "source": "ORCID", 
+   "sofis_id": 69254, 
+   "activity": "GESIS Leibniz-Institut fur Sozialwissenschaften in Koln:\u00a0Koln,\u00a0Nordrhein-Westfalen,\u00a0Germany"
+  }, 
+  {
+   "function": null, 
+   "span": {
+    "to": null, 
+    "from": "2004"
+   }, 
+   "institution_l2": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften Abt. Datenarchiv f\u00fcr Sozialwissenschaften (K\u00f6ln)", 
+   "institution_l1": {
+    "city": "K\u00f6ln", 
+    "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften Abt. Datenarchiv f\u00fcr Sozialwissenschaften"
+   }, 
+   "source": "GESIS", 
+   "sofis_id": 69254, 
+   "activity": "GESIS Leibniz-Institut fur Sozialwissenschaften in Koln:\u00a0Koln,\u00a0Nordrhein-Westfalen,\u00a0Germany"
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": "1996", 
+    "from": "1989"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "K\u00f6ln", 
+    "name": "Universit\u00e4t zu K\u00f6ln"
+   }, 
+   "source": "GESIS", 
+   "sofis_id": 3327, 
+   "activity": "Universit\u00e4t zu K\u00f6ln"
+  }, 
+  {
+   "function": null, 
+   "span": {
+    "to": "2004", 
+    "from": "1996"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "K\u00f6ln", 
+    "name": "Zentralarchiv f\u00fcr Empirische Sozialforschung"
+   }, 
+   "source": "GESIS", 
+   "sofis_id": 8315, 
+   "activity": "Zentralarchiv f\u00fcr empirische Sozialforschung der Universit\u00e4t zu K\u00f6ln"
+  }
+ ], 
+ "Kreuter, Frauke": [
+  {
+   "function": "Visiting Researcher", 
+   "span": {
+    "to": null, 
+    "from": "2009"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 10581, 
+   "activity": "GESIS, Mannheim, Germany"
+  }, 
+  {
+   "function": "Universit\u00e4tsprofessorin f\u00fcr Statistik", 
+   "span": {
+    "to": "2014", 
+    "from": "2010"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 3339, 
+   "activity": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+  }, 
+  {
+   "function": "University Professor", 
+   "span": {
+    "to": "2014", 
+    "from": "2010"
+   }, 
+   "institution_l2": "Department of Statistics", 
+   "institution_l1": {
+    "city": null, 
+    "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3339, 
+   "activity": " LudwigMaximilians-Universitaet\r\nMuenchen"
+  }, 
+  {
+   "function": "Professor in Statistics", 
+   "span": {
+    "to": "2014", 
+    "from": "2010"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 3339, 
+   "activity": "LMU - Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+  }, 
+  {
+   "function": "Research Assistant (Wissenschaftliche Mitarbeiterin)", 
+   "span": {
+    "to": "1997", 
+    "from": "1996"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Mannheim Center for European Social Research (MZES)"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 10378, 
+   "activity": "Mannheim Center for European Social Research (MZES)"
+  }, 
+  {
+   "function": "Undergraduate Research Assistant", 
+   "span": {
+    "to": "1993", 
+    "from": "1991"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Mannheimer Zentrum f\u00fcr Europ\u00e4ische Sozialforschung (MZES)"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 10378, 
+   "activity": "Mannheim Center for European Social Research (MZES)"
+  }, 
+  {
+   "function": "Leiterin der Abteilung f\u00fcr Statistische Methoden", 
+   "span": null, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Wikipedia", 
+   "sofis_id": null, 
+   "activity": "Institut f\u00fcr Arbeitsmarktforschung (IAB)"
+  }, 
+  {
+   "function": "Leiterin der Abteilung f\u00fcr statistische Methoden", 
+   "span": {
+    "to": null, 
+    "from": "2014"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Wikipedia", 
+   "sofis_id": null, 
+   "activity": "Institut f\u00fcr Arbeitsmarktforschung (IAB)"
+  }, 
+  {
+   "function": "Research Fellow", 
+   "span": {
+    "to": null, 
+    "from": "1994"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": null, 
+   "activity": "King Monkuts\u2019 Institute of Technology North Bangkok (KMITNB)"
+  }, 
+  {
+   "function": "Research Fellow", 
+   "span": {
+    "to": null, 
+    "from": "1994"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": null, 
+   "activity": " Institute\nfor Technical Education Development (ITED), Bangkok Thailand"
+  }, 
+  {
+   "function": "Visiting Researcher", 
+   "span": {
+    "to": null, 
+    "from": "2004"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": null, 
+   "activity": "Max Planck Institute for Human Development, Berlin, Germany"
+  }, 
+  {
+   "function": "Statistical Consultant", 
+   "span": {
+    "to": "2007", 
+    "from": "2006"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": null, 
+   "activity": "Millennium Challenge Cooperation, Washington D.C"
+  }, 
+  {
+   "function": "Statistical Consultant", 
+   "span": {
+    "to": "2007", 
+    "from": "2006"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": null, 
+   "activity": "Defense Manpower Data Center,\nWashington D.C.;"
+  }, 
+  {
+   "function": "Visiting Researcher", 
+   "span": {
+    "to": null, 
+    "from": "2008"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": null, 
+   "activity": "Institute for Employment Research (IAB), Nuernberg, Germany\n"
+  }, 
+  {
+   "function": "Head of Statistical Methods Research Department", 
+   "span": {
+    "to": null, 
+    "from": "2010"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "linkedin", 
+   "sofis_id": null, 
+   "activity": "Institute for Employment Research (IAB), Germany"
+  }, 
+  {
+   "function": "Promotion", 
+   "span": {
+    "to": "2001", 
+    "from": "1997"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Konstanz"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3332, 
+   "activity": "Universit\u00e4t Konstanz"
+  }, 
+  {
+   "function": "Research Assistant (Wissenschaftliche Mitarbeiterin)", 
+   "span": {
+    "to": "2001", 
+    "from": "1997"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Konstanz"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3332, 
+   "activity": "University of Konstanz"
+  }, 
+  {
+   "function": "\u2018Wissenschaftliche Assistentin\u2019 (C1)", 
+   "span": {
+    "to": "2004", 
+    "from": "2001"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Konstanz"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3332, 
+   "activity": "University of Konstanz"
+  }, 
+  {
+   "function": "Doctor of Philosophy (Ph.D.)", 
+   "span": {
+    "to": "2001", 
+    "from": "1997"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Konstanz"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 3332, 
+   "activity": "Universit\u00e4t Konstanz"
+  }, 
+  {
+   "function": "Professur ", 
+   "span": null, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 3337, 
+   "activity": " Universit\u00e4t Mannheim "
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": null, 
+    "from": "1996"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": "1996", 
+    "from": "1990"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Undergraduate Research Assistant ", 
+   "span": {
+    "to": "1995", 
+    "from": "1993"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3337, 
+   "activity": "University of Mannheim"
+  }, 
+  {
+   "function": "Professor", 
+   "span": {
+    "to": null, 
+    "from": "2014"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3337, 
+   "activity": "University of Mannheim, Germany"
+  }, 
+  {
+   "function": "Professor", 
+   "span": {
+    "to": null, 
+    "from": "2014"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 3337, 
+   "activity": "University of Mannheim"
+  }, 
+  {
+   "function": "Postdoc-Forschung", 
+   "span": null, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of California Los Angeles"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 3285, 
+   "activity": " University of California, Los Angeles"
+  }, 
+  {
+   "function": "Associate Professor   ", 
+   "span": {
+    "to": "2014", 
+    "from": "2010"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of California Los Angeles"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 3285, 
+   "activity": " University of California, Los Angeles"
+  }, 
+  {
+   "function": "Ordentlicher Professor", 
+   "span": {
+    "to": null, 
+    "from": "2014"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of California Los Angeles"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 3285, 
+   "activity": "University of California, Los Angeles"
+  }, 
+  {
+   "function": "DAAD Postdoc Research Fellow", 
+   "span": {
+    "to": "2002", 
+    "from": "2001"
+   }, 
+   "institution_l2": "Department of Statistics", 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of California Los Angeles"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3285, 
+   "activity": "University of California, Los Angeles"
+  }, 
+  {
+   "function": "Adjunct Assistant Professor", 
+   "span": {
+    "to": "2004", 
+    "from": "2002"
+   }, 
+   "institution_l2": "Department of Statistics", 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of California Los Angeles"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3285, 
+   "activity": "University of California, Los Angeles"
+  }, 
+  {
+   "function": "Adj. Ass. Professor", 
+   "span": {
+    "to": "2004", 
+    "from": "2001"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of California Los Angeles"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 3285, 
+   "activity": "UCLA"
+  }, 
+  {
+   "function": "Ass. Professor", 
+   "span": {
+    "to": "2010", 
+    "from": "2004"
+   }, 
+   "institution_l2": "Joint Program in Survey Methodology", 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Maryland"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 3275, 
+   "activity": "University of Maryland"
+  }, 
+  {
+   "function": "Faculty Associate", 
+   "span": {
+    "to": null, 
+    "from": "2005"
+   }, 
+   "institution_l2": "Maryland Population Research Center", 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Maryland, College\nPark"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3275, 
+   "activity": "University of Maryland, College Park"
+  }, 
+  {
+   "function": "Assistant Professor", 
+   "span": {
+    "to": "2010", 
+    "from": "2004"
+   }, 
+   "institution_l2": "Joint Program in Survey Methodology", 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Maryland, College\r\nPark"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3275, 
+   "activity": "University of Maryland, College\nPark"
+  }, 
+  {
+   "function": "Associate Professor ", 
+   "span": {
+    "to": "2014", 
+    "from": "2010"
+   }, 
+   "institution_l2": "Joint Program in Survey Methodology", 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Maryland, College\r\nPark"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3275, 
+   "activity": "University of Maryland, College Park"
+  }, 
+  {
+   "function": "Professor", 
+   "span": {
+    "to": null, 
+    "from": "2014"
+   }, 
+   "institution_l2": "Joint Program in Survey Methodology", 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Maryland, College\r\nPark"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3275, 
+   "activity": "University of\r\nMaryland, College Park"
+  }, 
+  {
+   "function": "Assoc. Prof. at the Joint Program in Survey Methodology", 
+   "span": {
+    "to": "2014", 
+    "from": "2010"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Maryland, College\r\nPark"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 3275, 
+   "activity": "University of Maryland"
+  }, 
+  {
+   "function": "Professor at the Joint Program in Survey Methodology", 
+   "span": {
+    "to": null, 
+    "from": "2014"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Maryland, College\r\nPark"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 3275, 
+   "activity": "University of Maryland"
+  }, 
+  {
+   "function": "German Science Foundation (DFG) Fellow", 
+   "span": {
+    "to": null, 
+    "from": "1997"
+   }, 
+   "institution_l2": "Ann Arbor ICPSR Summer Program in Quantitative Methods of Social\r\nResearch; SRC Summer Institute in Survey Research Techniques", 
+   "institution_l1": {
+    "city": "Ann Arbor", 
+    "name": "University of Michigan"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 9913, 
+   "activity": " University of Michigan"
+  }, 
+  {
+   "function": "Adjunct Research Assistant Professor", 
+   "span": {
+    "to": null, 
+    "from": "2013"
+   }, 
+   "institution_l2": "Institute for Social Research", 
+   "institution_l1": {
+    "city": "Ann Arbor", 
+    "name": "University of Michigan"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 9913, 
+   "activity": " University of Michigan, Ann Arbor"
+  }, 
+  {
+   "function": "Adjunct Research Assistant Professor", 
+   "span": {
+    "to": "2013", 
+    "from": "2005"
+   }, 
+   "institution_l2": "Institute for Social Research", 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Michigan, Ann Arbor"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 9913, 
+   "activity": "University of Michigan, Ann Arbor"
+  }, 
+  {
+   "function": "Visiting Researcher", 
+   "span": {
+    "to": null, 
+    "from": "2003"
+   }, 
+   "institution_l2": "Survey Research Center, Institute for Social Research,", 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Michigan, Ann Arbor"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 9913, 
+   "activity": "University of\r\nMichigan, Ann Arbor"
+  }
+ ], 
+ "Weins, Cornelia": [
+  {
+   "function": "Professorin", 
+   "span": {
+    "to": null, 
+    "from": null
+   }, 
+   "institution_l2": "Professur f\u00fcr Empirische Sozialforschung und Methodenlehre", 
+   "institution_l1": {
+    "city": "Trier", 
+    "name": "Fach Soziologie Professur f\u00fcr Empirische Sozialforschung und Methodenlehre"
+   }, 
+   "source": "Ruhr-Universit\u00e4t Bochum", 
+   "sofis_id": 327, 
+   "activity": "Universit\u00e4t Trier"
+  }, 
+  {
+   "function": "Professorin", 
+   "span": {
+    "to": null, 
+    "from": null
+   }, 
+   "institution_l2": "Lehrstuhl f\u00fcr Empirische Sozialforschung", 
+   "institution_l1": {
+    "city": "Bochum", 
+    "name": "Sektion Sozialwissenschaftliche Methoden und Statistik Lehrstuhl f\u00fcr Empirische Sozialforschung"
+   }, 
+   "source": "Ruhr-Universit\u00e4t Bochum", 
+   "sofis_id": 28096, 
+   "activity": "Ruhr-Universit\u00e4t Bochum"
+  }
+ ], 
+ "Schmitt-Beck, R\u00fcdiger": [
+  {
+   "function": "Professor", 
+   "span": {
+    "to": "2008", 
+    "from": "2003"
+   }, 
+   "institution_l2": "Institut f\u00fcr Politikwissenschaft", 
+   "institution_l1": {
+    "city": "Duisburg", 
+    "name": "Institut f\u00fcr Politikwissenschaft"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 8685, 
+   "activity": "Universit\u00e4t Duisburg-Essen"
+  }, 
+  {
+   "function": "Professor ", 
+   "span": {
+    "to": null, 
+    "from": "2008"
+   }, 
+   "institution_l2": "Lehrstuhl f\u00fcr Politische Wissenschaft I Politische Soziologie", 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Lehrstuhl f\u00fcr Politische Wissenschaft I Politische Soziologie"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 7454, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Wissenschaftlicher Mitarbeiter", 
+   "span": {
+    "to": "1995", 
+    "from": "1990"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Mannheimer Zentrum f\u00fcr Europ\u00e4ische Sozialforschung -MZES-"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 10378, 
+   "activity": "Mannheimer Zentrum f\u00fcr Europ\u00e4ische Sozialforschung (MZES)"
+  }, 
+  {
+   "function": "Visiting Fellow", 
+   "span": {
+    "to": "2008", 
+    "from": "2007"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": null, 
+   "activity": "University of Auckland, Neuseeland"
+  }, 
+  {
+   "function": "Visiting Fellow", 
+   "span": {
+    "to": "2016", 
+    "from": "2015"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Canberra", 
+    "name": "The Australian National University Canberra"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 10026, 
+   "activity": "Australian National University, Canberra/Australien"
+  }, 
+  {
+   "function": "Wissenschaftlicher Assistent", 
+   "span": {
+    "to": "1990", 
+    "from": "1988"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Heidelberg", 
+    "name": "Universit\u00e4t Heidelberg"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3324, 
+   "activity": "Universit\u00e4t Heidelberg"
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": "1981", 
+    "from": "1975"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Wissenschaftlicher Mitarbeiter", 
+   "span": {
+    "to": "1988", 
+    "from": "1983"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Promotion", 
+   "span": {
+    "to": null, 
+    "from": "1989"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Wissenschaftlicher Assistent", 
+   "span": {
+    "to": "2000", 
+    "from": "1995"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Habilitation", 
+   "span": {
+    "to": null, 
+    "from": "1999"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Gastprofessor", 
+   "span": {
+    "to": null, 
+    "from": "2002"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Z\u00fcrich", 
+    "name": "Universit\u00e4t Z\u00fcrich"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3354, 
+   "activity": "Universit\u00e4t Z\u00fcrich"
+  }, 
+  {
+   "function": "Visiting Research Scholar", 
+   "span": {
+    "to": null, 
+    "from": "2016"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Vancouver", 
+    "name": "University of British Columbia Vancouver"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3268, 
+   "activity": "University of British Columbia, Vancouver/Kanada"
+  }, 
+  {
+   "function": "Wissenschaftlicher Leiter", 
+   "span": {
+    "to": "2003", 
+    "from": "2000"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Zentrum f\u00fcr Umfragen, Methoden und Analysen"
+   }, 
+   "source": "Universit\u00e4t Mannheim", 
+   "sofis_id": 3593, 
+   "activity": "Zentrum f\u00fcr Umfragen, Methoden und Analysen (ZUMA), Mannheim"
+  }
+ ], 
+ "Hank, Karsten": [
+  {
+   "function": "Doctoral Student", 
+   "span": {
+    "to": "2002", 
+    "from": "1999"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Rostock", 
+    "name": "Max-Planck-Institut f\u00fcr demografische Forschung"
+   }, 
+   "source": "ISS Uni K\u00f6ln", 
+   "sofis_id": 19885, 
+   "activity": "Max Planck Institute for Demographic Research, Rostock"
+  }, 
+  {
+   "function": "Research Scientist", 
+   "span": {
+    "to": "2003", 
+    "from": "2002"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Rostock", 
+    "name": "Max-Planck-Institut f\u00fcr demografische Forschung"
+   }, 
+   "source": "ISS Uni K\u00f6ln", 
+   "sofis_id": 19885, 
+   "activity": "Max Planck Institute for Demographic Research, Rostock"
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": null, 
+    "from": "1998"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Bochum", 
+    "name": "Ruhr-Universit\u00e4t Bochum"
+   }, 
+   "source": "ISS Uni K\u00f6ln", 
+   "sofis_id": 3301, 
+   "activity": "Ruhr-Universit\u00e4t Bochum"
+  }, 
+  {
+   "function": "Head of the Research Unit \u2018Survey of Health, Ageing and Retirement in Europe'", 
+   "span": {
+    "to": "2010", 
+    "from": "2003"
+   }, 
+   "institution_l2": "Mannheim Research Institute for the Economics of Aging (MEA), University of Mannheim", 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "ISS Uni K\u00f6ln", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Full Professor (W3) of Sociology at the Institute of Sociology & Social Psychology", 
+   "span": {
+    "to": null, 
+    "from": "2010"
+   }, 
+   "institution_l2": "Wirtschafts- und Sozialwissenschaftliche Fakult\u00e4t", 
+   "institution_l1": {
+    "city": "K\u00f6ln", 
+    "name": "Wirtschafts- und Sozialwissenschaftliche Fakult\u00e4t"
+   }, 
+   "source": "ISS Uni K\u00f6ln", 
+   "sofis_id": 9329, 
+   "activity": "Universit\u00e4t zu K\u00f6ln"
+  }, 
+  {
+   "function": "Research Assistant", 
+   "span": {
+    "to": "1998", 
+    "from": "1998"
+   }, 
+   "institution_l2": "Center for Interdisciplinary Research on the Ruhr District (ZEFIR),", 
+   "institution_l1": {
+    "city": "Bochum", 
+    "name": "Zentrum f\u00fcr interdisziplin\u00e4re Regionalforschung -ZEFIR-"
+   }, 
+   "source": "ISS Uni K\u00f6ln", 
+   "sofis_id": 71593, 
+   "activity": "Ruhr-Universit\u00e4t Bochum,"
+  }
+ ], 
+ "Renner, Karl-Heinz": [
+  {
+   "function": "Universit\u00e4tsprofessor", 
+   "span": {
+    "to": "2013", 
+    "from": "2007"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Hagen", 
+    "name": "Fernuniversit\u00e4t Hagen"
+   }, 
+   "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+   "sofis_id": 1098, 
+   "activity": "FernUniversit\u00e4t Hagen"
+  }, 
+  {
+   "function": "Studentische Hilfskraft", 
+   "span": {
+    "to": "1993", 
+    "from": "1988"
+   }, 
+   "institution_l2": "Lehrstuhl f\u00fcr Pers\u00f6nlichkeitspsychologie", 
+   "institution_l1": {
+    "city": "Bamberg", 
+    "name": "Lehrstuhl Psychologie IV Pers\u00f6nlichkeitspsychologie"
+   }, 
+   "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+   "sofis_id": 7430, 
+   "activity": "Universit\u00e4t Bamberg"
+  }, 
+  {
+   "function": "Wissenschaftlicher Mitarbeiter", 
+   "span": {
+    "to": "1999", 
+    "from": "1994"
+   }, 
+   "institution_l2": "Lehrstuhl f\u00fcr Pers\u00f6nlichkeitspsychologie", 
+   "institution_l1": {
+    "city": "Bamberg", 
+    "name": "Lehrstuhl Psychologie IV Pers\u00f6nlichkeitspsychologie"
+   }, 
+   "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+   "sofis_id": 7430, 
+   "activity": "Universit\u00e4t Bamberg"
+  }, 
+  {
+   "function": "Wissenschaftlicher Assistent", 
+   "span": {
+    "to": "2000", 
+    "from": "1999"
+   }, 
+   "institution_l2": "Lehrstuhl f\u00fcr Pers\u00f6nlichkeitspsychologie", 
+   "institution_l1": {
+    "city": "Bamberg", 
+    "name": "Lehrstuhl Psychologie IV Pers\u00f6nlichkeitspsychologie"
+   }, 
+   "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+   "sofis_id": 7430, 
+   "activity": "Universit\u00e4t Bamberg"
+  }, 
+  {
+   "function": "Promotion", 
+   "span": {
+    "to": null, 
+    "from": "2000"
+   }, 
+   "institution_l2": "Lehrstuhl f\u00fcr Pers\u00f6nlichkeitspsychologie", 
+   "institution_l1": {
+    "city": "Bamberg", 
+    "name": "Lehrstuhl Psychologie IV Pers\u00f6nlichkeitspsychologie"
+   }, 
+   "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+   "sofis_id": 7430, 
+   "activity": "Universit\u00e4t Bamberg"
+  }, 
+  {
+   "function": "Habilitation", 
+   "span": {
+    "to": null, 
+    "from": "2006"
+   }, 
+   "institution_l2": "Lehrstuhl f\u00fcr Pers\u00f6nlichkeitspsychologie", 
+   "institution_l1": {
+    "city": "Bamberg", 
+    "name": "Lehrstuhl Psychologie IV Pers\u00f6nlichkeitspsychologie"
+   }, 
+   "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+   "sofis_id": 7430, 
+   "activity": "Universit\u00e4t Bamberg"
+  }, 
+  {
+   "function": "Akademischer Oberrat", 
+   "span": {
+    "to": "2007", 
+    "from": "2006"
+   }, 
+   "institution_l2": "Lehrstuhl f\u00fcr Pers\u00f6nlichkeitspsychologie", 
+   "institution_l1": {
+    "city": "Bamberg", 
+    "name": "Lehrstuhl Psychologie IV Pers\u00f6nlichkeitspsychologie"
+   }, 
+   "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+   "sofis_id": 7430, 
+   "activity": "Universit\u00e4t Bamberg"
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": "1993", 
+    "from": "1987"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Bamberg", 
+    "name": "Otto-Friedrich-Universit\u00e4t Bamberg"
+   }, 
+   "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+   "sofis_id": 3295, 
+   "activity": "Universit\u00e4t Bamberg"
+  }, 
+  {
+   "function": "Gastwissenschaftler DFG-Forschungsgruppe \"Neue Medien\"", 
+   "span": {
+    "to": "2003", 
+    "from": "2003"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Chemnitz", 
+    "name": "Technische Universit\u00e4t Chemnitz"
+   }, 
+   "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+   "sofis_id": 12792, 
+   "activity": "TU Chemnitz"
+  }, 
+  {
+   "function": "Gastwissenschaftler DFG-Forschungsgruppe \"Neue Medien\"", 
+   "span": {
+    "to": "2005", 
+    "from": "2004"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Chemnitz", 
+    "name": "Technische Universit\u00e4t Chemnitz"
+   }, 
+   "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+   "sofis_id": 12792, 
+   "activity": "TU Chemnitz"
+  }, 
+  {
+   "function": "Professor", 
+   "span": {
+    "to": null, 
+    "from": "2013"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Neubiberg", 
+    "name": "Universit\u00e4t der Bundeswehr M\u00fcnchen"
+   }, 
+   "source": "Universit\u00e4t der Bundeswehr M\u00fcnchen", 
+   "sofis_id": 3305, 
+   "activity": "Universit\u00e4t der Bundeswehr M\u00fcnchen"
+  }
+ ], 
+ "Korflesch, Harald F.O. von ": [
+  {
+   "function": "Assistant Professor / Senior Lecturer / Project Manager", 
+   "span": {
+    "to": "2003", 
+    "from": "1994"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Kassel", 
+    "name": "Universit\u00e4t Kassel"
+   }, 
+   "source": "Universit\u00e4t Koblenz-Landau", 
+   "sofis_id": 1308, 
+   "activity": "Universit\u00e4t Kassel "
+  }, 
+  {
+   "function": "Education", 
+   "span": {
+    "to": null, 
+    "from": "2003"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Kassel", 
+    "name": "Universit\u00e4t Kassel"
+   }, 
+   "source": "Universit\u00e4t Koblenz-Landau", 
+   "sofis_id": 1308, 
+   "activity": "Universit\u00e4t Kassel "
+  }, 
+  {
+   "function": "Locum Professor for Information Management", 
+   "span": {
+    "to": "2007", 
+    "from": "2003"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Koblenz", 
+    "name": "Universit\u00e4t Koblenz-Landau Campus Koblenz"
+   }, 
+   "source": "Universit\u00e4t Koblenz-Landau", 
+   "sofis_id": 1045, 
+   "activity": "Universit\u00e4t Koblenz-Landau"
+  }, 
+  {
+   "function": "Professor for the Management of Information, Innovation, Entrepreneurship and Organization", 
+   "span": {
+    "to": null, 
+    "from": "2007"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Koblenz", 
+    "name": "Universit\u00e4t Koblenz-Landau Campus Koblenz"
+   }, 
+   "source": "Universit\u00e4t Koblenz-Landau", 
+   "sofis_id": 1045, 
+   "activity": "Universit\u00e4t Koblenz-Landau"
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": null, 
+    "from": "1987"
+   }, 
+   "institution_l2": "Wirtschafts- und Sozialwissenschaftliche Fakult\u00e4t", 
+   "institution_l1": {
+    "city": "K\u00f6ln", 
+    "name": "Wirtschafts- und Sozialwissenschaftliche Fakult\u00e4t"
+   }, 
+   "source": "Universit\u00e4t Koblenz-Landau", 
+   "sofis_id": 9329, 
+   "activity": "Universit\u00e4t zu K\u00f6ln"
+  }, 
+  {
+   "function": "Research Associate and Assistant to the Owner of the Chair in Administrative and Academic Affaires", 
+   "span": {
+    "to": "1993", 
+    "from": "1988"
+   }, 
+   "institution_l2": "Wirtschafts- und Sozialwissenschaftliche Fakult\u00e4t", 
+   "institution_l1": {
+    "city": "K\u00f6ln", 
+    "name": "Wirtschafts- und Sozialwissenschaftliche Fakult\u00e4t"
+   }, 
+   "source": "Universit\u00e4t Koblenz-Landau", 
+   "sofis_id": 9329, 
+   "activity": "Universit\u00e4t zu K\u00f6ln"
+  }, 
+  {
+   "function": "Education", 
+   "span": {
+    "to": null, 
+    "from": "1993"
+   }, 
+   "institution_l2": "Wirtschafts- und Sozialwissenschaftliche Fakult\u00e4t", 
+   "institution_l1": {
+    "city": "K\u00f6ln", 
+    "name": "Wirtschafts- und Sozialwissenschaftliche Fakult\u00e4t"
+   }, 
+   "source": "Universit\u00e4t Koblenz-Landau", 
+   "sofis_id": 9329, 
+   "activity": "Universit\u00e4t zu K\u00f6ln"
+  }, 
+  {
+   "function": "Senior Researcher and Project Manager", 
+   "span": {
+    "to": "2003", 
+    "from": "1998"
+   }, 
+   "institution_l2": "Wirtschafts- und Sozialwissenschaftliche Fakult\u00e4t", 
+   "institution_l1": {
+    "city": "K\u00f6ln", 
+    "name": "Wirtschafts- und Sozialwissenschaftliche Fakult\u00e4t"
+   }, 
+   "source": "Universit\u00e4t Koblenz-Landau", 
+   "sofis_id": 9329, 
+   "activity": "Universit\u00e4t zu K\u00f6ln"
+  }
+ ], 
+ "Hochman, Oshrat": [
+  {
+   "function": "Scientific Director", 
+   "span": {
+    "to": null, 
+    "from": "2015"
+   }, 
+   "institution_l2": "Abteilung Dauerbeobachtung der Gesellschaft", 
+   "institution_l1": {
+    "city": "K\u00f6ln", 
+    "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften Abt. Dauerbeobachtung der Gesellschaft, Kompetenzzentrum Frauen in Wissenschaft und Forschung"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 150, 
+   "activity": "GESIS Leibniz-Institut fur Sozialwissenschaften in Koln:\u00a0Koln,\u00a0Nordrhein-Westfalen,\u00a0Germany"
+  }, 
+  {
+   "function": "Lecturer & Researcher", 
+   "span": {
+    "to": "2015", 
+    "from": "2012"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "linkedin", 
+   "sofis_id": null, 
+   "activity": "Ruppin Academic Center"
+  }, 
+  {
+   "function": "Post Doctorate", 
+   "span": {
+    "to": "2012", 
+    "from": "2011"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Tel Aviv", 
+    "name": "Tel Aviv University"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 3203, 
+   "activity": "Tel Aviv University "
+  }, 
+  {
+   "function": "PhD", 
+   "span": {
+    "to": "2010", 
+    "from": "2007"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Universit\u00e4t Mannheim"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 3337, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Studium ", 
+   "span": null, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Haifa", 
+    "name": "University of Haifa"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 14973, 
+   "activity": "University of Haifa"
+  }
+ ], 
+ "Depping, Ralf": [
+  {
+   "function": " Referendariat f\u00fcr den h\u00f6heren Bibliotheksdienst", 
+   "span": {
+    "to": "1992", 
+    "from": "1990"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "K\u00f6ln", 
+    "name": "Fachhochschule K\u00f6ln"
+   }, 
+   "source": "https://www.ub.uni-koeln.de/bibliothek/kontakt/personal/depping/index_ger.html", 
+   "sofis_id": 1075, 
+   "activity": "FH K\u00f6ln"
+  }, 
+  {
+   "function": "Studium Soziologie, Publizistik und Philosophie ", 
+   "span": {
+    "to": "1988", 
+    "from": "1983"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "G\u00f6ttingen", 
+    "name": "Georg-August-Universit\u00e4t G\u00f6ttingen"
+   }, 
+   "source": "https://www.ub.uni-koeln.de/bibliothek/kontakt/personal/depping/index_ger.html", 
+   "sofis_id": 9292, 
+   "activity": "Universit\u00e4t G\u00f6ttingen"
+  }, 
+  {
+   "function": "Buchhandelslehre", 
+   "span": {
+    "to": "1983", 
+    "from": "1981"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "https://www.ub.uni-koeln.de/bibliothek/kontakt/personal/depping/index_ger.html", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "Verlagst\u00e4tigkeit", 
+   "span": {
+    "to": "1990", 
+    "from": "1989"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "https://www.ub.uni-koeln.de/bibliothek/kontakt/personal/depping/index_ger.html", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "Fachreferent Jura", 
+   "span": {
+    "to": "1994", 
+    "from": "1993"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "USB K\u00f6ln"
+   }, 
+   "source": "https://www.ub.uni-koeln.de/bibliothek/kontakt/personal/depping/index_ger.html", 
+   "sofis_id": 727529, 
+   "activity": "USB K\u00f6ln"
+  }, 
+  {
+   "function": "Fachreferent BWL", 
+   "span": {
+    "to": "2013", 
+    "from": "1994"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "USB K\u00f6ln"
+   }, 
+   "source": "https://www.ub.uni-koeln.de/bibliothek/kontakt/personal/depping/index_ger.html", 
+   "sofis_id": 727529, 
+   "activity": "USB K\u00f6ln"
+  }, 
+  {
+   "function": " Fachreferent Soziologie", 
+   "span": {
+    "to": "2015", 
+    "from": "2013"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "USB K\u00f6ln"
+   }, 
+   "source": "https://www.ub.uni-koeln.de/bibliothek/kontakt/personal/depping/index_ger.html", 
+   "sofis_id": 727529, 
+   "activity": "USB K\u00f6ln"
+  }, 
+  {
+   "function": "Dezernent f\u00fcr dezentrale und assoziierte Bibliotheken", 
+   "span": {
+    "to": "2006", 
+    "from": "2000"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "USB K\u00f6ln"
+   }, 
+   "source": "https://www.ub.uni-koeln.de/bibliothek/kontakt/personal/depping/index_ger.html", 
+   "sofis_id": 727529, 
+   "activity": "USB K\u00f6ln"
+  }, 
+  {
+   "function": "Dezernent f\u00fcr Benutzung", 
+   "span": {
+    "to": null, 
+    "from": "2006"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "USB K\u00f6ln"
+   }, 
+   "source": "https://www.ub.uni-koeln.de/bibliothek/kontakt/personal/depping/index_ger.html", 
+   "sofis_id": 727529, 
+   "activity": "USB K\u00f6ln"
+  }, 
+  {
+   "function": "Leiter Stabsstelle Forschung und Entwicklung", 
+   "span": {
+    "to": null, 
+    "from": "2015"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "USB K\u00f6ln"
+   }, 
+   "source": "https://www.ub.uni-koeln.de/bibliothek/kontakt/personal/depping/index_ger.html", 
+   "sofis_id": 727529, 
+   "activity": "USB K\u00f6ln"
+  }
+ ], 
+ "Petras, Vivien": [
+  {
+   "function": "Studium ", 
+   "span": {
+    "to": "2001", 
+    "from": "1995"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Berlin", 
+    "name": "Humboldt-Universit\u00e4t Berlin"
+   }, 
+   "source": "Berkely Student Homepage", 
+   "sofis_id": 12708, 
+   "activity": "Humboldt-Universit\u00e4t Berlin"
+  }, 
+  {
+   "function": "Studium ", 
+   "span": {
+    "to": "2001", 
+    "from": "1999"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Berlin", 
+    "name": "Humboldt-Universit\u00e4t Berlin"
+   }, 
+   "source": "Berkely Student Homepage", 
+   "sofis_id": 12708, 
+   "activity": "Humboldt-Universit\u00e4t Berlin"
+  }, 
+  {
+   "function": "Assitant Professor", 
+   "span": {
+    "to": "2010", 
+    "from": "2009"
+   }, 
+   "institution_l2": "Institut f\u00fcr Bibliotheks- und Informationswissenschaft", 
+   "institution_l1": {
+    "city": "Berlin", 
+    "name": "Institut f\u00fcr Bibliotheks- und Informationswissenschaft"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 16367, 
+   "activity": "Humboldt-Universit\u00e4t Berlin"
+  }, 
+  {
+   "function": "Professorin f\u00fcr Information Retrieval Institut f\u00fcr Bibliotheks- und Informationswissenschaft", 
+   "span": {
+    "to": null, 
+    "from": "2012"
+   }, 
+   "institution_l2": "Institut f\u00fcr Bibliotheks- und Informationswissenschaft", 
+   "institution_l1": {
+    "city": "Berlin", 
+    "name": "Institut f\u00fcr Bibliotheks- und Informationswissenschaft"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 16367, 
+   "activity": "Humboldt-Universit\u00e4t Berlin"
+  }, 
+  {
+   "function": "Studium ", 
+   "span": {
+    "to": "2006", 
+    "from": "2001"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Berkeley", 
+    "name": "University of California Berkeley"
+   }, 
+   "source": "linkedin", 
+   "sofis_id": 3269, 
+   "activity": "University of California, Berkeley"
+  }
+ ], 
+ "Rittberger, Marc": [
+  {
+   "function": "Aufbaustudium", 
+   "span": {
+    "to": "1989", 
+    "from": "1988"
+   }, 
+   "institution_l2": "Information Retrieval", 
+   "institution_l1": {
+    "city": null, 
+    "name": " Universit\u00e4t Konstanz"
+   }, 
+   "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+   "sofis_id": 3332, 
+   "activity": " Universit\u00e4t Konstanz"
+  }, 
+  {
+   "function": "Mitarbeiter", 
+   "span": {
+    "to": "1994", 
+    "from": "1989"
+   }, 
+   "institution_l2": "Lehrstuhl Informationswissenschaft", 
+   "institution_l1": {
+    "city": null, 
+    "name": " Universit\u00e4t Konstanz"
+   }, 
+   "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+   "sofis_id": 3332, 
+   "activity": "Universit\u00e4t Konstanz"
+  }, 
+  {
+   "function": "Professur ", 
+   "span": {
+    "to": null, 
+    "from": "2005"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Frankfurt am Main", 
+    "name": "Deutsches Institut f\u00fcr Internationale P\u00e4dagogische Forschung"
+   }, 
+   "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+   "sofis_id": 14314, 
+   "activity": " DIPF"
+  }, 
+  {
+   "function": "Direktor ", 
+   "span": {
+    "to": null, 
+    "from": "2005"
+   }, 
+   "institution_l2": " Informationszentrum Bildung", 
+   "institution_l1": {
+    "city": "Frankfurt am Main", 
+    "name": "Deutsches Institut f\u00fcr Internationale P\u00e4dagogische Forschung"
+   }, 
+   "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+   "sofis_id": 14314, 
+   "activity": "DIPF"
+  }, 
+  {
+   "function": "Gesch\u00e4ftsf\u00fchrender Direktor", 
+   "span": {
+    "to": "2012", 
+    "from": "2008"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Frankfurt am Main", 
+    "name": "Deutsches Institut f\u00fcr Internationale P\u00e4dagogische Forschung"
+   }, 
+   "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+   "sofis_id": 14314, 
+   "activity": "DIPF"
+  }, 
+  {
+   "function": "Stellvertretender Gesch\u00e4ftsf\u00fchrender Direktor", 
+   "span": {
+    "to": null, 
+    "from": "2012"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Frankfurt am Main", 
+    "name": "Deutsches Institut f\u00fcr Internationale P\u00e4dagogische Forschung"
+   }, 
+   "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+   "sofis_id": 14314, 
+   "activity": "DIPF"
+  }, 
+  {
+   "function": "Promotion", 
+   "span": {
+    "to": null, 
+    "from": "1995"
+   }, 
+   "institution_l2": "Lehrstuhl Informationswissenschaft", 
+   "institution_l1": {
+    "city": "Konstanz", 
+    "name": "Fachbereich Informatik und Informationswissenschaft\r\nUniversit\u00e4t Konstanz"
+   }, 
+   "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+   "sofis_id": 727907, 
+   "activity": "Universit\u00e4t Konstanz"
+  }, 
+  {
+   "function": "Assistent ", 
+   "span": {
+    "to": "2001", 
+    "from": "1995"
+   }, 
+   "institution_l2": "Lehrstuhl Informationswissenschaft", 
+   "institution_l1": {
+    "city": "Konstanz", 
+    "name": "Fachbereich Informatik und Informationswissenschaft\r\nUniversit\u00e4t Konstanz"
+   }, 
+   "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+   "sofis_id": 727907, 
+   "activity": "Universit\u00e4t Konstanz"
+  }, 
+  {
+   "function": "Professur ", 
+   "span": {
+    "to": "2005", 
+    "from": "2002"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Haute \u00e9cole de Gen\u00e8ve -HEG- Haute \u00e9cole de travail social -HETS-"
+   }, 
+   "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+   "sofis_id": 27768, 
+   "activity": "HEG Gen\u00e8ve"
+  }, 
+  {
+   "function": "Professur ", 
+   "span": {
+    "to": null, 
+    "from": "2005"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Hochschule Darmstadt"
+   }, 
+   "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+   "sofis_id": 1058, 
+   "activity": "Hochschule Darmstadt"
+  }, 
+  {
+   "function": "Lehrstuhlvertretung ", 
+   "span": {
+    "to": "2002", 
+    "from": "2001"
+   }, 
+   "institution_l2": "Informationswissenschaft ", 
+   "institution_l1": {
+    "city": "D\u00fcsseldorf", 
+    "name": "Institut f\u00fcr Sprache und Information Abt. f\u00fcr Informationswissenschaft\r\nPhilosophische Fakult\u00e4t"
+   }, 
+   "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+   "sofis_id": 27015, 
+   "activity": " Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf"
+  }, 
+  {
+   "function": "Studium", 
+   "span": {
+    "to": "1988", 
+    "from": "1981"
+   }, 
+   "institution_l2": "Theoretische Kernphysik", 
+   "institution_l1": {
+    "city": "Karlsruhe", 
+    "name": "Karlsruher Institut f\u00fcr Technologie"
+   }, 
+   "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+   "sofis_id": 70055, 
+   "activity": " Universit\u00e4t Karlsruhe (TH)"
+  }, 
+  {
+   "function": "Stellvertretender Sprecher", 
+   "span": {
+    "to": null, 
+    "from": "2015"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+   "sofis_id": null, 
+   "activity": "Forschungsverbundes Science 2.0"
+  }, 
+  {
+   "function": "Leiter ", 
+   "span": {
+    "to": "2002", 
+    "from": "2000"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Stuttgart", 
+    "name": "Steinbeis-Transferzentrum Angewandte Systemanalyse -STASA-"
+   }, 
+   "source": "https://www.dipf.de/de/institut/personen/rittberger-marc", 
+   "sofis_id": 26482, 
+   "activity": "Steinbeis-Transferzentrum IMIE"
+  }
+ ], 
+ "Jann, Ben": [
+  {
+   "function": "Student research assistant of Prof. Dr. Ruth Meyer Schweizer", 
+   "span": {
+    "to": "1996", 
+    "from": "1996"
+   }, 
+   "institution_l2": "Institute of Sociology", 
+   "institution_l1": {
+    "city": "Bern", 
+    "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 8563, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Research assistant", 
+   "span": {
+    "to": "2002", 
+    "from": "1997"
+   }, 
+   "institution_l2": "Institute of Sociology", 
+   "institution_l1": {
+    "city": "Bern", 
+    "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 8563, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Scientific assistant of Prof. Dr. Andreas Diekmann", 
+   "span": {
+    "to": "2003", 
+    "from": "1998"
+   }, 
+   "institution_l2": "Institute of Sociology", 
+   "institution_l1": {
+    "city": "Bern", 
+    "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 8563, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Member of the search committee for the Professorship in Political Science", 
+   "span": {
+    "to": "2011", 
+    "from": "2011"
+   }, 
+   "institution_l2": "Area: political sociology", 
+   "institution_l1": {
+    "city": "Bern", 
+    "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 8563, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "\u201evonRoll Jour fix\u201c representative", 
+   "span": {
+    "to": "2013", 
+    "from": "2011"
+   }, 
+   "institution_l2": "Department of Social Sciences", 
+   "institution_l1": {
+    "city": "Bern", 
+    "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 8563, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "President of the search committee for the Professorship in Social Sciences", 
+   "span": {
+    "to": "2012", 
+    "from": "2012"
+   }, 
+   "institution_l2": "Domain: Sustainable Social Development", 
+   "institution_l1": {
+    "city": "Bern", 
+    "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 8563, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Managing director", 
+   "span": {
+    "to": "2014", 
+    "from": "2012"
+   }, 
+   "institution_l2": "Institute of Sociology", 
+   "institution_l1": {
+    "city": "Bern", 
+    "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 8563, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Vice managing director", 
+   "span": {
+    "to": "2014", 
+    "from": "2011"
+   }, 
+   "institution_l2": "Department of Social Sciences", 
+   "institution_l1": {
+    "city": "Bern", 
+    "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 8563, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Managing director", 
+   "span": {
+    "to": "2016", 
+    "from": "2014"
+   }, 
+   "institution_l2": "Department of Social Sciences", 
+   "institution_l1": {
+    "city": "Bern", 
+    "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 8563, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Representative of the Faculty of Business, Economics and Social Sciences in the task group \u201cBologna II\u201d", 
+   "span": {
+    "to": null, 
+    "from": "2011"
+   }, 
+   "institution_l2": "Faculty of Business, Economics and Social Sciences", 
+   "institution_l1": {
+    "city": "Bern", 
+    "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 8563, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Representative of the Faculty of Business, Economics and Social Sciences in the committee for the Theodor-Kocher-Prize", 
+   "span": {
+    "to": null, 
+    "from": "2011"
+   }, 
+   "institution_l2": "Faculty of Business, Economics and Social Sciences", 
+   "institution_l1": {
+    "city": "Bern", 
+    "name": "Department Sozialwissenschaften Institut f\u00fcr Soziologie"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 8563, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Vice president of the section on \u201cModellbildung und Simulation\u201d", 
+   "span": {
+    "to": "2010", 
+    "from": "2000"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Deutsche Gesellschaft f\u00fcr Soziologie"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 9611, 
+   "activity": "German Sociological Association"
+  }, 
+  {
+   "function": "President of the section on \u201cModellbildung und Simulation\u201d", 
+   "span": {
+    "to": "2014", 
+    "from": "2010"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Deutsche Gesellschaft f\u00fcr Soziologie"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 9611, 
+   "activity": "German Sociological Association"
+  }, 
+  {
+   "function": "Doktorand", 
+   "span": {
+    "to": "2008", 
+    "from": "2006"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "ETH Z\u00fcrich"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 3354, 
+   "activity": "ETH Z\u00fcrich"
+  }, 
+  {
+   "function": "Scientific assistant of Prof. Dr. Andreas Diekmann", 
+   "span": {
+    "to": "2010", 
+    "from": "2003"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "ETH Z\u00fcrich"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 3354, 
+   "activity": "ETH Z\u00fcrich"
+  }, 
+  {
+   "function": "Representative of mid-level faculty in the education committee (Unterrichtskommission)", 
+   "span": {
+    "to": "2010", 
+    "from": "2006"
+   }, 
+   "institution_l2": "Department of Humanities, Social and Political Sciences", 
+   "institution_l1": {
+    "city": null, 
+    "name": "ETH Z\u00fcrich"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 3354, 
+   "activity": "ETH Z\u00fcrich"
+  }, 
+  {
+   "function": "Representative of mid-level faculty in the department meetings (Departementskonferenz)", 
+   "span": {
+    "to": "2010", 
+    "from": "2007"
+   }, 
+   "institution_l2": "Department of Humanities, Social and Political Sciences", 
+   "institution_l1": {
+    "city": null, 
+    "name": "ETH Z\u00fcrich"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 3354, 
+   "activity": "ETH Z\u00fcrich"
+  }, 
+  {
+   "function": "Member of the expert panel \u201eSystem der Haushalts- und Personenerhebungen\u201c\r\n(SHAPE)", 
+   "span": {
+    "to": "2008", 
+    "from": "2006"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": null, 
+   "activity": "Swiss Federal Statistical Office"
+  }, 
+  {
+   "function": "Member of the editorial board of the The Stata Journal", 
+   "span": {
+    "to": null, 
+    "from": "2005"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": null, 
+   "activity": "The Stata Journal"
+  }, 
+  {
+   "function": "Member of the editorial committee of the Swiss Journal of Sociology", 
+   "span": {
+    "to": null, 
+    "from": "2007"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": null, 
+   "activity": "Swiss Journal of Sociology"
+  }, 
+  {
+   "function": "Member of the scientific advisory board for the Master of Science in\r\nVocational Education and Training", 
+   "span": {
+    "to": null, 
+    "from": "2011"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": null, 
+   "activity": "Swiss Federal Institute for Vocational\nEducation and Training (SFIVET)"
+  }, 
+  {
+   "function": "Member of the editorial board of Survey Methods: Insights from the\r\nField", 
+   "span": {
+    "to": null, 
+    "from": "2012"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": null, 
+   "activity": "Methods: Insights from the\r\nField."
+  }, 
+  {
+   "function": "Member of the executive committee", 
+   "span": {
+    "to": null, 
+    "from": "2013"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": null, 
+   "activity": "Swiss Sociological Association"
+  }, 
+  {
+   "function": "Vice president", 
+   "span": {
+    "to": null, 
+    "from": "2013"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": null, 
+   "activity": "Swiss Sociological Association"
+  }, 
+  {
+   "function": "Member of the Board of Trustees", 
+   "span": {
+    "to": null, 
+    "from": "2016"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": null, 
+   "activity": "GESIS \u2013 Leibniz Institute for the\r\nSocial Sciences"
+  }, 
+  {
+   "function": "President of the expert panel on social statistics", 
+   "span": {
+    "to": null, 
+    "from": "2017"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": null, 
+   "activity": "Swiss Federal\nStatistical Offce"
+  }, 
+  {
+   "function": "Discussant/Co-organizer of the symposium \u201cBildungsmonitoring 2\u201d at the Annual Conferenceof the Swiss Society for Research in Education (SSRE) in Lausanne", 
+   "span": {
+    "to": null, 
+    "from": "2016"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": null, 
+   "activity": "Swiss Society for Research in Education (SSRE)"
+  }, 
+  {
+   "function": "Member of the International Board of Reviewers of the General Online Research Conference 2016 (GOR 16) in Dresden", 
+   "span": {
+    "to": null, 
+    "from": "2016"
+   }, 
+   "institution_l2": "International Board of Reviewers (?)", 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": null, 
+   "activity": "General Online Research "
+  }, 
+  {
+   "function": "Funded projects ", 
+   "span": {
+    "to": "2016", 
+    "from": "2015"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": null, 
+   "span": null, 
+   "institution_l2": "Soziologie, Methoden, Statistik", 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Bern"
+   }, 
+   "source": "Google Scholar", 
+   "sofis_id": 3299, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Studium ", 
+   "span": {
+    "to": "1998", 
+    "from": "1993"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Bern"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 3299, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Doktorand", 
+   "span": {
+    "to": "2005", 
+    "from": "1998"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Bern"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 3299, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Training course \u201cLehr- und Fachvortr\u00e4ge\u201d", 
+   "span": {
+    "to": null, 
+    "from": "2012"
+   }, 
+   "institution_l2": "Centre for University Continuing Education", 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Bern"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 3299, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Training course \u201cGrundlagen der Hochschuldidaktik", 
+   "span": {
+    "to": "2014", 
+    "from": "2013"
+   }, 
+   "institution_l2": "Centre for University Continuing Education", 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Bern"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 3299, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Assistant Professor (with tenure track) for Sociology, in particular for Social Stratification ", 
+   "span": {
+    "to": "2011", 
+    "from": "2010"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Bern"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 3299, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Associate Professor for Sociology, in particular for Social Stratification", 
+   "span": {
+    "to": "2014", 
+    "from": "2011"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Bern"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 3299, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Professor for Sociology, in particular for Social Stratification", 
+   "span": {
+    "to": null, 
+    "from": "2014"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Bern"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 3299, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Vice president of the \u201cHauskommission vonRoll\u201d", 
+   "span": {
+    "to": "2015", 
+    "from": "2013"
+   }, 
+   "institution_l2": "\u201cHauskommission vonRoll\u201d", 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Bern"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 3299, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Representative of the Department of Social Sciences in the the \u201cHauskommission vonRoll\u201d", 
+   "span": {
+    "to": "2016", 
+    "from": "2013"
+   }, 
+   "institution_l2": "\u201cHauskommission vonRoll\u201d", 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Bern"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 3299, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Member of the board", 
+   "span": {
+    "to": null, 
+    "from": "2014"
+   }, 
+   "institution_l2": "Centre for Development and Environment (CDE)", 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Bern"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 3299, 
+   "activity": "Universit\u00e4t Bern"
+  }, 
+  {
+   "function": "Interim Professor for Sociology and Methodology", 
+   "span": {
+    "to": "2010", 
+    "from": "2010"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Leipzig"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 12411, 
+   "activity": "Universit\u00e4t Leipzig"
+  }, 
+  {
+   "function": "Offer of a W3 Professorship in Sociology and Methodology", 
+   "span": {
+    "to": null, 
+    "from": "2010"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Leipzig"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 12411, 
+   "activity": "Universit\u00e4t Leipzig"
+  }, 
+  {
+   "function": "Offer of a W2 Professorship in Social Science Research Methods and Social Structure Analysis", 
+   "span": {
+    "to": null, 
+    "from": "2010"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Universit\u00e4t Osnabrueck"
+   }, 
+   "source": "Universit\u00e4t Bern", 
+   "sofis_id": 30308, 
+   "activity": "Universit\u00e4t Osnabrueck"
+  }
+ ], 
+ "J\u00e4ckle, Annette": [
+  {
+   "function": "Employment \r", 
+   "span": {
+    "to": "2016", 
+    "from": "2016"
+   }, 
+   "institution_l2": "Department of History and Sociology", 
+   "institution_l1": {
+    "city": "Konstanz", 
+    "name": "FB Geschichte und Soziologie Fach Soziologie\r\nGeisteswissenschaftliche Sektion"
+   }, 
+   "source": "https://www.iser.essex.ac.uk/people/aejack", 
+   "sofis_id": 5581, 
+   "activity": "University of Konstanz"
+  }, 
+  {
+   "function": "Professional Service ", 
+   "span": {
+    "to": null, 
+    "from": "2016"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+   }, 
+   "source": "https://www.iser.essex.ac.uk/people/aejack", 
+   "sofis_id": 10581, 
+   "activity": " GESIS-Leibniz Institute\nfor the Social Sciences"
+  }, 
+  {
+   "function": "Education", 
+   "span": {
+    "to": "2000", 
+    "from": "1996"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "https://www.iser.essex.ac.uk/people/aejack", 
+   "sofis_id": null, 
+   "activity": " Fachhochschule Regensburg"
+  }, 
+  {
+   "function": "Education", 
+   "span": {
+    "to": "2000", 
+    "from": "1996"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "https://www.iser.essex.ac.uk/people/aejack", 
+   "sofis_id": null, 
+   "activity": "Sup de Co La Rochelle, France "
+  }, 
+  {
+   "function": "Professional Service ", 
+   "span": {
+    "to": null, 
+    "from": "2007"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "https://www.iser.essex.ac.uk/people/aejack", 
+   "sofis_id": null, 
+   "activity": null
+  }, 
+  {
+   "function": "Professional Service ", 
+   "span": {
+    "to": null, 
+    "from": "2017"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": null, 
+   "source": "https://www.iser.essex.ac.uk/people/aejack", 
+   "sofis_id": null, 
+   "activity": "U.S. National Academy of Sciences"
+  }, 
+  {
+   "function": "Professional Service ", 
+   "span": {
+    "to": null, 
+    "from": "2017"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "Statistics Sweden, Stockholm"
+   }, 
+   "source": "https://www.iser.essex.ac.uk/people/aejack", 
+   "sofis_id": 727466, 
+   "activity": " Scientific Advisory Board of Statistics Sweden "
+  }, 
+  {
+   "function": "Education", 
+   "span": {
+    "to": "2001", 
+    "from": "2000"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Essex Colchester"
+   }, 
+   "source": "https://www.iser.essex.ac.uk/people/aejack", 
+   "sofis_id": 12141, 
+   "activity": "University of Essex"
+  }, 
+  {
+   "function": "Education", 
+   "span": {
+    "to": "2002", 
+    "from": "2001"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Essex Colchester"
+   }, 
+   "source": "https://www.iser.essex.ac.uk/people/aejack", 
+   "sofis_id": 12141, 
+   "activity": "University of Essex "
+  }, 
+  {
+   "function": "Education", 
+   "span": {
+    "to": "2008", 
+    "from": "2003"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Essex Colchester"
+   }, 
+   "source": "https://www.iser.essex.ac.uk/people/aejack", 
+   "sofis_id": 12141, 
+   "activity": "University of Essex "
+  }, 
+  {
+   "function": "Employment \r", 
+   "span": {
+    "to": "2007", 
+    "from": "2003"
+   }, 
+   "institution_l2": "ISER", 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Essex Colchester"
+   }, 
+   "source": "https://www.iser.essex.ac.uk/people/aejack", 
+   "sofis_id": 12141, 
+   "activity": " University of Essex"
+  }, 
+  {
+   "function": "Employment \r", 
+   "span": {
+    "to": "2012", 
+    "from": "2007"
+   }, 
+   "institution_l2": "ISER", 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Essex Colchester"
+   }, 
+   "source": "https://www.iser.essex.ac.uk/people/aejack", 
+   "sofis_id": 12141, 
+   "activity": " University of Essex"
+  }, 
+  {
+   "function": "Employment \r", 
+   "span": {
+    "to": null, 
+    "from": "2011"
+   }, 
+   "institution_l2": "ISER", 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Essex Colchester"
+   }, 
+   "source": "https://www.iser.essex.ac.uk/people/aejack", 
+   "sofis_id": 12141, 
+   "activity": " University of Essex"
+  }, 
+  {
+   "function": "Employment \r", 
+   "span": {
+    "to": "2016", 
+    "from": "2012"
+   }, 
+   "institution_l2": "ISER", 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Essex Colchester"
+   }, 
+   "source": "https://www.iser.essex.ac.uk/people/aejack", 
+   "sofis_id": 12141, 
+   "activity": " University of Essex"
+  }, 
+  {
+   "function": "Employment \r", 
+   "span": {
+    "to": null, 
+    "from": "2015"
+   }, 
+   "institution_l2": "ISER", 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Essex Colchester"
+   }, 
+   "source": "https://www.iser.essex.ac.uk/people/aejack", 
+   "sofis_id": 12141, 
+   "activity": " University of Essex"
+  }, 
+  {
+   "function": "Employment \r", 
+   "span": {
+    "to": null, 
+    "from": "2016"
+   }, 
+   "institution_l2": "ISER", 
+   "institution_l1": {
+    "city": null, 
+    "name": "University of Essex Colchester"
+   }, 
+   "source": "https://www.iser.essex.ac.uk/people/aejack", 
+   "sofis_id": 12141, 
+   "activity": " University of Essex"
+  }
+ ], 
+ "Wolf, Christoph": [
+  {
+   "function": "Education", 
+   "span": {
+    "to": null, 
+    "from": "1996"
+   }, 
+   "institution_l2": "Forschungsinstitut f\u00fcr Soziologie", 
+   "institution_l1": {
+    "city": "K\u00f6ln", 
+    "name": "Forschungsinstitut f\u00fcr Soziologie"
+   }, 
+   "source": "ORCID", 
+   "sofis_id": 4711, 
+   "activity": "Universit\u00e4t zu K\u00f6ln:\u00a0Koln,\u00a0Nordrhein-Westfalen,\u00a0Germany"
+  }, 
+  {
+   "function": "Employment", 
+   "span": {
+    "to": null, 
+    "from": "2004"
+   }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften"
+   }, 
+   "source": "ORCID", 
+   "sofis_id": 10581, 
+   "activity": "GESIS Leibniz Institut f\u00fcr Sozialwissenschaften eV:\u00a0Mannheim,\u00a0Baden-W\u00fcrttemberg,\u00a0Germany"
+  }, 
+  {
+   "function": "Abteilungsleiter", 
+   "span": {
+    "to": "2015", 
+    "from": "2004"
+   }, 
+   "institution_l2": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften Abt. Dauerbeobachtung der Gesellschaft (Mannheim)", 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften Abt. Dauerbeobachtung der Gesellschaft"
+   }, 
+   "source": "GESIS", 
+   "sofis_id": 69258, 
+   "activity": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften (Mannheim)"
+  }, 
+  {
+   "function": "Education", 
+   "span": {
+    "to": "1988", 
+    "from": "1983"
+   }, 
+   "institution_l2": "Institut f\u00fcr Soziologie", 
+   "institution_l1": {
+    "city": "Hamburg", 
+    "name": "Institut f\u00fcr Soziologie"
+   }, 
+   "source": "ORCID", 
+   "sofis_id": 9199, 
+   "activity": "Universit\u00e4t Hamburg:\u00a0Hamburg,\u00a0Hamburg,\u00a0Germany"
+  }, 
+  {
+   "function": "Professor f\u00fcr Soziologie", 
+   "span": {
+    "to": null, 
+    "from": "2009"
+   }, 
+   "institution_l2": "Professur f\u00fcr Methoden der empirischen Sozialforschung (Mannheim)", 
+   "institution_l1": {
+    "city": "Mannheim", 
+    "name": "Professur f\u00fcr Methoden der Empirischen Sozialforschung"
+   }, 
+   "source": "GESIS", 
+   "sofis_id": 728487, 
+   "activity": "Universit\u00e4t Mannheim"
+  }, 
+  {
+   "function": "Education", 
+   "span": {
+    "to": null, 
+    "from": "2003"
+   }, 
+   "institution_l2": "Wirtschafts- und Sozialwissenschaftliche Fakult\u00e4t", 
+   "institution_l1": {
+    "city": "K\u00f6ln", 
+    "name": "Wirtschafts- und Sozialwissenschaftliche Fakult\u00e4t"
+   }, 
+   "source": "ORCID", 
+   "sofis_id": 9329, 
+   "activity": "Universit\u00e4t zu K\u00f6ln:\u00a0Koln,\u00a0Nordrhein-Westfalen,\u00a0Germany"
+  }
+ ]
+}

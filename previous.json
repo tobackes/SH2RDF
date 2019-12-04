@@ -1,0 +1,18 @@
+{
+ "Simmel, Georg": [
+  {
+   "function": "Studium", 
+   "span": {
+    "from": 1988
+    }, 
+   "institution_l2": null, 
+   "institution_l1": {
+    "city": "Berlin", 
+    "name": "Humboldt-Universit\u00e4t Berlin"
+   }, 
+   "source": "Wikipedia", 
+   "sofis_id": 12708, 
+   "activity": "Friedrich-Wilhelms-Universit\u00e4t Berlin"
+  }
+ ]
+}
