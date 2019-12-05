@@ -33,14 +33,15 @@ _targets = [
 
 def merge(d, u):
     for k, v in u.iteritems():
+        #TODO: consider adding integers and floats up and giving a warning if strings and then replace with new string
         #if k in d and d[k]!=None and v != None and type(d[k]) != type(v):
         #    print 'WARNING:', d[k], 'and', v, 'have different types! Skipping...';
         #    continue;
-        if isinstance(v, collections.Mapping):
+        if isinstance(v, collections.Mapping) and v != dict():
             d[k] = merge(d.get(k,{}),v);
         elif isinstance(v,set) or isinstance(v,list):
             d[k] = d[k] + v;
-        elif v != None:
+        elif v != None and v != dict():
             d[k] = v;
     return d;
 
@@ -59,7 +60,13 @@ def parse_rows(rows):
 def parse(value,colnum):
     field  = _fields[colnum];
     target = copy(_targets[colnum]);
-    if value in _empty: return target;
+    if value in _empty:
+        if field == 'rowid':
+            target['smart_harvesting']['']['occupations']['']['@id'] = ""; print 'WARNING: ID-relevant field',field,'has empty value',value,'!';
+        elif field == 'name':
+            target['smart_harvesting']['']['@id'] = ""; print 'WARNING: ID-relevant field',field,'has empty value',value,'!';
+        else:
+            return target;
     if field == 'rowid':
         target['smart_harvesting']['']['occupations']['']['@id'] = value;
     elif field == 'name':
@@ -88,6 +95,16 @@ def parse(value,colnum):
         else:
             target['smart_harvesting']['']['occupations']['']['institution_l1']['@id']      = value.replace(' ','_');
             target['smart_harvesting']['']['occupations']['']['institution_l1']['name']     = value;
+    elif field == 'institution_l2':
+        match = re.search(r'\(.+\)',value);
+        if match and is_city(match.group()[1:-1]):
+            span = match.span();
+            target['smart_harvesting']['']['occupations']['']['institution_l2']['@id']      = value[:span[0]].strip().replace(' ','_');
+            target['smart_harvesting']['']['occupations']['']['institution_l2']['location'] = value[span[0]+1:span[1]-1];
+            target['smart_harvesting']['']['occupations']['']['institution_l2']['name']     = value[:span[0]].strip();
+        else:
+            target['smart_harvesting']['']['occupations']['']['institution_l2']['@id']      = value.replace(' ','_');
+            target['smart_harvesting']['']['occupations']['']['institution_l2']['name']     = value;
     return target;
 
 def is_city(string): #TODO: Could even disambiguate with other information extracted #TODO: Should also normalize string with ascii column from DB
