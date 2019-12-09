@@ -1,0 +1,12 @@
+{
+ "smart_harvesting": {
+  "": {
+   "@type": "Person",
+   "occupations": {
+    "": {
+     "@type": "Occupation"
+    }
+   }
+  }
+ }
+}

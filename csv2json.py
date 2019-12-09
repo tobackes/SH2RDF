@@ -15,6 +15,7 @@ _cur_  = _con_.cursor();
 _empty = set([None,'','n','X']);
 
 _context = json.load(open('context.json'));
+_initial = json.load(open('initial.json'));
 
 _fields = ['rowid','name','source','function','activity','span','activity','instiution_l2','institution_l1','sofis_id'];
 
@@ -48,9 +49,12 @@ def merge(d, u):
 def parse_rows(rows):
     D = dict();
     for i in xrange(len(rows)):
-        d = dict();
+        d = copy(_initial);
         for j in xrange(len(rows[i])):
+            print d; print '----------------------------------'; print parse(rows[i][j],j); print '----------------------------------';
             merge(d,parse(rows[i][j],j));
+            print d; print '----------------------------------';
+        print '###############################################';
         person_id, occupa_id                                = d['smart_harvesting']['']['@id'], d['smart_harvesting']['']['occupations']['']['@id'];
         d['smart_harvesting']['']['occupations'][occupa_id] = d['smart_harvesting']['']['occupations'].pop('');
         d['smart_harvesting'][person_id]                    = d['smart_harvesting'].pop('');

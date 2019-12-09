@@ -1,0 +1,24 @@
+{
+ "smart_harvesting": {
+  "": {
+   "@id": null,
+   "@type": "Person",
+   "name": null,
+   "occupations": {
+    "": {
+     "@id": "",
+     "@type": "Occupation",
+     "function": null,
+     "start_date": null,
+     "institution_l1": {
+      "@id": null,
+      "location": null,
+      "name": null
+     },
+     "source": null,
+     "activity": null
+    }
+   }
+  }
+ }
+}
