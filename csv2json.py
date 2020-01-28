@@ -56,8 +56,8 @@ def parse_rows(rows):
             print d; print '----------------------------------';
         print '###############################################';
         person_id, occupa_id                                = d['smart_harvesting']['']['@id'], d['smart_harvesting']['']['occupations']['']['@id'];
-        d['smart_harvesting']['']['occupations'][occupa_id] = d['smart_harvesting']['']['occupations'].pop('');
-        d['smart_harvesting'][person_id]                    = d['smart_harvesting'].pop('');
+        d['smart_harvesting']['']['occupations'][occupa_id] = d['smart_harvesting']['']['occupations'].pop(''); #TODO: Might be more consistent to merge the two instead of replacing
+        d['smart_harvesting'][person_id]                    = d['smart_harvesting'].pop('');                    #TODO: Might be more consistent to merge the two instead of replacing
         merge(D,d);
     return D;
 
