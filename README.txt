@@ -1,3 +1,13 @@
+The purpose of the script csv2json.py is to parse csv table-based input into JSON-LD, which is linked with schema.org schemas.
+
+This is achieved by mapping the information given in each input row to fields in an empty pre-defined json hierarchy (initial.json). Details are explained below.
+
+In the end, a pre-defined context (context.json) is appended to the json to embed the information into the schema.org structure to the extend that this is possible. The result is a JSON-LD file (Klassiker.json...100.json) for each input table (Klassiker.csv...100.csv).
+
+______________________________________________________
+DETAILS:
+______________________________________________________
+
 We are assuming the input data as column based input format.
 
 As a row in a table-based dataset does not contain lists, each row constitutes a minimal piece of information.
